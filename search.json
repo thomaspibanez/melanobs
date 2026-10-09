@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data and protocols",
+    "section": "",
+    "text": "[Common plot protocol, version and link to the PDF.]"
+  },
+  {
+    "objectID": "data.html#protocols",
+    "href": "data.html#protocols",
+    "title": "Data and protocols",
+    "section": "",
+    "text": "[Common plot protocol, version and link to the PDF.]"
+  },
+  {
+    "objectID": "data.html#data-access",
+    "href": "data.html#data-access",
+    "title": "Data and protocols",
+    "section": "Data access",
+    "text": "Data access\n[Data-sharing policy, repository (e.g. Zenodo, GBIF) and who to contact for requests.]"
+  },
+  {
+    "objectID": "fr/publications.html",
+    "href": "fr/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n[Liste des publications du réseau, par année.]"
+  },
+  {
+    "objectID": "fr/sites.html",
+    "href": "fr/sites.html",
+    "title": "Sites",
+    "section": "",
+    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n\n\n\n\n\nSite\nPays\nLatitude\nLongitude\n\n\n\n\nMount Panié (example)\nNew Caledonia\n-20.58\n164.77\n\n\nAoupinié (example)\nNew Caledonia\n-21.17\n165.30\n\n\nEspiritu Santo (example)\nVanuatu\n-15.40\n166.80\n\n\nGuadalcanal (example)\nSolomon Islands\n-9.60\n160.15\n\n\nViti Levu (example)\nFiji\n-17.80\n178.00"
+  },
+  {
+    "objectID": "fr/contact.html",
+    "href": "fr/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n[Adresse de contact, coordination et institution.]"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "[List of network publications, by year.]"
+  },
+  {
+    "objectID": "sites.html",
+    "href": "sites.html",
+    "title": "Sites",
+    "section": "",
+    "text": "Site\nCountry\nLatitude\nLongitude\n\n\n\n\nMount Panié (example)\nNew Caledonia\n-20.58\n164.77\n\n\nAoupinié (example)\nNew Caledonia\n-21.17\n165.30\n\n\nEspiritu Santo (example)\nVanuatu\n-15.40\n166.80\n\n\nGuadalcanal (example)\nSolomon Islands\n-9.60\n160.15\n\n\nViti Levu (example)\nFiji\n-17.80\n178.00"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "[Contact address, coordinator and institution.]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MELANOBS",
+    "section": "",
+    "text": "MELANOBS monitors how forests respond to global change. It relies on a network of permanent plots in the Solomon Islands, Vanuatu, Fiji and New Caledonia, and on collaboration among the regional herbaria of Nouméa, Suva, Port Vila and Honiara.\n\n\n\n\n\n\n\nMarkers are examples: edit data/sites.csv to show the actual plots."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "MELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.\n[Add the network’s main aims here.]"
+  },
+  {
+    "objectID": "about.html#aims",
+    "href": "about.html#aims",
+    "title": "About",
+    "section": "",
+    "text": "MELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.\n[Add the network’s main aims here.]"
+  },
+  {
+    "objectID": "about.html#partners",
+    "href": "about.html#partners",
+    "title": "About",
+    "section": "Partners",
+    "text": "Partners\nThe network brings together the regional herbaria of Nouméa, Suva, Port Vila and Honiara.\n[Add institutions, logos (in an images/ folder) and team members.]"
+  },
+  {
+    "objectID": "fr/donnees.html",
+    "href": "fr/donnees.html",
+    "title": "Données et protocoles",
+    "section": "",
+    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English"
+  },
+  {
+    "objectID": "fr/donnees.html#protocoles",
+    "href": "fr/donnees.html#protocoles",
+    "title": "Données et protocoles",
+    "section": "Protocoles",
+    "text": "Protocoles\n[Protocole commun, version et lien vers le PDF.]"
+  },
+  {
+    "objectID": "fr/donnees.html#accès-aux-données",
+    "href": "fr/donnees.html#accès-aux-données",
+    "title": "Données et protocoles",
+    "section": "Accès aux données",
+    "text": "Accès aux données\n[Politique de partage, entrepôt de données et contact pour les demandes.]"
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "MELANOBS",
+    "section": "",
+    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n\nMELANOBS suit la réponse des forêts aux changements globaux. Il s’appuie sur un réseau de parcelles permanentes aux Îles Salomon, au Vanuatu, aux Fidji et en Nouvelle-Calédonie, et sur la collaboration entre les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara."
+  },
+  {
+    "objectID": "fr/apropos.html",
+    "href": "fr/apropos.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English"
+  },
+  {
+    "objectID": "fr/apropos.html#objectifs",
+    "href": "fr/apropos.html#objectifs",
+    "title": "À propos",
+    "section": "Objectifs",
+    "text": "Objectifs\nMELANOBS est un observatoire qui suit la réponse des forêts mélanésiennes aux changements globaux grâce à des parcelles permanentes remesurées dans le temps.\n[Ajouter les principaux objectifs du réseau.]"
+  },
+  {
+    "objectID": "fr/apropos.html#partenaires",
+    "href": "fr/apropos.html#partenaires",
+    "title": "À propos",
+    "section": "Partenaires",
+    "text": "Partenaires\nLe réseau réunit les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara.\n[Ajouter institutions, logos et équipe.]"
+  }
+]
