@@ -1,0 +1,11 @@
+---
+title: "Data and protocols"
+---
+
+## Protocols
+
+[Common plot protocol, version and link to the PDF.]
+
+## Data access
+
+[Data-sharing policy, repository (e.g. Zenodo, GBIF) and who to contact for requests.]

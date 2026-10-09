@@ -1,0 +1,7 @@
+---
+title: "Publications"
+---
+
+{{< include _nav.qmd >}}
+
+[Liste des publications du réseau, par année.]

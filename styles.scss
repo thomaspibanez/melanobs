@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+@import url("https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,700&family=Public+Sans:wght@400;600&display=swap");
+
+$primary: #0E6B6F;
+$body-color: #16262B;
+$body-bg: #F6F8F7;
+$link-color: #0E6B6F;
+$font-family-sans-serif: "Public Sans", system-ui, sans-serif;
+$headings-font-family: "Newsreader", Georgia, serif;
+$headings-font-weight: 700;
+$navbar-bg: #16262B;
+$navbar-fg: #F6F8F7;
+
+/*-- scss:rules --*/
+.lead-text { max-width: 62ch; font-size: 1.15rem; line-height: 1.6; }
+.leaflet-container { border-radius: 4px; }
+main.content { max-width: 1100px; }

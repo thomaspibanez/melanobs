@@ -1,0 +1,10 @@
+---
+title: "Sites"
+---
+
+```{r}
+#| echo: false
+library(readr)
+sites <- read_csv("data/sites.csv", show_col_types = FALSE)
+knitr::kable(sites, col.names = c("Site", "Country", "Latitude", "Longitude"))
+```

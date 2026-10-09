@@ -1,0 +1,17 @@
+---
+title: "MELANOBS"
+subtitle: "The Melanesian observatory of forest responses to global change"
+page-layout: full
+---
+
+::: {.lead-text}
+MELANOBS monitors how forests respond to global change. It relies on a network of permanent plots in the Solomon Islands, Vanuatu, Fiji and New Caledonia, and on collaboration among the regional herbaria of Nouméa, Suva, Port Vila and Honiara.
+:::
+
+```{r}
+#| echo: false
+source("R/map.R")
+melanobs_map()
+```
+
+Markers are examples: edit `data/sites.csv` to show the actual plots.

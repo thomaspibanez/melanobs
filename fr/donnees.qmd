@@ -1,0 +1,13 @@
+---
+title: "Données et protocoles"
+---
+
+{{< include _nav.qmd >}}
+
+## Protocoles
+
+[Protocole commun, version et lien vers le PDF.]
+
+## Accès aux données
+
+[Politique de partage, entrepôt de données et contact pour les demandes.]

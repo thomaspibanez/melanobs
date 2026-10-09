@@ -1,0 +1,17 @@
+---
+title: "À propos"
+---
+
+{{< include _nav.qmd >}}
+
+## Objectifs
+
+MELANOBS est un observatoire qui suit la réponse des forêts mélanésiennes aux changements globaux grâce à des parcelles permanentes remesurées dans le temps.
+
+[Ajouter les principaux objectifs du réseau.]
+
+## Partenaires
+
+Le réseau réunit les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara.
+
+[Ajouter institutions, logos et équipe.]

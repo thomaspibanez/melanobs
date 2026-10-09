@@ -1,0 +1,36 @@
+project:
+  type: website
+  resources:
+    - CNAME
+
+lang: en
+
+website:
+  title: "MELANOBS"
+  site-url: https://melanobs.net
+  navbar:
+    background: primary
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "Sites"
+        href: sites.qmd
+      - text: "Data"
+        href: data.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "Français"
+        href: fr/index.qmd
+  page-footer:
+    center: "MELANOBS · Melanesian Observatory of forest responses to global change"
+
+format:
+  html:
+    theme: [default, styles.scss]
+    toc: false
+
+execute:
+  freeze: auto
