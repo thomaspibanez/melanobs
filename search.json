@@ -28,74 +28,18 @@
     "text": "Data access\n[Data-sharing policy, repository (e.g. Zenodo, GBIF) and who to contact for requests.]"
   },
   {
-    "objectID": "fr/contact.html",
-    "href": "fr/contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n[Adresse de contact, coordination et institution.]"
-  },
-  {
-    "objectID": "fr/publications.html",
-    "href": "fr/publications.html",
+    "objectID": "publications.html",
+    "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n[Liste des publications du réseau, par année.]"
-  },
-  {
-    "objectID": "fr/sites.html",
-    "href": "fr/sites.html",
-    "title": "Sites",
-    "section": "",
-    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n\n\n\n\n\n\n\n\n\n\n\n\nSite\nPays\nÎle\nLatitude\nLongitude\n\n\n\n\nSiloam\nNew Caledonia\nLifou\n-20.72740\n167.0904\n\n\nBlue River Provincial Park\nNew Caledonia\nGrande Terre\n-22.10677\n166.6881\n\n\nGreat Ferns Provincial Park\nNew Caledonia\nGrande Terre\n-21.61192\n165.7469\n\n\nNusumetu\nVanuatu\nTanna\n-19.38523\n169.2946\n\n\nPoitete\nSolomon Islands\nKolombangara\n-7.88488\n157.1271\n\n\nVago\nFiji\nViti Levu\n-18.07800\n178.4309"
-  },
-  {
-    "objectID": "sites.html",
-    "href": "sites.html",
-    "title": "Sites",
-    "section": "",
-    "text": "Site\nCountry\nIsland\nLatitude\nLongitude\n\n\n\n\nSiloam\nNew Caledonia\nLifou\n-20.72740\n167.0904\n\n\nBlue River Provincial Park\nNew Caledonia\nGrande Terre\n-22.10677\n166.6881\n\n\nGreat Ferns Provincial Park\nNew Caledonia\nGrande Terre\n-21.61192\n165.7469\n\n\nNusumetu\nVanuatu\nTanna\n-19.38523\n169.2946\n\n\nPoitete\nSolomon Islands\nKolombangara\n-7.88488\n157.1271\n\n\nVago\nFiji\nViti Levu\n-18.07800\n178.4309"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MELANOBS",
-    "section": "",
-    "text": "MELANOBS monitors how forests respond to global change. It relies on a network of permanent plots in the Solomon Islands, Vanuatu, Fiji and New Caledonia, and on collaboration among the regional herbaria of Nouméa, Suva, Port Vila and Honiara.\n\n\n\n\n\n\n\nMarkers are examples: edit data/sites.csv to show the actual plots."
-  },
-  {
-    "objectID": "fr/index.html",
-    "href": "fr/index.html",
-    "title": "MELANOBS",
-    "section": "",
-    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n\nMELANOBS suit la réponse des forêts aux changements globaux. Il s’appuie sur un réseau de parcelles permanentes aux Îles Salomon, au Vanuatu, aux Fidji et en Nouvelle-Calédonie, et sur la collaboration entre les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara."
-  },
-  {
-    "objectID": "fr/donnees.html",
-    "href": "fr/donnees.html",
-    "title": "Données et protocoles",
-    "section": "",
-    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English"
-  },
-  {
-    "objectID": "fr/donnees.html#protocoles",
-    "href": "fr/donnees.html#protocoles",
-    "title": "Données et protocoles",
-    "section": "Protocoles",
-    "text": "Protocoles\n[Protocole commun, version et lien vers le PDF.]"
-  },
-  {
-    "objectID": "fr/donnees.html#accès-aux-données",
-    "href": "fr/donnees.html#accès-aux-données",
-    "title": "Données et protocoles",
-    "section": "Accès aux données",
-    "text": "Accès aux données\n[Politique de partage, entrepôt de données et contact pour les demandes.]"
+    "text": "[List of network publications, by year.]"
   },
   {
     "objectID": "fr/apropos.html",
     "href": "fr/apropos.html",
     "title": "À propos",
     "section": "",
-    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English"
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English"
   },
   {
     "objectID": "fr/apropos.html#objectifs",
@@ -112,11 +56,221 @@
     "text": "Partenaires\nLe réseau réunit les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara.\n[Ajouter institutions, logos et équipe.]"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "fr/donnees.html",
+    "href": "fr/donnees.html",
+    "title": "Données et protocoles",
+    "section": "",
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English"
+  },
+  {
+    "objectID": "fr/donnees.html#protocoles",
+    "href": "fr/donnees.html#protocoles",
+    "title": "Données et protocoles",
+    "section": "Protocoles",
+    "text": "Protocoles\n[Protocole commun, version et lien vers le PDF.]"
+  },
+  {
+    "objectID": "fr/donnees.html#accès-aux-données",
+    "href": "fr/donnees.html#accès-aux-données",
+    "title": "Données et protocoles",
+    "section": "Accès aux données",
+    "text": "Accès aux données\n[Politique de partage, entrepôt de données et contact pour les demandes.]"
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "MELANOBS",
+    "section": "",
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\n\nMELANOBS suit la réponse des forêts aux changements globaux. Il s’appuie sur un réseau de parcelles permanentes aux Îles Salomon, au Vanuatu, aux Fidji et en Nouvelle-Calédonie, et sur la collaboration entre les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara."
+  },
+  {
+    "objectID": "plots.html",
+    "href": "plots.html",
+    "title": "Permanent plots",
+    "section": "",
+    "text": "Plot\nIsland\nCountry\nLatitude\nLongitude\n\n\n\n\nSiloam\nLifou\nNew Caledonia\n-20.72740\n167.0904\n\n\nBlue River Provincial Park\nGrande Terre\nNew Caledonia\n-22.10677\n166.6881\n\n\nGreat Ferns Provincial Park\nGrande Terre\nNew Caledonia\n-21.61192\n165.7469\n\n\nNusumetu\nTanna\nVanuatu\n-19.38523\n169.2946\n\n\nPoitete\nKolombangara\nSolomon Islands\n-7.88488\n157.1271\n\n\nVago\nViti Levu\nFiji\n-18.07800\n178.4309"
+  },
+  {
+    "objectID": "plots/siloam.html",
+    "href": "plots/siloam.html",
+    "title": "Siloam",
+    "section": "",
+    "text": "Country\nNew Caledonia\n\n\nIsland\nLifou\n\n\nLatitude\n-20.727398\n\n\nLongitude\n167.090406"
+  },
+  {
+    "objectID": "plots/siloam.html#description",
+    "href": "plots/siloam.html#description",
+    "title": "Siloam",
+    "section": "Description",
+    "text": "Description\nTo be written: forest type, plot size, date established, census history, team…\n← All permanent plots · Network map"
+  },
+  {
+    "objectID": "plots/vago.html",
+    "href": "plots/vago.html",
+    "title": "Vago",
+    "section": "",
+    "text": "Country\nFiji\n\n\nIsland\nViti Levu\n\n\nLatitude\n-18.077995\n\n\nLongitude\n178.430887"
+  },
+  {
+    "objectID": "plots/vago.html#description",
+    "href": "plots/vago.html#description",
+    "title": "Vago",
+    "section": "Description",
+    "text": "Description\nTo be written: forest type, plot size, date established, census history, team…\n← All permanent plots · Network map"
+  },
+  {
+    "objectID": "plots/poitete.html",
+    "href": "plots/poitete.html",
+    "title": "Poitete",
+    "section": "",
+    "text": "Country\nSolomon Islands\n\n\nIsland\nKolombangara\n\n\nLatitude\n-7.88488\n\n\nLongitude\n157.127126"
+  },
+  {
+    "objectID": "plots/poitete.html#description",
+    "href": "plots/poitete.html#description",
+    "title": "Poitete",
+    "section": "Description",
+    "text": "Description\nTo be written: forest type, plot size, date established, census history, team…\n← All permanent plots · Network map"
+  },
+  {
+    "objectID": "herbaria/nou.html",
+    "href": "herbaria/nou.html",
+    "title": "NOU",
+    "section": "",
+    "text": "Code\nNOU\n\n\nCity\nNouméa\n\n\nCountry\nNew Caledonia\n\n\nLatitude\n-22.30168\n\n\nLongitude\n166.44371"
+  },
+  {
+    "objectID": "herbaria/nou.html#description",
+    "href": "herbaria/nou.html#description",
+    "title": "NOU",
+    "section": "Description",
+    "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
+  },
+  {
+    "objectID": "herbaria/bsip.html",
+    "href": "herbaria/bsip.html",
+    "title": "BSIP",
+    "section": "",
+    "text": "Code\nBSIP\n\n\nCity\nHoniara\n\n\nCountry\nSolomon Islands\n\n\nLatitude\n-9.4332\n\n\nLongitude\n159.94162"
+  },
+  {
+    "objectID": "herbaria/bsip.html#description",
+    "href": "herbaria/bsip.html#description",
+    "title": "BSIP",
+    "section": "Description",
+    "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
+  },
+  {
+    "objectID": "herbaria/suva.html",
+    "href": "herbaria/suva.html",
+    "title": "SUVA",
+    "section": "",
+    "text": "Code\nSUVA\n\n\nCity\nSuva\n\n\nCountry\nFiji\n\n\nLatitude\n-18.14983\n\n\nLongitude\n178.45315"
+  },
+  {
+    "objectID": "herbaria/suva.html#description",
+    "href": "herbaria/suva.html#description",
+    "title": "SUVA",
+    "section": "Description",
+    "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
+  },
+  {
+    "objectID": "herbaria/pvnh.html",
+    "href": "herbaria/pvnh.html",
+    "title": "PVNH",
+    "section": "",
+    "text": "Code\nPVNH\n\n\nCity\nPort Vila\n\n\nCountry\nVanuatu\n\n\nLatitude\n-17.70557\n\n\nLongitude\n168.32028"
+  },
+  {
+    "objectID": "herbaria/pvnh.html#description",
+    "href": "herbaria/pvnh.html#description",
+    "title": "PVNH",
+    "section": "Description",
+    "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MELANOBS",
+    "section": "",
+    "text": "MELANOBS monitors how forests respond to global change. It relies on a network of permanent plots in the Solomon Islands, Vanuatu, Fiji and New Caledonia, and on collaboration among the regional herbaria of Nouméa, Suva, Port Vila and Honiara.\n\n\n\n\n\n\n\nClick a marker to open the page of that permanent plot or herbarium."
+  },
+  {
+    "objectID": "plots/blue-river.html",
+    "href": "plots/blue-river.html",
+    "title": "Blue River Provincial Park",
+    "section": "",
+    "text": "Country\nNew Caledonia\n\n\nIsland\nGrande Terre\n\n\nLatitude\n-22.10677311\n\n\nLongitude\n166.68812588"
+  },
+  {
+    "objectID": "plots/blue-river.html#description",
+    "href": "plots/blue-river.html#description",
+    "title": "Blue River Provincial Park",
+    "section": "Description",
+    "text": "Description\nTo be written: forest type, plot size, date established, census history, team…\n← All permanent plots · Network map"
+  },
+  {
+    "objectID": "plots/nusumetu.html",
+    "href": "plots/nusumetu.html",
+    "title": "Nusumetu",
+    "section": "",
+    "text": "Country\nVanuatu\n\n\nIsland\nTanna\n\n\nLatitude\n-19.385234\n\n\nLongitude\n169.294602"
+  },
+  {
+    "objectID": "plots/nusumetu.html#description",
+    "href": "plots/nusumetu.html#description",
+    "title": "Nusumetu",
+    "section": "Description",
+    "text": "Description\nTo be written: forest type, plot size, date established, census history, team…\n← All permanent plots · Network map"
+  },
+  {
+    "objectID": "plots/great-ferns.html",
+    "href": "plots/great-ferns.html",
+    "title": "Great Ferns Provincial Park",
+    "section": "",
+    "text": "Country\nNew Caledonia\n\n\nIsland\nGrande Terre\n\n\nLatitude\n-21.6119184\n\n\nLongitude\n165.7468984"
+  },
+  {
+    "objectID": "plots/great-ferns.html#description",
+    "href": "plots/great-ferns.html#description",
+    "title": "Great Ferns Provincial Park",
+    "section": "Description",
+    "text": "Description\nTo be written: forest type, plot size, date established, census history, team…\n← All permanent plots · Network map"
+  },
+  {
+    "objectID": "fr/herbiers.html",
+    "href": "fr/herbiers.html",
+    "title": "Herbiers",
+    "section": "",
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\nLes fiches détaillées sont pour l’instant en anglais.\n\n\n\n\n\n\n\n\n\nHerbier\nVille\nPays\n\n\n\n\nNOU\nNouméa\nNew Caledonia\n\n\nSUVA\nSuva\nFiji\n\n\nPVNH\nPort Vila\nVanuatu\n\n\nBSIP\nHoniara\nSolomon Islands"
+  },
+  {
+    "objectID": "fr/parcelles.html",
+    "href": "fr/parcelles.html",
+    "title": "Parcelles permanentes",
+    "section": "",
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\nLes fiches détaillées sont pour l’instant en anglais.\n\n\n\n\n\n\n\n\n\nParcelle\nÎle\nPays\nLatitude\nLongitude\n\n\n\n\nSiloam\nLifou\nNew Caledonia\n-20.72740\n167.0904\n\n\nBlue River Provincial Park\nGrande Terre\nNew Caledonia\n-22.10677\n166.6881\n\n\nGreat Ferns Provincial Park\nGrande Terre\nNew Caledonia\n-21.61192\n165.7469\n\n\nNusumetu\nTanna\nVanuatu\n-19.38523\n169.2946\n\n\nPoitete\nKolombangara\nSolomon Islands\n-7.88488\n157.1271\n\n\nVago\nViti Levu\nFiji\n-18.07800\n178.4309"
+  },
+  {
+    "objectID": "fr/publications.html",
+    "href": "fr/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "[List of network publications, by year.]"
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\n[Liste des publications du réseau, par année.]"
+  },
+  {
+    "objectID": "fr/contact.html",
+    "href": "fr/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\n[Adresse de contact, coordination et institution.]"
+  },
+  {
+    "objectID": "herbaria.html",
+    "href": "herbaria.html",
+    "title": "Herbaria",
+    "section": "",
+    "text": "Herbarium\nCity\nCountry\n\n\n\n\nNOU\nNouméa\nNew Caledonia\n\n\nSUVA\nSuva\nFiji\n\n\nPVNH\nPort Vila\nVanuatu\n\n\nBSIP\nHoniara\nSolomon Islands"
   },
   {
     "objectID": "about.html",

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.10.19">
@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Sites – MELANOBS</title>
+<title>Parcelles permanentes – MELANOBS</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -29,23 +29,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6489f03cc4e01dc022616e2e0cb3de32.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-6489f03cc4e01dc022616e2e0cb3de32.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,19 +60,30 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
   }
 }</script>
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<script src="../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<link href="../site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+<script src="../site_libs/leaflet-1.3.1/leaflet.js"></script>
+<link href="../site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+<script src="../site_libs/proj4-2.6.2/proj4.min.js"></script>
+<script src="../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<link href="../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+<script src="../site_libs/leaflet-binding-2.2.3/leaflet.js"></script>
+<script src="../site_libs/leaflet-providers-3.0.0/leaflet-providers.js"></script>
+<script src="../site_libs/leaflet-providers-plugin-2.2.3/leaflet-providers-plugin.js"></script>
 
 
 </head>
@@ -84,40 +95,44 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">MELANOBS</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./sites.html" aria-current="page"> 
-<span class="menu-text">Sites</span></a>
+    <a class="nav-link" href="../plots.html"> 
+<span class="menu-text">Permanent plots</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./data.html"> 
+    <a class="nav-link" href="../herbaria.html"> 
+<span class="menu-text">Herbaria</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../data.html"> 
 <span class="menu-text">Data</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./fr/index.html"> 
+    <a class="nav-link" href="../fr/index.html"> 
 <span class="menu-text">Français</span></a>
   </li>  
 </ul>
@@ -137,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Sites</h1>
+<h1 class="title">Parcelles permanentes</h1>
 </div>
 
 
@@ -154,65 +169,64 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><a href="../fr/index.html">Accueil</a> | <a href="../fr/apropos.html">À propos</a> | <a href="../fr/parcelles.html">Parcelles permanentes</a> | <a href="../fr/herbiers.html">Herbiers</a> | <a href="../fr/donnees.html">Données</a> | <a href="../fr/publications.html">Publications</a> | <a href="../fr/contact.html">Contact</a> | <a href="../index.html">English</a></p>
+<p>Les fiches détaillées sont pour l’instant en anglais.</p>
 <div class="cell">
 <div class="cell-output-display">
+<div id="htmlwidget-f54e52cd272effeacba9" style="width:100%;height:502px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-f54e52cd272effeacba9">{"x":{"options":{"minZoom":3,"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addProviderTiles","args":["Esri.WorldGrayCanvas",null,"Map",{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addProviderTiles","args":["Esri.WorldImagery",null,"Satellite",{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addCircleMarkers","args":[[-22.30167511442247,-18.14982816574846,-17.70556633760405,-9.43319665099512],[166.4437080702697,178.4531516996874,168.3202817658652,159.9416228307579],11,null,null,{"interactive":true,"className":"","stroke":true,"color":"#16262B","weight":1,"opacity":0.5,"fill":true,"fillColor":"#0E6B6F","fillOpacity":0.5},null,null,["<b>NOU<\/b><br>Nouméa, New Caledonia<br><a href='../herbaria/nou.html'>Fiche (en anglais) &rarr;<\/a>","<b>SUVA<\/b><br>Suva, Fiji<br><a href='../herbaria/suva.html'>Fiche (en anglais) &rarr;<\/a>","<b>PVNH<\/b><br>Port Vila, Vanuatu<br><a href='../herbaria/pvnh.html'>Fiche (en anglais) &rarr;<\/a>","<b>BSIP<\/b><br>Honiara, Solomon Islands<br><a href='../herbaria/bsip.html'>Fiche (en anglais) &rarr;<\/a>"],null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircleMarkers","args":[[-20.727398,-22.10677311,-21.6119184,-19.385234,-7.88488,-18.077995],[167.090406,166.68812588,165.7468984,169.294602,157.127126,178.430887],7,null,null,{"interactive":true,"className":"","stroke":true,"color":"#16262B","weight":1,"opacity":0.5,"fill":true,"fillColor":"#C98A1B","fillOpacity":0.6},null,null,["<b>Siloam<\/b><br>Lifou, New Caledonia<br><a href='../plots/siloam.html'>Fiche (en anglais) &rarr;<\/a>","<b>Blue River Provincial Park<\/b><br>Grande Terre, New Caledonia<br><a href='../plots/blue-river.html'>Fiche (en anglais) &rarr;<\/a>","<b>Great Ferns Provincial Park<\/b><br>Grande Terre, New Caledonia<br><a href='../plots/great-ferns.html'>Fiche (en anglais) &rarr;<\/a>","<b>Nusumetu<\/b><br>Tanna, Vanuatu<br><a href='../plots/nusumetu.html'>Fiche (en anglais) &rarr;<\/a>","<b>Poitete<\/b><br>Kolombangara, Solomon Islands<br><a href='../plots/poitete.html'>Fiche (en anglais) &rarr;<\/a>","<b>Vago<\/b><br>Viti Levu, Fiji<br><a href='../plots/vago.html'>Fiche (en anglais) &rarr;<\/a>"],null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addLayersControl","args":[["Map","Satellite"],[],{"collapsed":false,"autoZIndex":true,"position":"topright"}]},{"method":"addLegend","args":[{"colors":["#C98A1B","#0E6B6F"],"labels":["Parcelles permanentes","Herbiers régionaux"],"na_color":null,"na_label":"NA","opacity":1,"position":"bottomleft","type":"unknown","title":null,"extra":null,"layerId":null,"className":"info legend","group":null}]}],"limits":{"lat":[-22.30167511442247,-7.88488],"lng":[157.127126,178.4531516996874]},"setView":[[-15,168],4,[]]},"evals":[],"jsHooks":[]}</script>
+</div>
+<div class="cell-output-display">
 <table class="caption-top table table-sm table-striped small">
-<colgroup>
-<col style="width: 36%">
-<col style="width: 20%">
-<col style="width: 16%">
-<col style="width: 12%">
-<col style="width: 12%">
-</colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: left;">Site</th>
-<th style="text-align: left;">Country</th>
-<th style="text-align: left;">Island</th>
+<th style="text-align: left;">Parcelle</th>
+<th style="text-align: left;">Île</th>
+<th style="text-align: left;">Pays</th>
 <th style="text-align: right;">Latitude</th>
 <th style="text-align: right;">Longitude</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Siloam</td>
-<td style="text-align: left;">New Caledonia</td>
+<td style="text-align: left;"><a href="../plots/siloam.html">Siloam</a></td>
 <td style="text-align: left;">Lifou</td>
+<td style="text-align: left;">New Caledonia</td>
 <td style="text-align: right;">-20.72740</td>
 <td style="text-align: right;">167.0904</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Blue River Provincial Park</td>
-<td style="text-align: left;">New Caledonia</td>
+<td style="text-align: left;"><a href="../plots/blue-river.html">Blue River Provincial Park</a></td>
 <td style="text-align: left;">Grande Terre</td>
+<td style="text-align: left;">New Caledonia</td>
 <td style="text-align: right;">-22.10677</td>
 <td style="text-align: right;">166.6881</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Great Ferns Provincial Park</td>
-<td style="text-align: left;">New Caledonia</td>
+<td style="text-align: left;"><a href="../plots/great-ferns.html">Great Ferns Provincial Park</a></td>
 <td style="text-align: left;">Grande Terre</td>
+<td style="text-align: left;">New Caledonia</td>
 <td style="text-align: right;">-21.61192</td>
 <td style="text-align: right;">165.7469</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Nusumetu</td>
-<td style="text-align: left;">Vanuatu</td>
+<td style="text-align: left;"><a href="../plots/nusumetu.html">Nusumetu</a></td>
 <td style="text-align: left;">Tanna</td>
+<td style="text-align: left;">Vanuatu</td>
 <td style="text-align: right;">-19.38523</td>
 <td style="text-align: right;">169.2946</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Poitete</td>
-<td style="text-align: left;">Solomon Islands</td>
+<td style="text-align: left;"><a href="../plots/poitete.html">Poitete</a></td>
 <td style="text-align: left;">Kolombangara</td>
+<td style="text-align: left;">Solomon Islands</td>
 <td style="text-align: right;">-7.88488</td>
 <td style="text-align: right;">157.1271</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Vago</td>
-<td style="text-align: left;">Fiji</td>
+<td style="text-align: left;"><a href="../plots/vago.html">Vago</a></td>
 <td style="text-align: left;">Viti Levu</td>
+<td style="text-align: left;">Fiji</td>
 <td style="text-align: right;">-18.07800</td>
 <td style="text-align: right;">178.4309</td>
 </tr>
@@ -249,12 +263,12 @@ ul.task-list li input[type="checkbox"] {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copié");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copié");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
