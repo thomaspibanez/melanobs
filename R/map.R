@@ -11,26 +11,32 @@ item_link <- function(dir, folder, slug, text) {
 }
 
 # focus: slug of a plot or herbarium to centre the map on (for dedicated pages)
+# show: which layers to draw, "plots" and/or "herbaria"
 melanobs_map <- function(dir = ".", height = 520,
                          labels = c("Permanent plots", "Regional herbaria"),
-                         more = "More &rarr;", focus = NULL, zoom = 9) {
+                         more = "More &rarr;", focus = NULL, zoom = 9,
+                         show = c("plots", "herbaria")) {
   plots <- read_plots(dir)
   herb  <- read_herbaria(dir)
   m <- leaflet(height = height, options = leafletOptions(minZoom = 3)) |>
     addProviderTiles(providers$Esri.WorldGrayCanvas, group = "Map") |>
-    addProviderTiles(providers$Esri.WorldImagery, group = "Satellite") |>
-    addCircleMarkers(data = herb, ~lon, ~lat, radius = 11, weight = 1,
-                     color = "#16262B", fillColor = "#0E6B6F", fillOpacity = 0.5,
-                     popup = ~paste0("<b>", herbarium, "</b><br>", city, ", ", country,
-                                     "<br>", item_link(dir, "herbaria", slug, more))) |>
-    addCircleMarkers(data = plots, ~lon, ~lat, radius = 7, weight = 1,
-                     color = "#16262B", fillColor = "#C98A1B", fillOpacity = 0.6,
-                     popup = ~paste0("<b>", site, "</b><br>", island, ", ", country,
-                                     "<br>", item_link(dir, "plots", slug, more))) |>
+    addProviderTiles(providers$Esri.WorldImagery, group = "Satellite")
+  if ("herbaria" %in% show)
+    m <- addCircleMarkers(m, data = herb, ~lon, ~lat, radius = 11, weight = 1,
+                          color = "#16262B", fillColor = "#0E6B6F", fillOpacity = 0.5,
+                          popup = ~paste0("<b>", herbarium, "</b><br>", city, ", ", country,
+                                          "<br>", item_link(dir, "herbaria", slug, more)))
+  if ("plots" %in% show)
+    m <- addCircleMarkers(m, data = plots, ~lon, ~lat, radius = 7, weight = 1,
+                          color = "#16262B", fillColor = "#C98A1B", fillOpacity = 0.6,
+                          popup = ~paste0("<b>", site, "</b><br>", island, ", ", country,
+                                          "<br>", item_link(dir, "plots", slug, more)))
+  shown <- c("plots", "herbaria") %in% show
+  m <- m |>
     addLayersControl(baseGroups = c("Map", "Satellite"),
                      options = layersControlOptions(collapsed = FALSE)) |>
-    addLegend("bottomleft", colors = c("#C98A1B", "#0E6B6F"),
-              labels = labels, opacity = 1)
+    addLegend("bottomleft", colors = c("#C98A1B", "#0E6B6F")[shown],
+              labels = labels[shown], opacity = 1)
   if (is.null(focus)) return(setView(m, lng = 168, lat = -15, zoom = 4))
   item <- rbind(plots[plots$slug == focus, c("lon", "lat")],
                 herb[herb$slug == focus, c("lon", "lat")])

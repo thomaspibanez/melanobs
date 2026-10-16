@@ -5,7 +5,7 @@ title: "Permanent plots"
 ```{r}
 #| echo: false
 source("R/map.R")
-melanobs_map()
+melanobs_map(show = "plots")
 p <- read_plots()
 knitr::kable(data.frame(paste0("[", p$site, "](plots/", p$slug, ".qmd)"),
                         p$island, p$country, p$lat, p$lon),
