@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://melanobs.net/contact.html</loc>
-    <lastmod>2026-10-16T04:38:40.758Z</lastmod>
-  </url>
-  <url>
     <loc>https://melanobs.net/data.html</loc>
-    <lastmod>2026-10-16T04:38:40.758Z</lastmod>
-  </url>
-  <url>
-    <loc>https://melanobs.net/fr/contact.html</loc>
-    <lastmod>2026-10-16T04:38:40.759Z</lastmod>
+    <lastmod>2026-10-09T03:17:31.645Z</lastmod>
   </url>
   <url>
     <loc>https://melanobs.net/fr/publications.html</loc>
-    <lastmod>2026-10-16T04:38:40.759Z</lastmod>
+    <lastmod>2026-10-09T03:17:31.647Z</lastmod>
   </url>
   <url>
     <loc>https://melanobs.net/fr/sites.html</loc>
-    <lastmod>2026-10-16T04:38:40.759Z</lastmod>
+    <lastmod>2026-10-16T05:07:25.908Z</lastmod>
   </url>
   <url>
-    <loc>https://melanobs.net/sites.html</loc>
-    <lastmod>2026-10-16T04:38:40.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://melanobs.net/index.html</loc>
-    <lastmod>2026-10-16T04:38:40.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://melanobs.net/fr/index.html</loc>
-    <lastmod>2026-10-16T04:38:40.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://melanobs.net/fr/donnees.html</loc>
-    <lastmod>2026-10-16T04:38:40.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://melanobs.net/fr/apropos.html</loc>
-    <lastmod>2026-10-16T04:38:40.759Z</lastmod>
+    <loc>https://melanobs.net/fr/contact.html</loc>
+    <lastmod>2026-10-09T03:17:31.647Z</lastmod>
   </url>
   <url>
     <loc>https://melanobs.net/publications.html</loc>
-    <lastmod>2026-10-16T04:38:40.759Z</lastmod>
+    <lastmod>2026-10-09T03:17:31.648Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melanobs.net/sites.html</loc>
+    <lastmod>2026-10-16T05:06:28.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melanobs.net/contact.html</loc>
+    <lastmod>2026-10-09T03:17:31.645Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melanobs.net/index.html</loc>
+    <lastmod>2026-10-09T03:17:31.648Z</lastmod>
   </url>
   <url>
     <loc>https://melanobs.net/about.html</loc>
-    <lastmod>2026-10-16T04:38:40.758Z</lastmod>
+    <lastmod>2026-10-09T03:17:31.645Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melanobs.net/fr/donnees.html</loc>
+    <lastmod>2026-10-09T03:17:31.647Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melanobs.net/fr/index.html</loc>
+    <lastmod>2026-10-09T03:17:31.647Z</lastmod>
+  </url>
+  <url>
+    <loc>https://melanobs.net/fr/apropos.html</loc>
+    <lastmod>2026-10-09T03:17:31.646Z</lastmod>
   </url>
 </urlset>

@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "[Contact address, coordinator and institution.]"
-  },
-  {
     "objectID": "data.html",
     "href": "data.html",
     "title": "Data and protocols",
@@ -28,13 +21,6 @@
     "text": "Data access\n[Data-sharing policy, repository (e.g. Zenodo, GBIF) and who to contact for requests.]"
   },
   {
-    "objectID": "fr/contact.html",
-    "href": "fr/contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n[Adresse de contact, coordination et institution.]"
-  },
-  {
     "objectID": "fr/publications.html",
     "href": "fr/publications.html",
     "title": "Publications",
@@ -46,14 +32,35 @@
     "href": "fr/sites.html",
     "title": "Sites",
     "section": "",
-    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n\n\n\n\n\nSite\nPays\nLatitude\nLongitude\n\n\n\n\nMount Panié (example)\nNew Caledonia\n-20.58\n164.77\n\n\nAoupinié (example)\nNew Caledonia\n-21.17\n165.30\n\n\nEspiritu Santo (example)\nVanuatu\n-15.40\n166.80\n\n\nGuadalcanal (example)\nSolomon Islands\n-9.60\n160.15\n\n\nViti Levu (example)\nFiji\n-17.80\n178.00"
+    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n\n\n\n\n\n\n\n\n\n\n\n\nSite\nPays\nÎle\nLatitude\nLongitude\n\n\n\n\nSiloam\nNew Caledonia\nLifou\n-20.72740\n167.0904\n\n\nBlue River Provincial Park\nNew Caledonia\nGrande Terre\n-22.10677\n166.6881\n\n\nGreat Ferns Provincial Park\nNew Caledonia\nGrande Terre\n-21.61192\n165.7469\n\n\nNusumetu\nVanuatu\nTanna\n-19.38523\n169.2946\n\n\nPoitete\nSolomon Islands\nKolombangara\n-7.88488\n157.1271\n\n\nVago\nFiji\nViti Levu\n-18.07800\n178.4309"
+  },
+  {
+    "objectID": "fr/contact.html",
+    "href": "fr/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n[Adresse de contact, coordination et institution.]"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "[List of network publications, by year.]"
   },
   {
     "objectID": "sites.html",
     "href": "sites.html",
     "title": "Sites",
     "section": "",
-    "text": "Site\nCountry\nLatitude\nLongitude\n\n\n\n\nMount Panié (example)\nNew Caledonia\n-20.58\n164.77\n\n\nAoupinié (example)\nNew Caledonia\n-21.17\n165.30\n\n\nEspiritu Santo (example)\nVanuatu\n-15.40\n166.80\n\n\nGuadalcanal (example)\nSolomon Islands\n-9.60\n160.15\n\n\nViti Levu (example)\nFiji\n-17.80\n178.00"
+    "text": "Site\nCountry\nIsland\nLatitude\nLongitude\n\n\n\n\nSiloam\nNew Caledonia\nLifou\n-20.72740\n167.0904\n\n\nBlue River Provincial Park\nNew Caledonia\nGrande Terre\n-22.10677\n166.6881\n\n\nGreat Ferns Provincial Park\nNew Caledonia\nGrande Terre\n-21.61192\n165.7469\n\n\nNusumetu\nVanuatu\nTanna\n-19.38523\n169.2946\n\n\nPoitete\nSolomon Islands\nKolombangara\n-7.88488\n157.1271\n\n\nVago\nFiji\nViti Levu\n-18.07800\n178.4309"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "[Contact address, coordinator and institution.]"
   },
   {
     "objectID": "index.html",
@@ -63,11 +70,25 @@
     "text": "MELANOBS monitors how forests respond to global change. It relies on a network of permanent plots in the Solomon Islands, Vanuatu, Fiji and New Caledonia, and on collaboration among the regional herbaria of Nouméa, Suva, Port Vila and Honiara.\n\n\n\n\n\n\n\nMarkers are examples: edit data/sites.csv to show the actual plots."
   },
   {
-    "objectID": "fr/index.html",
-    "href": "fr/index.html",
-    "title": "MELANOBS",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n\nMELANOBS suit la réponse des forêts aux changements globaux. Il s’appuie sur un réseau de parcelles permanentes aux Îles Salomon, au Vanuatu, aux Fidji et en Nouvelle-Calédonie, et sur la collaboration entre les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara."
+    "text": "MELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.\n[Add the network’s main aims here.]"
+  },
+  {
+    "objectID": "about.html#aims",
+    "href": "about.html#aims",
+    "title": "About",
+    "section": "",
+    "text": "MELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.\n[Add the network’s main aims here.]"
+  },
+  {
+    "objectID": "about.html#partners",
+    "href": "about.html#partners",
+    "title": "About",
+    "section": "Partners",
+    "text": "Partners\nThe network brings together the regional herbaria of Nouméa, Suva, Port Vila and Honiara.\n[Add institutions, logos (in an images/ folder) and team members.]"
   },
   {
     "objectID": "fr/donnees.html",
@@ -91,6 +112,13 @@
     "text": "Accès aux données\n[Politique de partage, entrepôt de données et contact pour les demandes.]"
   },
   {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "MELANOBS",
+    "section": "",
+    "text": "Accueil | À propos | Sites | Données | Publications | Contact | English\n\nMELANOBS suit la réponse des forêts aux changements globaux. Il s’appuie sur un réseau de parcelles permanentes aux Îles Salomon, au Vanuatu, aux Fidji et en Nouvelle-Calédonie, et sur la collaboration entre les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara."
+  },
+  {
     "objectID": "fr/apropos.html",
     "href": "fr/apropos.html",
     "title": "À propos",
@@ -110,33 +138,5 @@
     "title": "À propos",
     "section": "Partenaires",
     "text": "Partenaires\nLe réseau réunit les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara.\n[Ajouter institutions, logos et équipe.]"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "[List of network publications, by year.]"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "MELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.\n[Add the network’s main aims here.]"
-  },
-  {
-    "objectID": "about.html#aims",
-    "href": "about.html#aims",
-    "title": "About",
-    "section": "",
-    "text": "MELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.\n[Add the network’s main aims here.]"
-  },
-  {
-    "objectID": "about.html#partners",
-    "href": "about.html#partners",
-    "title": "About",
-    "section": "Partners",
-    "text": "Partners\nThe network brings together the regional herbaria of Nouméa, Suva, Port Vila and Honiara.\n[Add institutions, logos (in an images/ folder) and team members.]"
   }
 ]
