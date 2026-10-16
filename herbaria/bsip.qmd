@@ -1,0 +1,17 @@
+---
+title: "BSIP"
+subtitle: "Herbarium · Honiara, Solomon Islands"
+---
+
+```{r}
+#| echo: false
+source("../R/map.R")
+melanobs_map("..", height = 380, focus = "bsip", zoom = 12)
+herbarium_facts("bsip")
+```
+
+## Description
+
+*To be written: full name, host institution, collections, curator, contact…*
+
+[← All herbaria](../herbaria.qmd) · [Network map](../index.qmd)

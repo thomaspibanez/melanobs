@@ -1,0 +1,17 @@
+---
+title: "Vago"
+subtitle: "Permanent plot · Viti Levu, Fiji"
+---
+
+```{r}
+#| echo: false
+source("../R/map.R")
+melanobs_map("..", height = 380, focus = "vago")
+plot_facts("vago")
+```
+
+## Description
+
+*To be written: forest type, plot size, date established, census history, team…*
+
+[← All permanent plots](../plots.qmd) · [Network map](../index.qmd)

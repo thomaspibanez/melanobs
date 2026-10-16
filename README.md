@@ -5,7 +5,8 @@ Quarto (R) site, English with a French version under `/fr`, published on GitHub 
 ## Work locally
 1. Install Quarto, then in R: `install.packages(c("leaflet", "readr", "knitr", "rmarkdown"))`
 2. `quarto preview`
-3. Edit the `.qmd` pages (English at the root, French in `fr/`) and the CSV files in `data/`.
+3. Edit the `.qmd` pages (English at the root, French in `fr/`) and the CSV files in `data/` (`plots.csv`, `herbaria.csv`).
+4. To add a plot or herbarium: add a row with a new `slug` to the CSV, then copy an existing page in `plots/` or `herbaria/` to `<slug>.qmd` and edit it.
 
 ## First publication
 1. Create a GitHub repository and push this folder (branch `main`).

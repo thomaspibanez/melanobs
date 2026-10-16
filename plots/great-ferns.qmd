@@ -1,0 +1,17 @@
+---
+title: "Great Ferns Provincial Park"
+subtitle: "Permanent plot · Grande Terre, New Caledonia"
+---
+
+```{r}
+#| echo: false
+source("../R/map.R")
+melanobs_map("..", height = 380, focus = "great-ferns")
+plot_facts("great-ferns")
+```
+
+## Description
+
+*To be written: forest type, plot size, date established, census history, team…*
+
+[← All permanent plots](../plots.qmd) · [Network map](../index.qmd)

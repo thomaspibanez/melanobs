@@ -1,0 +1,17 @@
+---
+title: "Nusumetu"
+subtitle: "Permanent plot · Tanna, Vanuatu"
+---
+
+```{r}
+#| echo: false
+source("../R/map.R")
+melanobs_map("..", height = 380, focus = "nusumetu")
+plot_facts("nusumetu")
+```
+
+## Description
+
+*To be written: forest type, plot size, date established, census history, team…*
+
+[← All permanent plots](../plots.qmd) · [Network map](../index.qmd)

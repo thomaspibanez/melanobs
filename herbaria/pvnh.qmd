@@ -1,0 +1,17 @@
+---
+title: "PVNH"
+subtitle: "Herbarium · Port Vila, Vanuatu"
+---
+
+```{r}
+#| echo: false
+source("../R/map.R")
+melanobs_map("..", height = 380, focus = "pvnh", zoom = 12)
+herbarium_facts("pvnh")
+```
+
+## Description
+
+*To be written: full name, host institution, collections, curator, contact…*
+
+[← All herbaria](../herbaria.qmd) · [Network map](../index.qmd)

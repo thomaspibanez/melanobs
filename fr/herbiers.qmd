@@ -1,0 +1,18 @@
+---
+title: "Herbiers"
+---
+
+{{< include _nav.qmd >}}
+
+Les fiches détaillées sont pour l'instant en anglais.
+
+```{r}
+#| echo: false
+source("../R/map.R")
+melanobs_map(dir = "..", labels = c("Parcelles permanentes", "Herbiers régionaux"),
+             more = "Fiche (en anglais) &rarr;")
+h <- read_herbaria("..")
+knitr::kable(data.frame(paste0("[", h$herbarium, "](../herbaria/", h$slug, ".qmd)"),
+                        h$city, h$country),
+             col.names = c("Herbier", "Ville", "Pays"))
+```

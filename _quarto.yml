@@ -13,8 +13,10 @@ website:
     left:
       - text: "About"
         href: about.qmd
-      - text: "Sites"
-        href: sites.qmd
+      - text: "Permanent plots"
+        href: plots.qmd
+      - text: "Herbaria"
+        href: herbaria.qmd
       - text: "Data"
         href: data.qmd
       - text: "Publications"

@@ -1,1 +1,1 @@
-[Accueil](index.qmd) | [À propos](apropos.qmd) | [Sites](sites.qmd) | [Données](donnees.qmd) | [Publications](publications.qmd) | [Contact](contact.qmd) | [English](../index.qmd)
+[Accueil](index.qmd) | [À propos](apropos.qmd) | [Parcelles permanentes](parcelles.qmd) | [Herbiers](herbiers.qmd) | [Données](donnees.qmd) | [Publications](publications.qmd) | [Contact](contact.qmd) | [English](../index.qmd)

@@ -14,4 +14,4 @@ source("R/map.R")
 melanobs_map()
 ```
 
-Markers are examples: edit `data/sites.csv` to show the actual plots.
+Click a marker to open the page of that [permanent plot](plots.qmd) or [herbarium](herbaria.qmd).

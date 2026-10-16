@@ -1,0 +1,17 @@
+---
+title: "SUVA"
+subtitle: "Herbarium · Suva, Fiji"
+---
+
+```{r}
+#| echo: false
+source("../R/map.R")
+melanobs_map("..", height = 380, focus = "suva", zoom = 12)
+herbarium_facts("suva")
+```
+
+## Description
+
+*To be written: full name, host institution, collections, curator, contact…*
+
+[← All herbaria](../herbaria.qmd) · [Network map](../index.qmd)

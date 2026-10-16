@@ -13,5 +13,6 @@ MELANOBS suit la réponse des forêts aux changements globaux. Il s'appuie sur u
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map(dir = "..", labels = c("Parcelles permanentes (exemples)", "Herbiers régionaux"))
+melanobs_map(dir = "..", labels = c("Parcelles permanentes", "Herbiers régionaux"),
+             more = "Fiche (en anglais) &rarr;")
 ```
