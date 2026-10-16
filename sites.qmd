@@ -6,5 +6,6 @@ title: "Sites"
 #| echo: false
 library(readr)
 sites <- read_csv("data/sites.csv", show_col_types = FALSE)
-knitr::kable(sites, col.names = c("Site", "Country", "Latitude", "Longitude"))
+knitr::kable(sites[, c("site","country","island", "lat", "lon")],
+             col.names = c("Site","Country","Island","Latitude", "Longitude"))
 ```

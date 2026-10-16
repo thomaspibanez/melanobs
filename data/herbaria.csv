@@ -1,5 +1,5 @@
-city,country,lat,lon
-Nouméa,New Caledonia,-22.27,166.45
-Suva,Fiji,-18.14,178.44
-Port Vila,Vanuatu,-17.73,168.32
-Honiara,Solomon Islands,-9.43,159.95
+herbarium,city,country,lat,lon
+NOU,Nouméa,New Caledonia,-22.301675114422473,166.44370807026968
+SUVA,Suva,Fiji,-18.14982816574846, 178.4531516996874
+PVNH,Port Vila,Vanuatu,-17.705566337604054, 168.3202817658652
+BSIP,Honiara,Solomon Islands,-9.43319665099512, 159.94162283075792

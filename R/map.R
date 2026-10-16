@@ -10,10 +10,10 @@ melanobs_map <- function(dir = ".", height = 520,
     addProviderTiles(providers$Esri.WorldImagery, group = "Satellite") |>
     addCircleMarkers(data = plots, ~lon, ~lat, radius = 8, weight = 1,
                      color = "#16262B", fillColor = "#C98A1B", fillOpacity = 0.9,
-                     popup = ~paste0("<b>", site, "</b><br>", country)) |>
+                     popup = ~paste0("<b>", site, "</b><br>", island, ", ", country)) |>
     addCircleMarkers(data = herb, ~lon, ~lat, radius = 8, weight = 1,
                      color = "#16262B", fillColor = "#0E6B6F", fillOpacity = 0.9,
-                     popup = ~paste0("<b>", city, "</b><br>", country)) |>
+                     popup = ~paste0("<b>", herbarium, "</b><br>", city, ", ", country)) |>
     addLayersControl(baseGroups = c("Map", "Satellite"),
                      options = layersControlOptions(collapsed = FALSE)) |>
     addLegend("bottomleft", colors = c("#C98A1B", "#0E6B6F"),
