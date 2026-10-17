@@ -1,7 +1,7 @@
 slug,site,country,island,lat,lon,elevation,substrate
-siloam,Siloam,New Caledonia,Lifou,-20.727398,167.090406,63,Calcareous (uplifted coral limestone)
+siloam,Siloam,New Caledonia,Lifou,-20.727398,167.090406,60,Calcareous (uplifted coral limestone)
 blue-river,Blue River Provincial Park,New Caledonia,Grande Terre,-22.10677311,166.68812588,180,Ultramafic (peridotite)
-great-ferns,Great Ferns Provincial Park,New Caledonia,Grande Terre,-21.6119184,165.7468984,378,Volcano-sedimentary (schists)
-nusumetu,Nusumetu,Vanuatu,Tanna,-19.385234,169.294602,279,Volcanic
-poitete,Poitete,Solomon Islands,Kolombangara,-7.88488,157.127126,105,Volcanic
-vago,Vago,Fiji,Viti Levu,-18.077995,178.430887,221,Volcanic
+great-ferns,Great Ferns Provincial Park,New Caledonia,Grande Terre,-21.6119184,165.7468984,380,Volcano-sedimentary (schists)
+nusumetu,Nusumetu,Vanuatu,Tanna,-19.385234,169.294602,280,Volcanic
+poitete,Poitete,Solomon Islands,Kolombangara,-7.88488,157.127126,110,Volcanic
+vago,Vago,Fiji,Viti Levu,-18.077995,178.430887,220,Volcano-sedimentary
