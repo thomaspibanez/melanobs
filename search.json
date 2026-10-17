@@ -56,6 +56,13 @@
     "text": "Partenaires\nLe réseau réunit les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara.\n[Ajouter institutions, logos et équipe.]"
   },
   {
+    "objectID": "fr/apropos.html#financeurs",
+    "href": "fr/apropos.html#financeurs",
+    "title": "À propos",
+    "section": "Financeurs",
+    "text": "Financeurs\nLa première phase de MELANOBS a été financée par l’Institut de recherche pour le développement (IRD) et par le ministère de l’Europe et des Affaires étrangères (MEAE), au titre du Fonds Pacifique pour la coopération régionale."
+  },
+  {
     "objectID": "fr/donnees.html",
     "href": "fr/donnees.html",
     "title": "Données et protocoles",
@@ -292,5 +299,12 @@
     "title": "About",
     "section": "Partners",
     "text": "Partners\nThe network brings together the regional herbaria of Nouméa, Suva, Port Vila and Honiara.\n[Add institutions, logos (in an images/ folder) and team members.]"
+  },
+  {
+    "objectID": "about.html#funders",
+    "href": "about.html#funders",
+    "title": "About",
+    "section": "Funders",
+    "text": "Funders\nThe first phase of MELANOBS was funded by the French National Research Institute for Sustainable Development (IRD) and by the French Ministry for Europe and Foreign Affairs (MEAE), through the Pacific Fund for regional cooperation."
   }
 ]
