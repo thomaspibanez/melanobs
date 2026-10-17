@@ -42,6 +42,13 @@
     "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English"
   },
   {
+    "objectID": "fr/apropos.html#la-mélanésie",
+    "href": "fr/apropos.html#la-mélanésie",
+    "title": "À propos",
+    "section": "La Mélanésie",
+    "text": "La Mélanésie\nLa Mélanésie est une sous-région géographique et culturelle du Pacifique Sud-Ouest, composée de milliers d’îles situées entre l’équateur et le tropique du Capricorne. Du nord-ouest au sud-est, elle comprend les provinces indonésiennes de l’ouest de la Nouvelle-Guinée, les États indépendants de Papouasie-Nouvelle-Guinée, des Îles Salomon, du Vanuatu et des Fidji, ainsi que la Nouvelle-Calédonie, territoire français.\nLes forêts couvrent plus des trois quarts des terres de Mélanésie. Elles abritent une biodiversité unique et contribuent à atténuer le réchauffement climatique en stockant du carbone. Elles sont aussi essentielles au bien-être des populations locales, en particulier en milieu rural, grâce aux nombreux services écosystémiques qu’elles rendent. Dans le contexte des changements globaux, ces forêts font face à de multiples menaces : conversion en terres agricoles, exploitation forestière, activités minières, incendies, cyclones, espèces envahissantes et changement climatique. Malgré leur importance et leur vulnérabilité potentielle, elles restent relativement peu étudiées."
+  },
+  {
     "objectID": "fr/apropos.html#objectifs",
     "href": "fr/apropos.html#objectifs",
     "title": "À propos",
@@ -284,14 +291,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "MELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.\n[Add the network’s main aims here.]"
+    "text": "Melanesia is a geographic and cultural subregion of the southwest Pacific, made up of thousands of islands lying between the equator and the Tropic of Capricorn. From northwest to southeast, it includes the Indonesian provinces of western New Guinea, the independent states of Papua New Guinea, Solomon Islands, Vanuatu and Fiji, and the French territory of New Caledonia.\nForests cover more than three-quarters of the land in Melanesia. They support a unique biodiversity and help mitigate global warming by storing carbon. They are also essential to the well-being of local people, particularly in rural areas, through the many ecosystem services they provide. In the context of global change, these forests face multiple threats, including conversion to agricultural land, logging, mining, fires, cyclones, invasive species and climate change. Despite their importance and potential vulnerability, they remain relatively little studied."
+  },
+  {
+    "objectID": "about.html#melanesia",
+    "href": "about.html#melanesia",
+    "title": "About",
+    "section": "",
+    "text": "Melanesia is a geographic and cultural subregion of the southwest Pacific, made up of thousands of islands lying between the equator and the Tropic of Capricorn. From northwest to southeast, it includes the Indonesian provinces of western New Guinea, the independent states of Papua New Guinea, Solomon Islands, Vanuatu and Fiji, and the French territory of New Caledonia.\nForests cover more than three-quarters of the land in Melanesia. They support a unique biodiversity and help mitigate global warming by storing carbon. They are also essential to the well-being of local people, particularly in rural areas, through the many ecosystem services they provide. In the context of global change, these forests face multiple threats, including conversion to agricultural land, logging, mining, fires, cyclones, invasive species and climate change. Despite their importance and potential vulnerability, they remain relatively little studied."
   },
   {
     "objectID": "about.html#aims",
     "href": "about.html#aims",
     "title": "About",
-    "section": "",
-    "text": "MELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.\n[Add the network’s main aims here.]"
+    "section": "Aims",
+    "text": "Aims\nMELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.\n[Add the network’s main aims here.]"
   },
   {
     "objectID": "about.html#partners",
