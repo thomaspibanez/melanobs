@@ -16,7 +16,11 @@ MELANOBS, the Melanesian Observatory of forest responses to global change, is a 
 
 The observatory relies on a network of [permanent plots](plots.qmd) re-measured over time to track how Melanesian forests respond to global change.
 
-[Add the network's main aims here.]
+Its main aims are to:
+
+- build capacity through research partnerships;
+- improve knowledge of forest biodiversity, for example by establishing species checklists at the island level;
+- improve knowledge of forest functioning, for example by monitoring tree demography (growth, mortality and recruitment).
 
 ## Partners
 

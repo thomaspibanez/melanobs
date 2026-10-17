@@ -18,7 +18,11 @@ MELANOBS, l'observatoire mélanésien de la réponse des forêts aux changements
 
 L'observatoire s'appuie sur un réseau de [parcelles permanentes](parcelles.qmd) remesurées dans le temps pour suivre la réponse des forêts mélanésiennes aux changements globaux.
 
-[Ajouter les principaux objectifs du réseau.]
+Ses principaux objectifs sont de :
+
+- renforcer les capacités grâce à des partenariats de recherche ;
+- améliorer les connaissances sur la biodiversité forestière, par exemple en établissant des listes d'espèces à l'échelle de chaque île ;
+- améliorer les connaissances sur le fonctionnement des forêts, par exemple en suivant la démographie des arbres (croissance, mortalité et recrutement).
 
 ## Partenaires
 
