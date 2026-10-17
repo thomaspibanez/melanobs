@@ -6,7 +6,7 @@ subtitle: "Permanent plot · Grande Terre, New Caledonia"
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map("..", height = 380, focus = "great-ferns")
+melanobs_map("..", height = 380, focus = "great-ferns", show = "plots")
 plot_facts("great-ferns")
 ```
 

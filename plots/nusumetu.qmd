@@ -6,7 +6,7 @@ subtitle: "Permanent plot · Tanna, Vanuatu"
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map("..", height = 380, focus = "nusumetu")
+melanobs_map("..", height = 380, focus = "nusumetu", show = "plots")
 plot_facts("nusumetu")
 ```
 

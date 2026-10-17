@@ -6,7 +6,7 @@ subtitle: "Permanent plot · Kolombangara, Solomon Islands"
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map("..", height = 380, focus = "poitete")
+melanobs_map("..", height = 380, focus = "poitete", show = "plots")
 plot_facts("poitete")
 ```
 

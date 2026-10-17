@@ -6,7 +6,7 @@ subtitle: "Permanent plot · Viti Levu, Fiji"
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map("..", height = 380, focus = "vago")
+melanobs_map("..", height = 380, focus = "vago", show = "plots")
 plot_facts("vago")
 ```
 

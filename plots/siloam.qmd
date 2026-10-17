@@ -6,7 +6,7 @@ subtitle: "Permanent plot · Lifou, New Caledonia"
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map("..", height = 380, focus = "siloam")
+melanobs_map("..", height = 380, focus = "siloam", show = "plots")
 plot_facts("siloam")
 ```
 
