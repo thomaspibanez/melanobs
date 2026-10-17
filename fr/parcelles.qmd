@@ -21,6 +21,6 @@ melanobs_map(dir = "..", labels = c("Parcelles permanentes", "Herbiers"),
              more = "Fiche (en anglais) &rarr;", show = "plots")
 p <- read_plots("..")
 knitr::kable(data.frame(paste0("[", p$site, "](../plots/", p$slug, ".qmd)"),
-                        p$island, p$country, p$lat, p$lon),
+                        p$island, p$country, coord(p$lat), coord(p$lon)),
              col.names = c("Parcelle", "Île", "Pays", "Latitude", "Longitude"))
 ```

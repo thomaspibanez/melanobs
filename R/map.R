@@ -4,6 +4,9 @@ library(readr)
 read_plots    <- function(dir = ".") read_csv(file.path(dir, "data/plots.csv"), show_col_types = FALSE)
 read_herbaria <- function(dir = ".") read_csv(file.path(dir, "data/herbaria.csv"), show_col_types = FALSE)
 
+# Coordinates as displayed in tables (always 4 decimals)
+coord <- function(x) formatC(x, format = "f", digits = 4)
+
 # Link to the dedicated page of a plot or herbarium, relative to the current page
 # (dir is the path from the current page to the site root, e.g. "." or "..")
 item_link <- function(dir, folder, slug, text) {
@@ -49,7 +52,7 @@ plot_facts <- function(slug, dir = "..") {
   p <- read_plots(dir)
   p <- p[p$slug == slug, ]
   knitr::kable(data.frame(c("Country", "Island", "Latitude", "Longitude"),
-                          c(p$country, p$island, p$lat, p$lon)),
+                          c(p$country, p$island, coord(p$lat), coord(p$lon))),
                col.names = c("", ""))
 }
 
@@ -57,6 +60,6 @@ herbarium_facts <- function(slug, dir = "..") {
   h <- read_herbaria(dir)
   h <- h[h$slug == slug, ]
   knitr::kable(data.frame(c("Code", "City", "Country", "Latitude", "Longitude"),
-                          c(h$code, h$city, h$country, round(h$lat, 5), round(h$lon, 5))),
+                          c(h$code, h$city, h$country, coord(h$lat), coord(h$lon))),
                col.names = c("", ""))
 }
