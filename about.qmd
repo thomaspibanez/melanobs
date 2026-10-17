@@ -10,7 +10,11 @@ Forests cover more than three-quarters of the land in Melanesia. They support a 
 
 ## Aims
 
-MELANOBS is an observatory that tracks the response of Melanesian forests to global change, using permanent plots re-measured over time.
+The local scientific community working on the ecology and conservation of Melanesian forests is small and geographically dispersed. Researchers and experts often work in isolation, with little exchange between countries, even though they face similar problems: managing the effects of global change in island environments, with limited staff and expertise to meet conservation challenges.
+
+MELANOBS, the Melanesian Observatory of forest responses to global change, is a regional response to these challenges, combining collaboration and research to support forest conservation for the benefit of Melanesian communities. The project aims to build an international network of researchers and experts working on the ecology and conservation of Melanesian forests, based on collaboration, capacity building and equity.
+
+The observatory relies on a network of [permanent plots](plots.qmd) re-measured over time to track how Melanesian forests respond to global change.
 
 [Add the network's main aims here.]
 
