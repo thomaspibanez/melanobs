@@ -27,7 +27,13 @@ website:
       - text: "Français"
         href: fr/index.qmd
   page-footer:
-    center: "MELANOBS · Melanesian Observatory of forest responses to global change"
+    left: "MELANOBS · Melanesian Observatory of forest responses to global change"
+    right: |
+      <div class="footer-logos">
+      <a href="https://amaplab.fr"><img src="/images/amap.png" alt="AMAP lab"></a>
+      <a href="https://en.ird.fr"><img src="/images/ird.png" alt="IRD"></a>
+      <img src="/images/fonds-pacifique.png" alt="Pacific Fund">
+      </div>
 
 format:
   html:
