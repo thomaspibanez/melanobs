@@ -9,10 +9,10 @@ Les fiches détaillées sont pour l'instant en anglais.
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map(dir = "..", labels = c("Parcelles permanentes", "Herbiers régionaux"),
+melanobs_map(dir = "..", labels = c("Parcelles permanentes", "Herbiers"),
              more = "Fiche (en anglais) &rarr;", show = "herbaria")
 h <- read_herbaria("..")
-knitr::kable(data.frame(paste0("[", h$herbarium, "](../herbaria/", h$slug, ".qmd)"),
-                        h$city, h$country),
-             col.names = c("Herbier", "Ville", "Pays"))
+knitr::kable(data.frame(paste0("[", h$name, "](../herbaria/", h$slug, ".qmd)"),
+                        h$code, h$city, h$country),
+             col.names = c("Herbier", "Code", "Ville", "Pays"))
 ```

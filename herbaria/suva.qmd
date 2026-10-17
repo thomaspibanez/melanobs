@@ -1,6 +1,6 @@
 ---
-title: "SUVA"
-subtitle: "Herbarium · Suva, Fiji"
+title: "South Pacific Regional Herbarium"
+subtitle: "SUVA · Suva, Fiji"
 ---
 
 ```{r}

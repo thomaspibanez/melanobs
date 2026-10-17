@@ -1,6 +1,6 @@
 ---
-title: "PVNH"
-subtitle: "Herbarium · Port Vila, Vanuatu"
+title: "Vanuatu National Herbarium"
+subtitle: "PVNH · Port Vila, Vanuatu"
 ---
 
 ```{r}

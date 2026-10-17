@@ -1,6 +1,6 @@
 ---
-title: "BSIP"
-subtitle: "Herbarium · Honiara, Solomon Islands"
+title: "Solomon Islands National Herbarium"
+subtitle: "BSIP · Honiara, Solomon Islands"
 ---
 
 ```{r}

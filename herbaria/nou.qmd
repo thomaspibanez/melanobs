@@ -1,6 +1,6 @@
 ---
-title: "NOU"
-subtitle: "Herbarium <c2><b7> Noum<U+00E9>a, New Caledonia"
+title: "Herbarium of New Caledonia"
+subtitle: "NOU · Nouméa, New Caledonia"
 ---
 
 ```{r}

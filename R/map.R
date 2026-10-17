@@ -13,7 +13,7 @@ item_link <- function(dir, folder, slug, text) {
 # focus: slug of a plot or herbarium to centre the map on (for dedicated pages)
 # show: which layers to draw, "plots" and/or "herbaria"
 melanobs_map <- function(dir = ".", height = 520,
-                         labels = c("Permanent plots", "Regional herbaria"),
+                         labels = c("Permanent plots", "Herbaria"),
                          more = "More &rarr;", focus = NULL, zoom = 9,
                          show = c("plots", "herbaria")) {
   plots <- read_plots(dir)
@@ -24,7 +24,7 @@ melanobs_map <- function(dir = ".", height = 520,
   if ("herbaria" %in% show)
     m <- addCircleMarkers(m, data = herb, ~lon, ~lat, radius = 11, weight = 1,
                           color = "#16262B", fillColor = "#0E6B6F", fillOpacity = 0.5,
-                          popup = ~paste0("<b>", herbarium, "</b><br>", city, ", ", country,
+                          popup = ~paste0("<b>", name, "</b><br>", code, " &middot; ", city, ", ", country,
                                           "<br>", item_link(dir, "herbaria", slug, more)))
   if ("plots" %in% show)
     m <- addCircleMarkers(m, data = plots, ~lon, ~lat, radius = 7, weight = 1,
@@ -57,6 +57,6 @@ herbarium_facts <- function(slug, dir = "..") {
   h <- read_herbaria(dir)
   h <- h[h$slug == slug, ]
   knitr::kable(data.frame(c("Code", "City", "Country", "Latitude", "Longitude"),
-                          c(h$herbarium, h$city, h$country, round(h$lat, 5), round(h$lon, 5))),
+                          c(h$code, h$city, h$country, round(h$lat, 5), round(h$lon, 5))),
                col.names = c("", ""))
 }

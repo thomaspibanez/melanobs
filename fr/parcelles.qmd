@@ -9,7 +9,7 @@ Les fiches détaillées sont pour l'instant en anglais.
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map(dir = "..", labels = c("Parcelles permanentes", "Herbiers régionaux"),
+melanobs_map(dir = "..", labels = c("Parcelles permanentes", "Herbiers"),
              more = "Fiche (en anglais) &rarr;", show = "plots")
 p <- read_plots("..")
 knitr::kable(data.frame(paste0("[", p$site, "](../plots/", p$slug, ".qmd)"),
