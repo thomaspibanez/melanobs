@@ -242,7 +242,7 @@
     "href": "fr/herbiers.html",
     "title": "Herbiers",
     "section": "",
-    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\nLes fiches détaillées sont pour l’instant en anglais.\n\n\n\n\n\n\n\n\n\nHerbier\nCode\nVille\nPays\n\n\n\n\nHerbarium of New Caledonia\nNOU\nNouméa\nNew Caledonia\n\n\nSouth Pacific Regional Herbarium\nSUVA\nSuva\nFiji\n\n\nVanuatu National Herbarium\nPVNH\nPort Vila\nVanuatu\n\n\nSolomon Islands National Herbarium\nBSIP\nHoniara\nSolomon Islands"
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\nLes fiches détaillées sont pour l’instant en anglais.\n\n\n\n\n\n\n\n\n\nCode\nNom\nVille\nPays\n\n\n\n\nNOU\nHerbarium of New Caledonia\nNouméa\nNew Caledonia\n\n\nSUVA\nSouth Pacific Regional Herbarium\nSuva\nFiji\n\n\nPVNH\nVanuatu National Herbarium\nPort Vila\nVanuatu\n\n\nBSIP\nSolomon Islands National Herbarium\nHoniara\nSolomon Islands"
   },
   {
     "objectID": "fr/parcelles.html",
@@ -270,7 +270,7 @@
     "href": "herbaria.html",
     "title": "Herbaria",
     "section": "",
-    "text": "Herbarium\nCode\nCity\nCountry\n\n\n\n\nHerbarium of New Caledonia\nNOU\nNouméa\nNew Caledonia\n\n\nSouth Pacific Regional Herbarium\nSUVA\nSuva\nFiji\n\n\nVanuatu National Herbarium\nPVNH\nPort Vila\nVanuatu\n\n\nSolomon Islands National Herbarium\nBSIP\nHoniara\nSolomon Islands"
+    "text": "Code\nName\nCity\nCountry\n\n\n\n\nNOU\nHerbarium of New Caledonia\nNouméa\nNew Caledonia\n\n\nSUVA\nSouth Pacific Regional Herbarium\nSuva\nFiji\n\n\nPVNH\nVanuatu National Herbarium\nPort Vila\nVanuatu\n\n\nBSIP\nSolomon Islands National Herbarium\nHoniara\nSolomon Islands"
   },
   {
     "objectID": "about.html",
