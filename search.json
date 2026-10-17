@@ -88,14 +88,14 @@
     "href": "plots.html",
     "title": "Permanent plots",
     "section": "",
-    "text": "The MELANOBS network is made up of permanent plots of 1 ha (100 m × 100 m). In each plot, every stem with a diameter at breast height (DBH, measured 1.3 m above the ground) of at least 10 cm is identified botanically, measured and mapped. This includes trees as well as palms, tree ferns, pandanus and other growth forms. Each individual carries a tag with a unique number, and the point of measurement is marked with paint so that every census measures the stem at exactly the same height.\nA voucher specimen of each species recorded in the plots has been collected and deposited in the herbaria of the region.\nAdditional measurements are made in and around the plots, including tree height (H) and wood density. They are used to calibrate local height–diameter (H–DBH) allometries and to estimate above-ground biomass and carbon stocks.\nThe plots are resurveyed every year where possible, and at least every five years, to measure tree growth, mortality and recruitment rates, as well as changes in species composition.\nThe protocol follows the international standards of the ForestPlots.net network.\n\n\n\n\n\n\n\n\n\nPlot\nIsland\nCountry\nLatitude\nLongitude\n\n\n\n\nSiloam\nLifou\nNew Caledonia\n-20.7274\n167.0904\n\n\nBlue River Provincial Park\nGrande Terre\nNew Caledonia\n-22.1068\n166.6881\n\n\nGreat Ferns Provincial Park\nGrande Terre\nNew Caledonia\n-21.6119\n165.7469\n\n\nNusumetu\nTanna\nVanuatu\n-19.3852\n169.2946\n\n\nPoitete\nKolombangara\nSolomon Islands\n-7.8849\n157.1271\n\n\nVago\nViti Levu\nFiji\n-18.0780\n178.4309"
+    "text": "The MELANOBS network is made up of permanent plots of 1 ha (100 m × 100 m). In each plot, every stem with a diameter at breast height (DBH, measured 1.3 m above the ground) of at least 10 cm is identified botanically, measured and mapped. This includes trees as well as palms, tree ferns, pandanus and other growth forms. Each individual carries a tag with a unique number, and the point of measurement is marked with paint so that every census measures the stem at exactly the same height.\nThe network focuses on lowland tropical wet forest. Plot locations are chosen together with local partners, preferably in protected and accessible areas.\nA voucher specimen of each species recorded in the plots has been collected and deposited in the herbaria of the region.\nAdditional measurements are made in and around the plots, including tree height (H) and wood density. They are used to calibrate local height–diameter (H–DBH) allometries and to estimate above-ground biomass and carbon stocks.\nThe plots are resurveyed every year where possible, and at least every five years, to measure tree growth, mortality and recruitment rates, as well as changes in species composition.\nThe protocol follows the international standards of the ForestPlots.net network.\n\n\n\n\n\n\n\n\n\nPlot\nIsland\nCountry\nLatitude\nLongitude\n\n\n\n\nSiloam\nLifou\nNew Caledonia\n-20.7274\n167.0904\n\n\nBlue River Provincial Park\nGrande Terre\nNew Caledonia\n-22.1068\n166.6881\n\n\nGreat Ferns Provincial Park\nGrande Terre\nNew Caledonia\n-21.6119\n165.7469\n\n\nNusumetu\nTanna\nVanuatu\n-19.3852\n169.2946\n\n\nPoitete\nKolombangara\nSolomon Islands\n-7.8849\n157.1271\n\n\nVago\nViti Levu\nFiji\n-18.0780\n178.4309"
   },
   {
     "objectID": "plots/siloam.html",
     "href": "plots/siloam.html",
     "title": "Siloam",
     "section": "",
-    "text": "Country\nNew Caledonia\n\n\nIsland\nLifou\n\n\nLatitude\n-20.7274\n\n\nLongitude\n167.0904"
+    "text": "Country\nNew Caledonia\n\n\nIsland\nLifou\n\n\nLatitude\n-20.7274\n\n\nLongitude\n167.0904\n\n\nElevation (approx.)\n63 m\n\n\nSubstrate\nCalcareous (uplifted coral limestone)"
   },
   {
     "objectID": "plots/siloam.html#description",
@@ -109,7 +109,7 @@
     "href": "plots/vago.html",
     "title": "Vago",
     "section": "",
-    "text": "Country\nFiji\n\n\nIsland\nViti Levu\n\n\nLatitude\n-18.0780\n\n\nLongitude\n178.4309"
+    "text": "Country\nFiji\n\n\nIsland\nViti Levu\n\n\nLatitude\n-18.0780\n\n\nLongitude\n178.4309\n\n\nElevation (approx.)\n221 m\n\n\nSubstrate\nVolcanic"
   },
   {
     "objectID": "plots/vago.html#description",
@@ -123,7 +123,7 @@
     "href": "plots/poitete.html",
     "title": "Poitete",
     "section": "",
-    "text": "Country\nSolomon Islands\n\n\nIsland\nKolombangara\n\n\nLatitude\n-7.8849\n\n\nLongitude\n157.1271"
+    "text": "Country\nSolomon Islands\n\n\nIsland\nKolombangara\n\n\nLatitude\n-7.8849\n\n\nLongitude\n157.1271\n\n\nElevation (approx.)\n105 m\n\n\nSubstrate\nVolcanic"
   },
   {
     "objectID": "plots/poitete.html#description",
@@ -200,7 +200,7 @@
     "href": "plots/blue-river.html",
     "title": "Blue River Provincial Park",
     "section": "",
-    "text": "Country\nNew Caledonia\n\n\nIsland\nGrande Terre\n\n\nLatitude\n-22.1068\n\n\nLongitude\n166.6881"
+    "text": "Country\nNew Caledonia\n\n\nIsland\nGrande Terre\n\n\nLatitude\n-22.1068\n\n\nLongitude\n166.6881\n\n\nElevation (approx.)\n180 m\n\n\nSubstrate\nUltramafic (peridotite)"
   },
   {
     "objectID": "plots/blue-river.html#description",
@@ -214,7 +214,7 @@
     "href": "plots/nusumetu.html",
     "title": "Nusumetu",
     "section": "",
-    "text": "Country\nVanuatu\n\n\nIsland\nTanna\n\n\nLatitude\n-19.3852\n\n\nLongitude\n169.2946"
+    "text": "Country\nVanuatu\n\n\nIsland\nTanna\n\n\nLatitude\n-19.3852\n\n\nLongitude\n169.2946\n\n\nElevation (approx.)\n279 m\n\n\nSubstrate\nVolcanic"
   },
   {
     "objectID": "plots/nusumetu.html#description",
@@ -228,7 +228,7 @@
     "href": "plots/great-ferns.html",
     "title": "Great Ferns Provincial Park",
     "section": "",
-    "text": "Country\nNew Caledonia\n\n\nIsland\nGrande Terre\n\n\nLatitude\n-21.6119\n\n\nLongitude\n165.7469"
+    "text": "Country\nNew Caledonia\n\n\nIsland\nGrande Terre\n\n\nLatitude\n-21.6119\n\n\nLongitude\n165.7469\n\n\nElevation (approx.)\n378 m\n\n\nSubstrate\nVolcano-sedimentary (schists)"
   },
   {
     "objectID": "plots/great-ferns.html#description",
@@ -249,7 +249,7 @@
     "href": "fr/parcelles.html",
     "title": "Parcelles permanentes",
     "section": "",
-    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\nLe réseau MELANOBS est constitué de parcelles permanentes de 1 ha (100 m × 100 m). Dans chaque parcelle, toutes les tiges dont le diamètre à hauteur de poitrine (DHP, mesuré à 1,3 m du sol) atteint au moins 10 cm sont identifiées botaniquement, mesurées et cartographiées. Cela comprend les arbres mais aussi les palmiers, les fougères arborescentes, les pandanus et les autres formes de croissance. Chaque individu porte une étiquette avec un numéro unique, et le point de mesure est marqué à la peinture afin que chaque inventaire mesure la tige exactement à la même hauteur.\nUn échantillon de référence de chaque espèce recensée dans les parcelles a été récolté et déposé dans les herbiers de la région.\nDes mesures complémentaires sont réalisées dans et autour des parcelles, notamment la hauteur des arbres (H) et la densité du bois. Elles servent à calibrer des allométries locales hauteur–diamètre (H–DHP) et à estimer la biomasse aérienne et les stocks de carbone.\nLes parcelles sont réinventoriées chaque année lorsque c’est possible, et au moins tous les cinq ans, afin de mesurer les taux de croissance, de mortalité et de recrutement des arbres, ainsi que l’évolution de la composition floristique.\nLe protocole suit les standards internationaux du réseau ForestPlots.net.\nLes fiches détaillées des parcelles sont pour l’instant en anglais.\n\n\n\n\n\n\n\n\n\nParcelle\nÎle\nPays\nLatitude\nLongitude\n\n\n\n\nSiloam\nLifou\nNew Caledonia\n-20.7274\n167.0904\n\n\nBlue River Provincial Park\nGrande Terre\nNew Caledonia\n-22.1068\n166.6881\n\n\nGreat Ferns Provincial Park\nGrande Terre\nNew Caledonia\n-21.6119\n165.7469\n\n\nNusumetu\nTanna\nVanuatu\n-19.3852\n169.2946\n\n\nPoitete\nKolombangara\nSolomon Islands\n-7.8849\n157.1271\n\n\nVago\nViti Levu\nFiji\n-18.0780\n178.4309"
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\nLe réseau MELANOBS est constitué de parcelles permanentes de 1 ha (100 m × 100 m). Dans chaque parcelle, toutes les tiges dont le diamètre à hauteur de poitrine (DHP, mesuré à 1,3 m du sol) atteint au moins 10 cm sont identifiées botaniquement, mesurées et cartographiées. Cela comprend les arbres mais aussi les palmiers, les fougères arborescentes, les pandanus et les autres formes de croissance. Chaque individu porte une étiquette avec un numéro unique, et le point de mesure est marqué à la peinture afin que chaque inventaire mesure la tige exactement à la même hauteur.\nLe réseau cible les forêts tropicales humides de basse altitude. L’emplacement des parcelles est choisi avec les partenaires locaux, de préférence dans des zones protégées et accessibles.\nUn échantillon de référence de chaque espèce recensée dans les parcelles a été récolté et déposé dans les herbiers de la région.\nDes mesures complémentaires sont réalisées dans et autour des parcelles, notamment la hauteur des arbres (H) et la densité du bois. Elles servent à calibrer des allométries locales hauteur–diamètre (H–DHP) et à estimer la biomasse aérienne et les stocks de carbone.\nLes parcelles sont réinventoriées chaque année lorsque c’est possible, et au moins tous les cinq ans, afin de mesurer les taux de croissance, de mortalité et de recrutement des arbres, ainsi que l’évolution de la composition floristique.\nLe protocole suit les standards internationaux du réseau ForestPlots.net.\nLes fiches détaillées des parcelles sont pour l’instant en anglais.\n\n\n\n\n\n\n\n\n\nParcelle\nÎle\nPays\nLatitude\nLongitude\n\n\n\n\nSiloam\nLifou\nNew Caledonia\n-20.7274\n167.0904\n\n\nBlue River Provincial Park\nGrande Terre\nNew Caledonia\n-22.1068\n166.6881\n\n\nGreat Ferns Provincial Park\nGrande Terre\nNew Caledonia\n-21.6119\n165.7469\n\n\nNusumetu\nTanna\nVanuatu\n-19.3852\n169.2946\n\n\nPoitete\nKolombangara\nSolomon Islands\n-7.8849\n157.1271\n\n\nVago\nViti Levu\nFiji\n-18.0780\n178.4309"
   },
   {
     "objectID": "fr/publications.html",
