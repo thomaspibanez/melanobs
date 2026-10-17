@@ -51,8 +51,10 @@ melanobs_map <- function(dir = ".", height = 520,
 plot_facts <- function(slug, dir = "..") {
   p <- read_plots(dir)
   p <- p[p$slug == slug, ]
-  knitr::kable(data.frame(c("Country", "Island", "Latitude", "Longitude"),
-                          c(p$country, p$island, coord(p$lat), coord(p$lon))),
+  knitr::kable(data.frame(c("Country", "Island", "Latitude", "Longitude",
+                            "Elevation (approx.)", "Substrate"),
+                          c(p$country, p$island, coord(p$lat), coord(p$lon),
+                            paste(p$elevation, "m"), p$substrate)),
                col.names = c("", ""))
 }
 
