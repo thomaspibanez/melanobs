@@ -135,56 +135,56 @@
   {
     "objectID": "herbaria/nou.html",
     "href": "herbaria/nou.html",
-    "title": "NOU",
+    "title": "Herbarium of New Caledonia",
     "section": "",
     "text": "Code\nNOU\n\n\nCity\nNouméa\n\n\nCountry\nNew Caledonia\n\n\nLatitude\n-22.30168\n\n\nLongitude\n166.44371"
   },
   {
     "objectID": "herbaria/nou.html#description",
     "href": "herbaria/nou.html#description",
-    "title": "NOU",
+    "title": "Herbarium of New Caledonia",
     "section": "Description",
     "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
   },
   {
     "objectID": "herbaria/bsip.html",
     "href": "herbaria/bsip.html",
-    "title": "BSIP",
+    "title": "Solomon Islands National Herbarium",
     "section": "",
     "text": "Code\nBSIP\n\n\nCity\nHoniara\n\n\nCountry\nSolomon Islands\n\n\nLatitude\n-9.4332\n\n\nLongitude\n159.94162"
   },
   {
     "objectID": "herbaria/bsip.html#description",
     "href": "herbaria/bsip.html#description",
-    "title": "BSIP",
+    "title": "Solomon Islands National Herbarium",
     "section": "Description",
     "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
   },
   {
     "objectID": "herbaria/suva.html",
     "href": "herbaria/suva.html",
-    "title": "SUVA",
+    "title": "South Pacific Regional Herbarium",
     "section": "",
     "text": "Code\nSUVA\n\n\nCity\nSuva\n\n\nCountry\nFiji\n\n\nLatitude\n-18.14983\n\n\nLongitude\n178.45315"
   },
   {
     "objectID": "herbaria/suva.html#description",
     "href": "herbaria/suva.html#description",
-    "title": "SUVA",
+    "title": "South Pacific Regional Herbarium",
     "section": "Description",
     "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
   },
   {
     "objectID": "herbaria/pvnh.html",
     "href": "herbaria/pvnh.html",
-    "title": "PVNH",
+    "title": "Vanuatu National Herbarium",
     "section": "",
     "text": "Code\nPVNH\n\n\nCity\nPort Vila\n\n\nCountry\nVanuatu\n\n\nLatitude\n-17.70557\n\n\nLongitude\n168.32028"
   },
   {
     "objectID": "herbaria/pvnh.html#description",
     "href": "herbaria/pvnh.html#description",
-    "title": "PVNH",
+    "title": "Vanuatu National Herbarium",
     "section": "Description",
     "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
   },
@@ -242,7 +242,7 @@
     "href": "fr/herbiers.html",
     "title": "Herbiers",
     "section": "",
-    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\nLes fiches détaillées sont pour l’instant en anglais.\n\n\n\n\n\n\n\n\n\nHerbier\nVille\nPays\n\n\n\n\nNOU\nNouméa\nNew Caledonia\n\n\nSUVA\nSuva\nFiji\n\n\nPVNH\nPort Vila\nVanuatu\n\n\nBSIP\nHoniara\nSolomon Islands"
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Données | Publications | Contact | English\nLes fiches détaillées sont pour l’instant en anglais.\n\n\n\n\n\n\n\n\n\nHerbier\nCode\nVille\nPays\n\n\n\n\nHerbarium of New Caledonia\nNOU\nNouméa\nNew Caledonia\n\n\nSouth Pacific Regional Herbarium\nSUVA\nSuva\nFiji\n\n\nVanuatu National Herbarium\nPVNH\nPort Vila\nVanuatu\n\n\nSolomon Islands National Herbarium\nBSIP\nHoniara\nSolomon Islands"
   },
   {
     "objectID": "fr/parcelles.html",
@@ -270,7 +270,7 @@
     "href": "herbaria.html",
     "title": "Herbaria",
     "section": "",
-    "text": "Herbarium\nCity\nCountry\n\n\n\n\nNOU\nNouméa\nNew Caledonia\n\n\nSUVA\nSuva\nFiji\n\n\nPVNH\nPort Vila\nVanuatu\n\n\nBSIP\nHoniara\nSolomon Islands"
+    "text": "Herbarium\nCode\nCity\nCountry\n\n\n\n\nHerbarium of New Caledonia\nNOU\nNouméa\nNew Caledonia\n\n\nSouth Pacific Regional Herbarium\nSUVA\nSuva\nFiji\n\n\nVanuatu National Herbarium\nPVNH\nPort Vila\nVanuatu\n\n\nSolomon Islands National Herbarium\nBSIP\nHoniara\nSolomon Islands"
   },
   {
     "objectID": "about.html",
