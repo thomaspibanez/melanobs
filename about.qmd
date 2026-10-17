@@ -15,12 +15,16 @@ MELANOBS brings together partners from a range of backgrounds: research and acad
 ::: {.partner-logos}
 [![AMAP lab](images/amap.png)](https://amaplab.fr)
 [![IRD](images/ird.png)](https://en.ird.fr)
-[![Solomon Islands National University](images/partners/sinu.png)](https://www.sinu.edu.sb)
+[![Solomon Islands National University](images/partners/sinu.jpg){.logo-medium}](https://www.sinu.edu.sb)
+[![The University of the South Pacific](images/partners/usp.png)](https://www.usp.ac.fj)
 [![Adelaide University](images/partners/adelaide.svg){.logo-wide}](https://adelaide.edu.au)
 [![New York Botanical Garden](images/partners/nybg.svg){.logo-wide}](https://www.nybg.org)
 [![Endemia](images/partners/endemia.png){.logo-xwide}](https://endemia.nc)
 [![NatureFiji-MareqetiViti](images/partners/naturefiji.jpg)](https://www.naturefiji.org)
+![Solomon Islands Ministry of Forestry and Research](images/partners/solomon-islands.png)
 [![Vanuatu Department of Forests](images/partners/vanuatu-forests.png)](https://malffb.gov.vu)
+![Government of Vanuatu](images/partners/vanuatu.jpg)
+![Fiji Ministry of Fisheries and Forestry](images/partners/fiji.png)
 [![Loyalty Islands Province](images/partners/province-iles.png)](https://www.province-iles.nc)
 [![South Province](images/partners/province-sud.svg)](https://www.province-sud.nc)
 :::
