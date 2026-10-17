@@ -12,6 +12,19 @@ MELANOBS is an observatory that tracks the response of Melanesian forests to glo
 
 MELANOBS brings together partners from a range of backgrounds: research and academic institutions (the AMAP joint research unit, Solomon Islands National University, the University of the South Pacific, Adelaide University and the New York Botanical Garden), NGOs (Endemia and NatureFiji-MareqetiViti) and government agencies (the Solomon Islands Ministry of Forestry and Research, the Vanuatu Department of Forests, the Fiji Ministry of Fisheries and Forestry and, in New Caledonia, the Environment Department of the Loyalty Islands Province and the Protected Areas Management Department of the South Province). Among them are the curators of the region's [herbaria](herbaria.qmd).
 
+::: {.partner-logos}
+[![AMAP lab](images/amap.png)](https://amaplab.fr)
+[![IRD](images/ird.png)](https://en.ird.fr)
+[![Solomon Islands National University](images/partners/sinu.png)](https://www.sinu.edu.sb)
+[![Adelaide University](images/partners/adelaide.svg){.logo-wide}](https://adelaide.edu.au)
+[![New York Botanical Garden](images/partners/nybg.svg){.logo-wide}](https://www.nybg.org)
+[![Endemia](images/partners/endemia.png){.logo-xwide}](https://endemia.nc)
+[![NatureFiji-MareqetiViti](images/partners/naturefiji.jpg)](https://www.naturefiji.org)
+[![Vanuatu Department of Forests](images/partners/vanuatu-forests.png)](https://malffb.gov.vu)
+[![Loyalty Islands Province](images/partners/province-iles.png)](https://www.province-iles.nc)
+[![South Province](images/partners/province-sud.svg)](https://www.province-sud.nc)
+:::
+
 ## Funders
 
 The first phase of MELANOBS was funded by the French National Research Institute for Sustainable Development ([IRD](https://en.ird.fr)) and by the French Ministry for Europe and Foreign Affairs (MEAE), through the Pacific Fund for regional cooperation.

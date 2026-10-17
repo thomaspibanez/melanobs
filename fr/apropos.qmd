@@ -14,6 +14,19 @@ MELANOBS est un observatoire qui suit la réponse des forêts mélanésiennes au
 
 MELANOBS réunit des partenaires aux profils variés : des organismes de recherche et universités (l'unité mixte de recherche AMAP, l'Université nationale des Îles Salomon, l'Université du Pacifique Sud, Adelaide University et le Jardin botanique de New York), des ONG (Endemia et NatureFiji-MareqetiViti) et des administrations (le ministère des Forêts et de la Recherche des Îles Salomon, le département des Forêts du Vanuatu, le ministère de la Pêche et des Forêts des Fidji et, en Nouvelle-Calédonie, la direction de l'Environnement de la province des îles Loyauté et le service de gestion des aires protégées de la province Sud). Parmi eux figurent les conservateurs des [herbiers](herbiers.qmd) de la région.
 
+::: {.partner-logos}
+[![AMAP lab](../images/amap.png)](https://amaplab.fr)
+[![IRD](../images/ird.png)](https://en.ird.fr)
+[![Solomon Islands National University](../images/partners/sinu.png)](https://www.sinu.edu.sb)
+[![Adelaide University](../images/partners/adelaide.svg){.logo-wide}](https://adelaide.edu.au)
+[![New York Botanical Garden](../images/partners/nybg.svg){.logo-wide}](https://www.nybg.org)
+[![Endemia](../images/partners/endemia.png){.logo-xwide}](https://endemia.nc)
+[![NatureFiji-MareqetiViti](../images/partners/naturefiji.jpg)](https://www.naturefiji.org)
+[![Vanuatu Department of Forests](../images/partners/vanuatu-forests.png)](https://malffb.gov.vu)
+[![Loyalty Islands Province](../images/partners/province-iles.png)](https://www.province-iles.nc)
+[![South Province](../images/partners/province-sud.svg)](https://www.province-sud.nc)
+:::
+
 ## Financeurs
 
 La première phase de MELANOBS a été financée par l'Institut de recherche pour le développement ([IRD](https://www.ird.fr)) et par le ministère de l'Europe et des Affaires étrangères (MEAE), au titre du Fonds Pacifique pour la coopération régionale.
