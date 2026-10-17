@@ -18,7 +18,11 @@ The network brings together the regional herbaria of Nouméa, Suva, Port Vila an
 
 The first phase of MELANOBS was funded by the French National Research Institute for Sustainable Development ([IRD](https://en.ird.fr)) and by the French Ministry for Europe and Foreign Affairs (MEAE), through the Pacific Fund for regional cooperation.
 
+The establishment and resurveys of the plots in New Caledonia were also supported by the French National Research Agency ([ANR](https://anr.fr)) through the PEPR FORESTT programme (MONITOR project).
+
 ::: {.funder-logos}
 [![IRD](images/ird.png)](https://en.ird.fr)
 ![Pacific Fund](images/fonds-pacifique.png)
+[![ANR](images/anr.jpg){.logo-wide}](https://anr.fr)
+![PEPR FORESTT](images/pepr-forestt.jpg)
 :::

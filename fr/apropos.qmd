@@ -20,7 +20,11 @@ Le réseau réunit les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiar
 
 La première phase de MELANOBS a été financée par l'Institut de recherche pour le développement ([IRD](https://www.ird.fr)) et par le ministère de l'Europe et des Affaires étrangères (MEAE), au titre du Fonds Pacifique pour la coopération régionale.
 
+L'installation et le réinventaire des parcelles en Nouvelle-Calédonie ont également été soutenus par l'Agence nationale de la recherche ([ANR](https://anr.fr)) dans le cadre du PEPR FORESTT (projet MONITOR).
+
 ::: {.funder-logos}
 [![IRD](../images/ird.png)](https://www.ird.fr)
 ![Fonds Pacifique](../images/fonds-pacifique.png)
+[![ANR](../images/anr.jpg){.logo-wide}](https://anr.fr)
+![PEPR FORESTT](../images/pepr-forestt.jpg)
 :::
