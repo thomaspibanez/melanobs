@@ -14,13 +14,13 @@ The local scientific community working on the ecology and conservation of Melane
 
 MELANOBS, the Melanesian Observatory of forest responses to global change, is a regional response to these challenges, combining collaboration and research to support forest conservation for the benefit of Melanesian communities. The project aims to build an international network of researchers and experts working on the ecology and conservation of Melanesian forests, based on collaboration, capacity building and equity.
 
-The observatory relies on a network of [permanent plots](plots.qmd) re-measured over time to track how Melanesian forests respond to global change.
-
-Its main aims are to:
+More specifically, it seeks to:
 
 - build capacity through research partnerships;
 - improve knowledge of forest biodiversity, for example by establishing species checklists at the island level;
 - improve knowledge of forest functioning, for example by monitoring tree demography (growth, mortality and recruitment).
+
+The project rests on two pillars: establishing and maintaining a network of [permanent forest plots](plots.qmd), and strengthening collaboration between the [herbaria](herbaria.qmd) of the region.
 
 ## Partners
 
