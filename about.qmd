@@ -13,3 +13,7 @@ MELANOBS is an observatory that tracks the response of Melanesian forests to glo
 The network brings together the regional herbaria of Nouméa, Suva, Port Vila and Honiara.
 
 [Add institutions, logos (in an `images/` folder) and team members.]
+
+## Funders
+
+The first phase of MELANOBS was funded by the French National Research Institute for Sustainable Development ([IRD](https://en.ird.fr)) and by the French Ministry for Europe and Foreign Affairs (MEAE), through the Pacific Fund for regional cooperation.
