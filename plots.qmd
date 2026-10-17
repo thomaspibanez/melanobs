@@ -8,6 +8,8 @@ A voucher specimen of each species recorded in the plots has been collected and 
 
 Additional measurements are made in and around the plots, including tree height (H) and wood density. They are used to calibrate local height–diameter (H–DBH) allometries and to estimate above-ground biomass and carbon stocks.
 
+The plots are resurveyed every year where possible, and at least every five years, to measure tree growth, mortality and recruitment rates, as well as changes in species composition.
+
 The protocol follows the international standards of the [ForestPlots.net](https://forestplots.net) network.
 
 ```{r}

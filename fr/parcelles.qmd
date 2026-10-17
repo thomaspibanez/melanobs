@@ -10,6 +10,8 @@ Un échantillon de référence de chaque espèce recensée dans les parcelles a 
 
 Des mesures complémentaires sont réalisées dans et autour des parcelles, notamment la hauteur des arbres (H) et la densité du bois. Elles servent à calibrer des allométries locales hauteur–diamètre (H–DHP) et à estimer la biomasse aérienne et les stocks de carbone.
 
+Les parcelles sont réinventoriées chaque année lorsque c'est possible, et au moins tous les cinq ans, afin de mesurer les taux de croissance, de mortalité et de recrutement des arbres, ainsi que l'évolution de la composition floristique.
+
 Le protocole suit les standards internationaux du réseau [ForestPlots.net](https://forestplots.net).
 
 Les fiches détaillées des parcelles sont pour l'instant en anglais.
