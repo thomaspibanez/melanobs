@@ -10,9 +10,7 @@ MELANOBS is an observatory that tracks the response of Melanesian forests to glo
 
 ## Partners
 
-The network brings together the regional herbaria of Nouméa, Suva, Port Vila and Honiara.
-
-[Add institutions, logos (in an `images/` folder) and team members.]
+MELANOBS brings together partners from a range of backgrounds: research and academic institutions (the AMAP joint research unit, Solomon Islands National University, the University of the South Pacific, Adelaide University and the New York Botanical Garden), NGOs (Endemia and NatureFiji-MareqetiViti) and government agencies (the Solomon Islands Ministry of Forestry and Research, the Vanuatu Department of Forests, the Fiji Ministry of Fisheries and Forestry and, in New Caledonia, the Environment Department of the Loyalty Islands Province and the Protected Areas Management Department of the South Province). Among them are the curators of the region's [herbaria](herbaria.qmd).
 
 ## Funders
 
