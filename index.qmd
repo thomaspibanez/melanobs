@@ -2,6 +2,10 @@
 title: "MELANOBS"
 subtitle: "The Melanesian observatory of forest responses to global change"
 page-layout: full
+title-block-banner: images/home-banner.jpg
+title-block-banner-color: white
+title-block-style: default
+body-classes: home
 ---
 
 ::: {.lead-text}

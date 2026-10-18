@@ -2,6 +2,10 @@
 title: "MELANOBS"
 subtitle: "L'observatoire mélanésien de la réponse des forêts aux changements globaux"
 page-layout: full
+title-block-banner: ../images/home-banner.jpg
+title-block-banner-color: white
+title-block-style: default
+body-classes: home
 ---
 
 {{< include _nav.qmd >}}
