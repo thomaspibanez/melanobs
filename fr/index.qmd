@@ -7,7 +7,7 @@ page-layout: full
 {{< include _nav.qmd >}}
 
 ::: {.lead-text}
-MELANOBS suit la réponse des forêts aux changements globaux. Il s'appuie sur un réseau de parcelles permanentes aux Îles Salomon, au Vanuatu, aux Fidji et en Nouvelle-Calédonie, et sur la collaboration entre les herbiers régionaux de Nouméa, Suva, Port-Vila et Honiara.
+Les forêts mélanésiennes couvrent plus des trois quarts des terres de la région, abritent une biodiversité unique et font vivre les populations locales, mais elles sont de plus en plus menacées et restent peu étudiées. MELANOBS réunit des chercheurs et des experts de Mélanésie et d'ailleurs autour de l'écologie et de la conservation de ces forêts. Le projet repose sur deux piliers : un réseau de [parcelles forestières permanentes](parcelles.qmd) aux Îles Salomon, au Vanuatu, aux Fidji et en Nouvelle-Calédonie, et la collaboration entre les [herbiers](herbiers.qmd) de Nouméa, Suva, Port-Vila et Honiara. [En savoir plus sur le projet →](apropos.qmd)
 :::
 
 ```{r}

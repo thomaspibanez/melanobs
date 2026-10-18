@@ -5,7 +5,7 @@ page-layout: full
 ---
 
 ::: {.lead-text}
-MELANOBS monitors how forests respond to global change. It relies on a network of permanent plots in the Solomon Islands, Vanuatu, Fiji and New Caledonia, and on collaboration among the regional herbaria of Nouméa, Suva, Port Vila and Honiara.
+Melanesian forests cover more than three-quarters of the region's land, harbour a unique biodiversity and support local livelihoods, yet they face growing threats and remain little studied. MELANOBS brings together researchers and experts from across Melanesia and beyond to work on the ecology and conservation of these forests. The project rests on two pillars: a network of [permanent forest plots](plots.qmd) in the Solomon Islands, Vanuatu, Fiji and New Caledonia, and collaboration between the [herbaria](herbaria.qmd) of Nouméa, Suva, Port Vila and Honiara. [Learn more about the project →](about.qmd)
 :::
 
 ```{r}
