@@ -51,11 +51,14 @@ melanobs_map <- function(dir = ".", height = 520,
 plot_facts <- function(slug, dir = "..") {
   p <- read_plots(dir)
   p <- p[p$slug == slug, ]
-  knitr::kable(data.frame(c("Country", "Island", "Latitude", "Longitude",
-                            "Elevation (approx.)", "Substrate"),
-                          c(p$country, p$island, coord(p$lat), coord(p$lon),
-                            paste(p$elevation, "m"), p$substrate)),
-               col.names = c("", ""))
+  facts <- data.frame(c("Country", "Island", "Latitude", "Longitude",
+                         "Elevation (approx.)", "Substrate", "Established",
+                         "Local principal investigator"),
+                       c(p$country, p$island, coord(p$lat), coord(p$lon),
+                         paste(p$elevation, "m"), p$substrate, p$established, p$pi))
+  # Rows without a value yet (e.g. plots not described) are left out
+  facts <- facts[!is.na(facts[[2]]) & facts[[2]] != "", ]
+  knitr::kable(facts, col.names = c("", ""), row.names = FALSE)
 }
 
 herbarium_facts <- function(slug, dir = "..") {

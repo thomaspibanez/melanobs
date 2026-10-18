@@ -12,6 +12,12 @@ plot_facts("vago")
 
 ## Description
 
-*To be written: forest type, plot size, date established, census history, team…*
+The Vago permanent plot lies in the Vago Forest Reserve, a protected area established in 1959 north of Suva, on the island of Viti Levu. The plot was set up in July 2026 on a gentle slope at about 220 m elevation. The forest shows no obvious signs of recent disturbance.
+
+The most abundant species include *Haplolobus floribundus* (Burseraceae), locally known as *kaunigai*, and *Myristica* species (Myristicaceae), locally known as *kaudamu*. The largest tree is a *Parinari insularum* (Chrysobalanaceae), locally known as *sa*, and the tallest is an *Agathis macrophylla* (Araucariaceae), locally known as *dakua makadre*.
+
+## Field team
+
+Ron Hosking Rasalala, Maika Daveta, Michael Harness, Epitani Tabua, Peni Vakabuto, Tadeo Qarasaumaki, Josua Uluiviti, Penioni Naivua, Esava Duasuva, Kositino Naquraqaura, Marika Tuiwawa, Thomas Ibanez, David Bruy, Nathan Eltabet, Vaea Lefeuvre and Patrick Heuret.
 
 [← All permanent plots](../plots.qmd) · [Network map](../index.qmd)
