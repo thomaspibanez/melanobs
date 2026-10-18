@@ -37,3 +37,9 @@ main.content { max-width: 1100px; }
 html[lang="fr"] .home .quarto-title-banner::after {
   content: "Canopée de la réserve forestière de Vago, Fidji · Crédit photo : Patrick Heuret";
 }
+.about-photo { float: left; width: 300px; margin: 0.3rem 1.75rem 1rem 0; }
+.about-photo figure { margin: 0; }
+.about-photo img { width: 100%; height: auto; border-radius: 4px; }
+.about-photo figcaption { font-size: 0.8rem; line-height: 1.4; margin-top: 0.4rem; }
+#aims, #objectifs { clear: both; }
+@media (max-width: 767px) { .about-photo { float: none; width: 100%; margin: 0 0 1.25rem; } }

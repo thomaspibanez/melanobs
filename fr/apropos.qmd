@@ -6,6 +6,10 @@ title: "À propos"
 
 ## La Mélanésie
 
+::: {.about-photo}
+![*Terminalia calamansanai* (Combretaceae), l'espèce d'arbre la plus haute de la parcelle permanente de [Poitete](../plots/poitete.qmd), Îles Salomon. Crédit photo : Ghislain Vieilledent](../images/terminalia-poitete.webp){fig-alt="Vue en contre-plongée du tronc droit et élancé d'un Terminalia calamansanai en forêt tropicale, avec une personne posant la main dessus."}
+:::
+
 La Mélanésie est une sous-région géographique et culturelle du Pacifique Sud-Ouest, composée de milliers d'îles situées entre l'équateur et le tropique du Capricorne. Du nord-ouest au sud-est, elle comprend les provinces indonésiennes de l'ouest de la Nouvelle-Guinée, les États indépendants de Papouasie-Nouvelle-Guinée, des Îles Salomon, du Vanuatu et des Fidji, ainsi que la Nouvelle-Calédonie, territoire français.
 
 Les forêts couvrent plus des trois quarts des terres de Mélanésie. Elles abritent une biodiversité unique et contribuent à atténuer le réchauffement climatique en stockant du carbone. Elles sont aussi essentielles au bien-être des populations locales, en particulier en milieu rural, grâce aux nombreux services écosystémiques qu'elles rendent. Dans le contexte des changements globaux, ces forêts font face à de multiples menaces : conversion en terres agricoles, exploitation forestière, activités minières, incendies, cyclones, espèces envahissantes et changement climatique. Malgré leur importance et leur vulnérabilité potentielle, elles restent relativement peu étudiées.
