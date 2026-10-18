@@ -18,6 +18,6 @@ The most abundant species include *Haplolobus floribundus* (Burseraceae), locall
 
 ## Field team
 
-Ron Hosking Rasalala, Maika Daveta, Michael Harness, Epitani Tabua, Peni Vakabuto, Tadeo Qarasaumaki, Josua Uluiviti, Penioni Naivua, Esava Duasuva, Kositino Naquraqaura, Marika Tuiwawa, Thomas Ibanez, David Bruy, Nathan Eltabet, Vaea Lefeuvre and Patrick Heuret.
+David Bruy, Maika Daveta, Esava Duasuva, Nathan Eltabet, Michael Harness, Patrick Heuret, Thomas Ibanez, Vaea Lefeuvre, Penioni Naivua, Kositino Naquraqaura, Tadeo Qarasaumaki, Ron Hosking Rasalala, Epitani Tabua, Marika Tuiwawa, Josua Uluiviti and Peni Vakabuto.
 
 [← All permanent plots](../plots.qmd) · [Network map](../index.qmd)
