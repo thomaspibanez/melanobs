@@ -43,3 +43,5 @@ html[lang="fr"] .home .quarto-title-banner::after {
 .about-photo figcaption { font-size: 0.8rem; line-height: 1.4; margin-top: 0.4rem; }
 #aims, #objectifs { clear: both; }
 @media (max-width: 767px) { .about-photo { float: none; width: 100%; margin: 0 0 1.25rem; } }
+.quarto-figure:has(.partners-photo) figcaption { font-size: 0.8rem; line-height: 1.45; }
+img.partners-photo { border-radius: 4px; }
