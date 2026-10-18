@@ -8,7 +8,7 @@ Le réseau MELANOBS est constitué de parcelles permanentes de 1 ha (100 m × 10
 
 Le réseau cible les forêts tropicales humides de basse altitude. L'emplacement des parcelles est choisi avec les partenaires locaux, de préférence dans des zones protégées et accessibles.
 
-Un échantillon de référence de chaque espèce recensée dans les parcelles a été récolté et déposé dans les [herbiers](herbiers.qmd) de la région.
+Un échantillon de référence de chaque espèce recensée dans les parcelles a été récolté et déposé dans les [herbiers](herbiers.qmd) de la région. Pour chaque espèce, le nom scientifique et les noms vernaculaires locaux sont relevés, afin que les données documentent aussi les savoirs locaux sur la flore.
 
 Des mesures complémentaires sont réalisées dans et autour des parcelles, notamment la hauteur des arbres (H) et la densité du bois. Elles servent à calibrer des allométries locales hauteur–diamètre (H–DHP) et à estimer la biomasse aérienne et les stocks de carbone.
 

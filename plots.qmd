@@ -6,7 +6,7 @@ The MELANOBS network is made up of permanent plots of 1 ha (100 m × 100 m). In 
 
 The network focuses on lowland tropical wet forest. Plot locations are chosen together with local partners, preferably in protected and accessible areas.
 
-A voucher specimen of each species recorded in the plots has been collected and deposited in the [herbaria](herbaria.qmd) of the region.
+A voucher specimen of each species recorded in the plots has been collected and deposited in the [herbaria](herbaria.qmd) of the region. For each species, both the scientific name and the local vernacular names are recorded, so that the data also document local knowledge of the flora.
 
 Additional measurements are made in and around the plots, including tree height (H) and wood density. They are used to calibrate local height–diameter (H–DBH) allometries and to estimate above-ground biomass and carbon stocks.
 
