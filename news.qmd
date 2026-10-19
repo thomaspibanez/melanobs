@@ -10,9 +10,31 @@ title: "News"
 ::: {.news-text}
 [July 2026]{.news-date}
 
-### A new permanent plot in the Vago Forest Reserve, Fiji
+### New permanent plot at Vago, Fiji
 
-A 1-ha permanent plot was set up with the Fiji Ministry of Forestry in the Vago Forest Reserve, north of Suva. See the [Vago plot page](plots/vago.qmd).
+A team from UMR AMAP in New Caledonia, together with the Fiji Ministry of Forestry and the University of the South Pacific, set up a new 1-ha permanent forest plot at Vago, on the island of Viti Levu, Fiji. See the [Vago plot page](plots/vago.qmd).
+:::
+:::
+
+::: {.news-item}
+![](images/siloam-2025.jpg){fig-alt="Two people in the forest looking up at a tall tree trunk, one holding a clipboard."}
+
+::: {.news-text}
+[December 2025]{.news-date}
+
+### New permanent plot at Siloam, New Caledonia
+
+A team from UMR AMAP in New Caledonia, together with the Environment Department of the Loyalty Islands Province and with the great help of the local community, set up a new 1-ha permanent forest plot at Siloam, on the island of Lifou, New Caledonia. See the [Siloam plot page](plots/siloam.qmd).
+:::
+:::
+
+::: {.news-item}
+::: {.news-text}
+[May 2025]{.news-date}
+
+### New permanent plot at Poitete, Solomon Islands
+
+A team from UMR AMAP in New Caledonia, together with Solomon Islands National University and the Solomon Islands Ministry of Forestry and Research, set up a new 1-ha permanent forest plot at Poitete, on the island of Kolombangara, Solomon Islands. See the [Poitete plot page](plots/poitete.qmd).
 :::
 :::
 
@@ -22,9 +44,9 @@ A 1-ha permanent plot was set up with the Fiji Ministry of Forestry in the Vago 
 ::: {.news-text}
 [November 2024]{.news-date}
 
-### First MELANOBS permanent plot set up at Nusumetu, Vanuatu
+### First permanent plot at Nusumetu, Vanuatu
 
-A team from UMR AMAP in New Caledonia and the Vanuatu Department of Forestry, with the great help of the Nusumetu community, set up the project's first 1-ha permanent forest plot on Tanna. See the [Nusumetu plot page](plots/nusumetu.qmd).
+A team from UMR AMAP in New Caledonia, together with the Vanuatu Department of Forestry and with the great help of the Nusumetu community, set up the project's first 1-ha permanent forest plot at Nusumetu, on the island of Tanna, Vanuatu. See the [Nusumetu plot page](plots/nusumetu.qmd).
 :::
 :::
 
