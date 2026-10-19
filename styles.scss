@@ -58,3 +58,9 @@ img.partners-photo { border-radius: 4px; }
   .news-item .quarto-figure { flex-basis: auto; width: 100%; }
   .news-item img { width: 100%; height: 180px; }
 }
+.side-photo { float: right; width: 280px; margin: 0.3rem 0 1rem 1.75rem; }
+.side-photo figure { margin: 0; }
+.side-photo img { width: 100%; height: auto; border-radius: 4px; }
+.side-photo figcaption { font-size: 0.8rem; line-height: 1.4; margin-top: 0.4rem; }
+main .cell { clear: both; }
+@media (max-width: 767px) { .side-photo { float: none; width: 100%; margin: 0 0 1.25rem; } }

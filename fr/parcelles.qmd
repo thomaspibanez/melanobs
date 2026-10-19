@@ -4,6 +4,10 @@ title: "Parcelles permanentes"
 
 {{< include _nav.qmd >}}
 
+::: {.side-photo}
+![Arbre étiqueté dans la parcelle permanente de [Vago](../plots/vago.qmd), avec son point de mesure peint en jaune et un dendromètre à ruban manuel. Crédit photo : Thomas Ibanez](../images/vago-dendrometer.jpg){fig-alt="Tronc d'arbre portant une étiquette numérotée en plastique, un dendromètre métallique et une ligne de peinture jaune."}
+:::
+
 Le réseau MELANOBS est constitué de parcelles permanentes de 1 ha (100 m × 100 m). Dans chaque parcelle, toutes les tiges dont le diamètre à hauteur de poitrine (DHP, mesuré à 1,3 m du sol) atteint au moins 10 cm sont identifiées botaniquement, mesurées et cartographiées. Cela comprend les arbres mais aussi les palmiers, les fougères arborescentes, les pandanus et les autres formes de croissance. Chaque individu porte une étiquette avec un numéro unique, et le point de mesure est marqué à la peinture afin que chaque inventaire mesure la tige exactement à la même hauteur.
 
 Le réseau cible les forêts tropicales humides de basse altitude. L'emplacement des parcelles est choisi avec les partenaires locaux, de préférence dans des zones protégées et accessibles.
