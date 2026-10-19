@@ -18,6 +18,18 @@ Thomas Ibanez presented the MELANOBS project during a Species Working Group sess
 :::
 
 ::: {.news-item}
+![](images/pvnh-training-2026.jpg){fig-alt="People around a table mounting dried plant specimens on herbarium sheets."}
+
+::: {.news-text}
+[September 2026]{.news-date}
+
+### Vanuatu National Herbarium team trained in Nouméa
+
+The team of the [Vanuatu National Herbarium](herbaria/pvnh.qmd) (PVNH) spent a week in Nouméa for herbarium management training. They also took part in the resurvey of the [Great Ferns Provincial Park](plots/great-ferns.qmd) plot, and are now ready to resurvey the [Nusumetu](plots/nusumetu.qmd) plot back in Vanuatu.
+:::
+:::
+
+::: {.news-item}
 ![](images/home-banner.jpg){fig-alt="Aerial view of a dense green forest canopy."}
 
 ::: {.news-text}
