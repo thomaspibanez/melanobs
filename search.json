@@ -137,7 +137,7 @@
     "href": "herbaria/pvnh.html",
     "title": "Vanuatu National Herbarium",
     "section": "",
-    "text": "Code\nPVNH\n\n\nCity\nPort Vila\n\n\nCountry\nVanuatu\n\n\nLatitude\n-17.7056\n\n\nLongitude\n168.3203\n\n\nCurator\nThomas Doro (Department of Forestry)\n\n\nWebsite\npvnh.net"
+    "text": "Code\nPVNH\n\n\nCity\nPort Vila\n\n\nCountry\nVanuatu\n\n\nLatitude\n-17.7056\n\n\nLongitude\n168.3203\n\n\nCurator\nThomas Doro (Department of Forestry)"
   },
   {
     "objectID": "herbaria/pvnh.html#description",
@@ -165,7 +165,7 @@
     "href": "herbaria/suva.html",
     "title": "South Pacific Regional Herbarium",
     "section": "",
-    "text": "Code\nSUVA\n\n\nCity\nSuva\n\n\nCountry\nFiji\n\n\nLatitude\n-18.1498\n\n\nLongitude\n178.4532\n\n\nCurator\nMarika Tuiwawa (University of the South Pacific)\n\n\nWebsite\nias.usp.ac.fj/our-units/sprh/"
+    "text": "Code\nSUVA\n\n\nCity\nSuva\n\n\nCountry\nFiji\n\n\nLatitude\n-18.1498\n\n\nLongitude\n178.4532\n\n\nCurator\nMarika Tuiwawa (University of the South Pacific)"
   },
   {
     "objectID": "herbaria/suva.html#description",
@@ -207,21 +207,28 @@
     "href": "herbaria/nou.html",
     "title": "Herbarium of New Caledonia",
     "section": "",
-    "text": "Code\nNOU\n\n\nCity\nNouméa\n\n\nCountry\nNew Caledonia\n\n\nLatitude\n-22.3017\n\n\nLongitude\n166.4437\n\n\nCurator\nDavid Bruy (UMR AMAP, French National Research Institute for Sustainable Development)\n\n\nWebsite\npublish.plantnet-project.org/project/nou"
+    "text": "Code\nNOU\n\n\nCity\nNouméa\n\n\nCountry\nNew Caledonia\n\n\nLatitude\n-22.3017\n\n\nLongitude\n166.4437\n\n\nCurator\nDavid Bruy (UMR AMAP, French National Research Institute for Sustainable Development)"
   },
   {
     "objectID": "herbaria/nou.html#description",
     "href": "herbaria/nou.html#description",
     "title": "Herbarium of New Caledonia",
     "section": "Description",
-    "text": "Description\nThe Herbarium of New Caledonia (NOU) is located at the French National Research Institute for Sustainable Development (IRD) centre in Nouméa and is managed by UMR AMAP. It holds about 100,000 specimens representing about 7,000 species. Most specimens come from New Caledonia, but the collection also includes many specimens from Vanuatu and Wallis and Futuna, as well as some from Fiji and the Solomon Islands.\nAll specimens are databased, digitised at high resolution and available online. The checklist of New Caledonian plant species is regularly updated through Florical."
+    "text": "Description\nThe Herbarium of New Caledonia (NOU) is located at the French National Research Institute for Sustainable Development (IRD) centre in Nouméa and is managed by UMR AMAP. It was refurbished in 2024, almost doubling its floor area. It holds about 100,000 specimens representing about 7,000 species. Most specimens come from New Caledonia, but the collection also includes many specimens from Vanuatu and Wallis and Futuna, as well as some from Fiji and the Solomon Islands.\nAll specimens are databased, digitised at high resolution and available online. The checklist of New Caledonian plant species is regularly updated through Florical (Morat et al. 2012)."
   },
   {
     "objectID": "herbaria/nou.html#herbarium-team",
     "href": "herbaria/nou.html#herbarium-team",
     "title": "Herbarium of New Caledonia",
     "section": "Herbarium team",
-    "text": "Herbarium team\nDavid Bruy, Nathan Eltabet, Jacqueline Fambart-Tinel and Emmanuelle Vanhalle.\n← All herbaria · Network map"
+    "text": "Herbarium team\nDavid Bruy, Nathan Eltabet, Jacqueline Fambart-Tinel and Emmanuelle Vanhalle."
+  },
+  {
+    "objectID": "herbaria/nou.html#reference",
+    "href": "herbaria/nou.html#reference",
+    "title": "Herbarium of New Caledonia",
+    "section": "Reference",
+    "text": "Reference\nMorat P, Jaffré T, Tronchet F, Munzinger J, Pillon Y, Veillon J-M, Chalopin M, et al. (2012) Le référentiel taxonomique Florical et les caractéristiques de la flore vasculaire indigène de la Nouvelle-Calédonie. Adansonia 34: 179–221. https://doi.org/10.5252/a2012n2a1\n← All herbaria · Network map"
   },
   {
     "objectID": "plots/poitete.html",
