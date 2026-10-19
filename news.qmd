@@ -1,5 +1,6 @@
 ---
 title: "News"
+lightbox: true
 ---
 
 <!-- To add an item, copy a block below and paste it at the top of the list (newest first). The photo line is optional. -->
