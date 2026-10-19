@@ -5,6 +5,18 @@ title: "News"
 <!-- To add an item, copy a block below and paste it at the top of the list (newest first). The photo line is optional. -->
 
 ::: {.news-item}
+![](images/pcnc11-2026.jpg){fig-alt="Thomas Ibanez speaking in a conference hall in front of a large screen showing the MELANOBS title slide."}
+
+::: {.news-text}
+[September 2026]{.news-date}
+
+### MELANOBS presented at the 11th Pacific Islands Conference on Nature Conservation
+
+Thomas Ibanez presented the MELANOBS project during a Species Working Group session of the 11th Pacific Islands Conference on Nature Conservation and Protected Areas, held at the Tjibaou Cultural Centre in Nouméa, New Caledonia (7–11 September 2026).
+:::
+:::
+
+::: {.news-item}
 ![](images/home-banner.jpg){fig-alt="Aerial view of a dense green forest canopy."}
 
 ::: {.news-text}
