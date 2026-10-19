@@ -42,6 +42,18 @@ A team from UMR AMAP in New Caledonia, together with the Fiji Ministry of Forest
 :::
 
 ::: {.news-item}
+![](images/blue-river-2026.jpg){fig-alt="A tagged tree trunk rising into the forest canopy, seen from below."}
+
+::: {.news-text}
+[March 2026]{.news-date}
+
+### First resurvey of the Blue River Provincial Park plot
+
+The MELANOBS team completed the first resurvey of the [Blue River Provincial Park plot](plots/blue-river.qmd), one year after it was set up. Trees grew slowly overall, except in and around the large gap.
+:::
+:::
+
+::: {.news-item}
 ![](images/siloam-2025.jpg){fig-alt="Two people in the forest looking up at a tall tree trunk, one holding a clipboard."}
 
 ::: {.news-text}
