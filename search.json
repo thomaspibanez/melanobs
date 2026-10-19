@@ -172,14 +172,21 @@
     "href": "herbaria/bsip.html",
     "title": "Solomon Islands National Herbarium",
     "section": "",
-    "text": "Code\nBSIP\n\n\nCity\nHoniara\n\n\nCountry\nSolomon Islands\n\n\nLatitude\n-9.4332\n\n\nLongitude\n159.9416"
+    "text": "Code\nBSIP\n\n\nCity\nHoniara\n\n\nCountry\nSolomon Islands\n\n\nLatitude\n-9.4332\n\n\nLongitude\n159.9416\n\n\nCurator\nMyknee Sirikolo (Ministry of Forestry and Research)"
   },
   {
     "objectID": "herbaria/bsip.html#description",
     "href": "herbaria/bsip.html#description",
     "title": "Solomon Islands National Herbarium",
     "section": "Description",
-    "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
+    "text": "Description\nThe Solomon Islands National Herbarium (BSIP) was created in the 1960s and is managed by the Ministry of Forestry and Research. After its building was damaged in the 1990s and the collection was neglected for about a decade, some 25,000 specimens were sent to the South Pacific Regional Herbarium (SUVA) for safekeeping; they have since been returned. The herbarium has had new facilities since 2017 and holds about 50,000 specimens.\nDatabasing still needs to be improved, and the specimens have not yet been digitised. No checklist of Solomon Islands plant species has been published so far."
+  },
+  {
+    "objectID": "herbaria/bsip.html#herbarium-team",
+    "href": "herbaria/bsip.html#herbarium-team",
+    "title": "Solomon Islands National Herbarium",
+    "section": "Herbarium team",
+    "text": "Herbarium team\nThree permanent staff members.\n← All herbaria · Network map"
   },
   {
     "objectID": "herbaria/nou.html",
