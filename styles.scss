@@ -64,3 +64,7 @@ img.partners-photo { border-radius: 4px; }
 .side-photo figcaption { font-size: 0.8rem; line-height: 1.4; margin-top: 0.4rem; }
 main .cell { clear: both; }
 @media (max-width: 767px) { .side-photo { float: none; width: 100%; margin: 0 0 1.25rem; } }
+.contact-photo { float: left; width: 140px; margin: 0.25rem 1.5rem 0.75rem 0; }
+.contact-photo figure, .contact-photo figure p { margin: 0; }
+.contact-photo img { width: 140px; height: 140px; border-radius: 50%; object-fit: cover; }
+@media (max-width: 575px) { .contact-photo { float: none; margin: 0 0 1rem; } }

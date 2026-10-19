@@ -6,8 +6,12 @@ title: "Contact"
 
 ## Coordination
 
-MELANOBS est coordonné par **Thomas Ibanez**, chargé de recherche à l'Institut de recherche pour le développement (IRD) et membre du [laboratoire AMAP](https://amaplab.fr). Il est basé à Nouméa, en Nouvelle-Calédonie.
+::: {.contact-photo}
+![](../images/thomas-ibanez.webp){fig-alt="Portrait de Thomas Ibanez en forêt."}
+:::
 
-Écologue de la végétation, Thomas s'intéresse principalement aux communautés d'arbres des forêts tropicales insulaires. Il travaille surtout en Nouvelle-Calédonie et en Mélanésie. Au sein de MELANOBS, il coordonne le réseau régional de partenaires et pilote les parcelles permanentes de Nouvelle-Calédonie.
+MELANOBS est coordonné par **[Thomas Ibanez](https://scholar.google.com/citations?user=zlWMNqUAAAAJ)**, chargé de recherche à l'Institut de recherche pour le développement (IRD) et membre du [laboratoire AMAP](https://amaplab.fr). Il est basé à Nouméa, en Nouvelle-Calédonie.
+
+Écologue de la végétation, Thomas cherche principalement à comprendre comment se structurent les communautés d'arbres des forêts tropicales insulaires et comment elles répondent aux changements globaux. Il travaille surtout en Nouvelle-Calédonie et en Mélanésie. Au sein de MELANOBS, il coordonne le réseau régional de partenaires et pilote les parcelles permanentes de Nouvelle-Calédonie.
 
 **Courriel :** [thomas.ibanez@ird.fr](mailto:thomas.ibanez@ird.fr)
