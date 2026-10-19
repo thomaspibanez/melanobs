@@ -12,6 +12,12 @@ plot_facts("siloam")
 
 ## Description
 
-*To be written: forest type, plot size, date established, census history, team…*
+The Siloam permanent plot lies on the land of the Siloam *tribu*, on uplifted coral limestone in the north of the island of Lifou, New Caledonia. The plot was set up in December 2025 at about 60 m elevation. The forest shows no obvious signs of recent disturbance.
+
+The most abundant species are *Aglaia elaeagnoidea* (Meliaceae), *Diospyros calciphila* (Ebenaceae) and *Alectryon carinatum* (Sapindaceae), locally known as *sö*, *xetr* and *cangen*, respectively. The largest tree is an *Elaeodendron curtipendulum* (Celastraceae), locally known as *thidraxep*, and the tallest is an *Aglaia elaeagnoidea*, reaching only about 20 m.
+
+## Field team
+
+David Bruy, Julie Dibon, Nathan Eltabet, Patrick Heuret, Thomas Ibanez, Jean-Marie Ita, Ghislain Vieilledent, Eric and Alyster.
 
 [← All permanent plots](../plots.qmd) · [Network map](../index.qmd)

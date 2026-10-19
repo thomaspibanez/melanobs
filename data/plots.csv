@@ -1,7 +1,7 @@
-slug,site,country,island,lat,lon,elevation,substrate,established,pi
-siloam,Siloam,New Caledonia,Lifou,-20.727398,167.090406,60,Calcareous (uplifted coral limestone),,
-blue-river,Blue River Provincial Park,New Caledonia,Grande Terre,-22.10677311,166.68812588,180,Ultramafic (peridotite),,
-great-ferns,Great Ferns Provincial Park,New Caledonia,Grande Terre,-21.6119184,165.7468984,380,Volcano-sedimentary (schists),,
-nusumetu,Nusumetu,Vanuatu,Tanna,-19.385234,169.294602,280,Volcanic,November 2024,"Presley Dovo (Senior Officer for Botany & Conservation, Department of Forestry, Vanuatu)"
-poitete,Poitete,Solomon Islands,Kolombangara,-7.88488,157.127126,110,Volcanic,May 2025,"Eric Katovai (Associate Professor & Pro Vice-Chancellor, Solomon Islands National University, Solomon Islands)"
-vago,Vago,Fiji,Viti Levu,-18.077995,178.430887,220,Volcano-sedimentary,July 2026,"Alivereti Naikatini (Director of Research & Development, Ministry of Forestry, Fiji)"
+slug,site,country,island,lat,lon,elevation,substrate,established,contact,pi
+siloam,Siloam,New Caledonia,Lifou,-20.727398,167.090406,60,Calcareous (uplifted coral limestone),December 2025,"Jean-Marie Ita (Ranger, Environment Department of the Loyalty Islands Province, New Caledonia)","Thomas Ibanez (Research Fellow, UMR AMAP, French National Research Institute for Sustainable Development (IRD), New Caledonia)"
+blue-river,Blue River Provincial Park,New Caledonia,Grande Terre,-22.10677311,166.68812588,180,Ultramafic (peridotite),,,
+great-ferns,Great Ferns Provincial Park,New Caledonia,Grande Terre,-21.6119184,165.7468984,380,Volcano-sedimentary (schists),,,
+nusumetu,Nusumetu,Vanuatu,Tanna,-19.385234,169.294602,280,Volcanic,November 2024,,"Presley Dovo (Senior Officer for Botany & Conservation, Department of Forestry, Vanuatu)"
+poitete,Poitete,Solomon Islands,Kolombangara,-7.88488,157.127126,110,Volcanic,May 2025,,"Eric Katovai (Associate Professor & Pro Vice-Chancellor, Solomon Islands National University, Solomon Islands)"
+vago,Vago,Fiji,Viti Levu,-18.077995,178.430887,220,Volcano-sedimentary,July 2026,,"Alivereti Naikatini (Director of Research & Development, Ministry of Forestry, Fiji)"
