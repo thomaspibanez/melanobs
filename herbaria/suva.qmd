@@ -12,7 +12,7 @@ herbarium_facts("suva")
 
 ## Description
 
-The South Pacific Regional Herbarium (SUVA), now part of the South Pacific Regional Herbarium and Biodiversity Centre, is managed by the University of the South Pacific through its Institute of Applied Sciences in Suva. It was founded in 1933 as the Fiji Herbarium, and the university took over its management in 1982. It holds about 90,000 specimens from Fiji and many other Pacific islands, including Nauru, New Caledonia, Norfolk Island, Pitcairn, Samoa, the Solomon Islands, Tonga and Vanuatu.
+The South Pacific Regional Herbarium (SUVA), now part of the [South Pacific Regional Herbarium and Biodiversity Centre](https://ias.usp.ac.fj/our-units/sprh/), is managed by the University of the South Pacific through its Institute of Applied Sciences in Suva. It was founded in 1933 as the Fiji Herbarium, and the university took over its management in 1982. It holds about 90,000 specimens from Fiji and many other Pacific islands, including Nauru, New Caledonia, Norfolk Island, Pitcairn, Samoa, the Solomon Islands, Tonga and Vanuatu.
 
 Most specimens are databased and about 20,000 have been digitised. The checklist of Fijian plant species, based on *Flora Vitiensis Nova* (A.C. Smith, 1979–1996), needs to be updated.
 

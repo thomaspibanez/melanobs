@@ -68,12 +68,9 @@ plot_facts <- function(slug, dir = "..") {
 herbarium_facts <- function(slug, dir = "..") {
   h <- read_herbaria(dir)
   h <- h[h$slug == slug, ]
-  website <- if (is.na(h$website) || h$website == "") NA else
-    paste0("[", sub("^https?://", "", h$website), "](", h$website, ")")
-  facts <- data.frame(c("Code", "City", "Country", "Latitude", "Longitude",
-                         "Curator", "Website"),
+  facts <- data.frame(c("Code", "City", "Country", "Latitude", "Longitude", "Curator"),
                        c(h$code, h$city, h$country, coord(h$lat), coord(h$lon),
-                         h$curator, website))
+                         h$curator))
   # Rows without a value yet are left out
   facts <- facts[!is.na(facts[[2]]) & facts[[2]] != "", ]
   knitr::kable(facts, col.names = c("", ""), row.names = FALSE)

@@ -12,7 +12,7 @@ herbarium_facts("pvnh")
 
 ## Description
 
-The Vanuatu National Herbarium (PVNH) originated in the 1970s and is managed by the Department of Forestry. It holds about 20,000 specimens, mostly from Vanuatu, with some from Fiji. The herbarium moved into new facilities in 2014, but the building was affected by the December 2024 earthquake and now needs to be extended.
+The [Vanuatu National Herbarium](https://pvnh.net) (PVNH) originated in the 1970s and is managed by the Department of Forestry. It holds about 20,000 specimens, mostly from Vanuatu, with some from Fiji. The herbarium moved into new facilities in 2014, but the building was affected by the December 2024 earthquake and now needs to be extended.
 
 The specimens are databased but not yet digitised. A first checklist of the vascular flora of Vanuatu, listing 1,631 species, was published in 2022 (Plunkett et al. 2022).
 
