@@ -12,6 +12,12 @@ plot_facts("great-ferns")
 
 ## Description
 
-*To be written: forest type, plot size, date established, census history, team…*
+The Great Ferns permanent plot lies in the Great Ferns Provincial Park, on a gentle slope with volcano-sedimentary soils in the centre of the island of Grande Terre. The park is managed by the South Province. The plot was set up in September 2025 at about 380 m elevation and resurveyed in September 2026. The forest was logged until the 1970s and has been protected since 2008. It shows signs of disturbance by introduced deer (*Rusa timorensis*).
+
+The most abundant tree species are *Xylopia vieillardii* (Annonaceae), *Diospyros samoensis* (Ebenaceae) and *Calophyllum caledonicum* (Calophyllaceae). The largest tree is an *Agathis moorei* (Araucariaceae) and the tallest is a *Planchonella sphaerocarpa* (Sapotaceae).
+
+## Field team
+
+David Bruy, Celine Chambret, Julie Dibon, Nathan Eltabet, Alex Greene, Patrick Heuret, Thomas Ibanez, Chrystelle Nigote and Ghislain Vieilledent.
 
 [← All permanent plots](../plots.qmd) · [Network map](../index.qmd)

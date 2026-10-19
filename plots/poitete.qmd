@@ -14,7 +14,7 @@ plot_facts("poitete")
 
 The Poitete permanent plot lies in the Tekolea Forest Reserve (whose name means "leave it alone" or "do not disturb"), near the Poitete forestry campus of Solomon Islands National University, in the north of the island of Kolombangara. The plot was set up in May 2025 at about 110 m elevation. The forest was logged until the late 1980s.
 
-The most abundant species are *Neoscortechinia forbesii* (Euphorbiaceae), locally known as *kerosene wood*, *Aporosa papuana* (Phyllanthaceae) and *Prasoxylon* cf. *alliaceum* (Meliaceae), locally known as *ai mok'ta'a*. The largest tree is a *Pometia pinnata* (Sapindaceae), locally known as *gema* or *qema*, and the tallest is a *Terminalia calamansanai* (Combretaceae), locally known as *sapeqava*.
+The most abundant tree species are *Neoscortechinia forbesii* (Euphorbiaceae), locally known as *kerosene wood*, *Aporosa papuana* (Phyllanthaceae) and *Prasoxylon* cf. *alliaceum* (Meliaceae), locally known as *ai mok'ta'a*. The largest tree is a *Pometia pinnata* (Sapindaceae), locally known as *gema* or *qema*, and the tallest is a *Terminalia calamansanai* (Combretaceae), locally known as *sapeqava*.
 
 ## Field team
 

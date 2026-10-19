@@ -14,7 +14,7 @@ plot_facts("blue-river")
 
 The Blue River permanent plot lies in the Blue River Provincial Park, on an alluvial flat with ultramafic soils in the south of the island of Grande Terre. The park is managed by the South Province. The plot was set up in March 2025 at about 180 m elevation and resurveyed in March 2026. The forest was logged until the late 1950s and has been protected since 1980. It still shows traces of past logging, as well as a large gap probably created by a tropical storm or cyclone.
 
-The most abundant species are *Codia jaffrei* (Cunoniaceae), *Archidendropsis granulosa* (Fabaceae) and *Plerandra gabriellae* (Araliaceae). The largest and tallest tree is a *Didymocheton rufescens* (Meliaceae).
+The most abundant tree species are *Codia jaffrei* (Cunoniaceae), *Archidendropsis granulosa* (Fabaceae) and *Plerandra gabriellae* (Araliaceae). The largest and tallest tree is a *Didymocheton rufescens* (Meliaceae).
 
 The plot lies within a larger 90 ha canopy observatory that is regularly surveyed by drone as part of the [CanObs](https://canobs.net/riviere-bleue-observatory) project.
 

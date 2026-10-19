@@ -14,7 +14,7 @@ plot_facts("nusumetu")
 
 The Nusumetu permanent plot lies in the Nusumetu community-managed conservation area at Green Hills, in the north of the island of Tanna. The area has been officially protected since 2024. The plot was set up in November 2024 at about 280 m elevation. The forest was heavily disturbed in the past by cattle roaming through it, and more recently by Tropical Cyclone Pam (2015).
 
-The most abundant species are *Didymocheton aneityensis* (Meliaceae), *Macaranga dioica* (Euphorbiaceae) and *Elaeocarpus angustifolius* (Elaeocarpaceae), locally known as *tuwai*, *naoula* and *niamiafil*, respectively. The largest trees are banyans, *Ficus prolixa* (Moraceae), locally known as *napuk*.
+The most abundant tree species are *Didymocheton aneityensis* (Meliaceae), *Macaranga dioica* (Euphorbiaceae) and *Elaeocarpus angustifolius* (Elaeocarpaceae), locally known as *tuwai*, *naoula* and *niamiafil*, respectively. The largest trees are banyans, *Ficus prolixa* (Moraceae), locally known as *napuk*.
 
 ## Field team
 
