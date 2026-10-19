@@ -51,12 +51,12 @@ melanobs_map <- function(dir = ".", height = 520,
 plot_facts <- function(slug, dir = "..") {
   p <- read_plots(dir)
   p <- p[p$slug == slug, ]
-  # When a plot has a separate local contact, its PI is not described as local
-  has_contact <- !is.na(p$contact) && p$contact != ""
+  # pi_local = "no" marks plots whose PI is not a local partner
+  pi_local <- is.na(p$pi_local) || p$pi_local != "no"
   facts <- data.frame(c("Country", "Island", "Latitude", "Longitude",
                          "Elevation (approx.)", "Substrate", "Established",
                          "Local contact",
-                         if (has_contact) "Principal investigator" else "Local principal investigator"),
+                         if (pi_local) "Local principal investigator" else "Principal investigator"),
                        c(p$country, p$island, coord(p$lat), coord(p$lon),
                          paste(p$elevation, "m"), p$substrate, p$established,
                          p$contact, p$pi))
