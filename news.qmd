@@ -30,7 +30,7 @@ The team of the [Vanuatu National Herbarium](herbaria/pvnh.qmd) (PVNH) spent a w
 :::
 
 ::: {.news-item}
-![](images/home-banner.jpg){fig-alt="Aerial view of a dense green forest canopy."}
+![](images/vago-2026.jpg){fig-alt="Field team member using a long pole pruner to collect a specimen from a tree in the forest."}
 
 ::: {.news-text}
 [July 2026]{.news-date}
