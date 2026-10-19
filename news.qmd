@@ -17,6 +17,18 @@ A 1-ha permanent plot was set up with the Fiji Ministry of Forestry in the Vago 
 :::
 
 ::: {.news-item}
+![](images/nusumetu-2024.jpg){fig-alt="Two people measuring the trunk of a large buttressed tree with a tape, one standing on a stepladder."}
+
+::: {.news-text}
+[November 2024]{.news-date}
+
+### First MELANOBS permanent plot set up at Nusumetu, Vanuatu
+
+A team from UMR AMAP in New Caledonia and the Vanuatu Department of Forestry, with the great help of the Nusumetu community, set up the project's first 1-ha permanent forest plot on Tanna. See the [Nusumetu plot page](plots/nusumetu.qmd).
+:::
+:::
+
+::: {.news-item}
 ![](images/workshop-2024-noumea.jpg){fig-alt="MELANOBS partners working on laptops around a meeting table, with the workshop title slide on a screen."}
 
 ::: {.news-text}
