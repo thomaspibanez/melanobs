@@ -41,6 +41,8 @@ A team from UMR AMAP in New Caledonia, together with the Environment Department 
 :::
 
 ::: {.news-item}
+![](images/poitete-2025.jpg){fig-alt="Team members at the base of a large buttressed tree, one on a ladder measuring the trunk."}
+
 ::: {.news-text}
 [May 2025]{.news-date}
 
