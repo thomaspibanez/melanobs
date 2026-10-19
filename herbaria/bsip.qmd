@@ -12,6 +12,12 @@ herbarium_facts("bsip")
 
 ## Description
 
-*To be written: full name, host institution, collections, curator, contact…*
+The Solomon Islands National Herbarium (BSIP) was created in the 1960s and is managed by the Ministry of Forestry and Research. After its building was damaged in the 1990s and the collection was neglected for about a decade, some 25,000 specimens were sent to the South Pacific Regional Herbarium ([SUVA](suva.qmd)) for safekeeping; they have since been returned. The herbarium has had new facilities since 2017 and holds about 50,000 specimens.
+
+Databasing still needs to be improved, and the specimens have not yet been digitised. No checklist of Solomon Islands plant species has been published so far.
+
+## Herbarium team
+
+Three permanent staff members.
 
 [← All herbaria](../herbaria.qmd) · [Network map](../index.qmd)
