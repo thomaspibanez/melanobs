@@ -4,7 +4,7 @@ title: "Data and protocols"
 
 ## Protocols
 
-The plot protocol is described on the [Permanent plots](plots.qmd) page. It follows the international standards of the [ForestPlots.net](https://forestplots.net) network.
+The plot protocol is described on the [Permanent plots](plots.qmd) page. It follows the international standards of the [ForestPlots.net](https://forestplots.net) network. The detailed field protocol will soon be available here.
 
 ## Data access
 

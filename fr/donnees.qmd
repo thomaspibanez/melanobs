@@ -6,7 +6,7 @@ title: "Données et protocoles"
 
 ## Protocoles
 
-Le protocole est décrit sur la page [Parcelles permanentes](parcelles.qmd). Il suit les standards internationaux du réseau [ForestPlots.net](https://forestplots.net).
+Le protocole est décrit sur la page [Parcelles permanentes](parcelles.qmd). Il suit les standards internationaux du réseau [ForestPlots.net](https://forestplots.net). Le protocole de terrain détaillé sera prochainement disponible ici.
 
 ## Accès aux données
 
