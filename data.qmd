@@ -4,8 +4,8 @@ title: "Data and protocols"
 
 ## Protocols
 
-[Common plot protocol, version and link to the PDF.]
+The plot protocol is described on the [Permanent plots](plots.qmd) page. It follows the international standards of the [ForestPlots.net](https://forestplots.net) network.
 
 ## Data access
 
-[Data-sharing policy, repository (e.g. Zenodo, GBIF) and who to contact for requests.]
+The data will soon be available through [ForestPlots.net](https://forestplots.net). In the meantime, data requests can be sent to the project [coordinator](contact.qmd).
