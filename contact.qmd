@@ -2,4 +2,10 @@
 title: "Contact"
 ---
 
-[Contact address, coordinator and institution.]
+## Coordinator
+
+MELANOBS is coordinated by **Thomas Ibanez**, a research fellow at the French National Research Institute for Sustainable Development (IRD) and a member of the [AMAP lab](https://amaplab.fr). He is based in Nouméa, New Caledonia.
+
+Thomas is a vegetation ecologist whose main interest is tree communities in tropical island forests. He works mostly in New Caledonia and across Melanesia. Within MELANOBS, he coordinates the regional network of partners and leads the permanent plots in New Caledonia.
+
+**Email:** [thomas.ibanez@ird.fr](mailto:thomas.ibanez@ird.fr)
