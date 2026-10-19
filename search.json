@@ -18,21 +18,21 @@
     "href": "data.html",
     "title": "Data and protocols",
     "section": "",
-    "text": "[Common plot protocol, version and link to the PDF.]"
+    "text": "The plot protocol is described on the Permanent plots page. It follows the international standards of the ForestPlots.net network."
   },
   {
     "objectID": "data.html#protocols",
     "href": "data.html#protocols",
     "title": "Data and protocols",
     "section": "",
-    "text": "[Common plot protocol, version and link to the PDF.]"
+    "text": "The plot protocol is described on the Permanent plots page. It follows the international standards of the ForestPlots.net network."
   },
   {
     "objectID": "data.html#data-access",
     "href": "data.html#data-access",
     "title": "Data and protocols",
     "section": "Data access",
-    "text": "Data access\n[Data-sharing policy, repository (e.g. Zenodo, GBIF) and who to contact for requests.]"
+    "text": "Data access\nThe data will soon be available through ForestPlots.net. In the meantime, data requests can be sent to the project coordinator."
   },
   {
     "objectID": "publications.html",
@@ -88,14 +88,14 @@
     "href": "fr/donnees.html#protocoles",
     "title": "Données et protocoles",
     "section": "Protocoles",
-    "text": "Protocoles\n[Protocole commun, version et lien vers le PDF.]"
+    "text": "Protocoles\nLe protocole est décrit sur la page Parcelles permanentes. Il suit les standards internationaux du réseau ForestPlots.net."
   },
   {
     "objectID": "fr/donnees.html#accès-aux-données",
     "href": "fr/donnees.html#accès-aux-données",
     "title": "Données et protocoles",
     "section": "Accès aux données",
-    "text": "Accès aux données\n[Politique de partage, entrepôt de données et contact pour les demandes.]"
+    "text": "Accès aux données\nLes données seront prochainement disponibles via ForestPlots.net. D’ici là, les demandes de données peuvent être adressées au coordinateur du projet."
   },
   {
     "objectID": "fr/index.html",
