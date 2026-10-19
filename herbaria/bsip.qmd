@@ -6,7 +6,7 @@ subtitle: "BSIP · Honiara, Solomon Islands"
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map("..", height = 380, focus = "bsip", zoom = 12)
+melanobs_map("..", height = 380, focus = "bsip", zoom = 12, show = "herbaria")
 herbarium_facts("bsip")
 ```
 

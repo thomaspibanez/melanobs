@@ -6,7 +6,7 @@ subtitle: "PVNH · Port Vila, Vanuatu"
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map("..", height = 380, focus = "pvnh", zoom = 12)
+melanobs_map("..", height = 380, focus = "pvnh", zoom = 12, show = "herbaria")
 herbarium_facts("pvnh")
 ```
 
