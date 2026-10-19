@@ -17,6 +17,8 @@ website:
         href: plots.qmd
       - text: "Herbaria"
         href: herbaria.qmd
+      - text: "News"
+        href: news.qmd
       - text: "Data"
         href: data.qmd
       - text: "Publications"
