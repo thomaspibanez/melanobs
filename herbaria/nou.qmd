@@ -12,6 +12,12 @@ herbarium_facts("nou")
 
 ## Description
 
-*To be written: full name, host institution, collections, curator, contact…*
+The Herbarium of New Caledonia (NOU) is located at the French National Research Institute for Sustainable Development (IRD) centre in Nouméa and is managed by UMR AMAP. It holds about 100,000 specimens representing about 7,000 species. Most specimens come from New Caledonia, but the collection also includes many specimens from Vanuatu and Wallis and Futuna, as well as some from Fiji and the Solomon Islands.
+
+All specimens are databased, digitised at high resolution and [available online](http://publish.plantnet-project.org/project/nou). The checklist of New Caledonian plant species is regularly updated through [FloriCal](http://publish.plantnet-project.org/project/florical_fr).
+
+## Herbarium team
+
+Nathan Eltabet, Jacqueline Fambart-Tinel and Emmanuelle Vanhalle.
 
 [← All herbaria](../herbaria.qmd) · [Network map](../index.qmd)
