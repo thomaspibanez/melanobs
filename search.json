@@ -137,14 +137,28 @@
     "href": "herbaria/pvnh.html",
     "title": "Vanuatu National Herbarium",
     "section": "",
-    "text": "Code\nPVNH\n\n\nCity\nPort Vila\n\n\nCountry\nVanuatu\n\n\nLatitude\n-17.7056\n\n\nLongitude\n168.3203"
+    "text": "Code\nPVNH\n\n\nCity\nPort Vila\n\n\nCountry\nVanuatu\n\n\nLatitude\n-17.7056\n\n\nLongitude\n168.3203\n\n\nCurator\nThomas Doro (Department of Forestry)\n\n\nWebsite\npvnh.net"
   },
   {
     "objectID": "herbaria/pvnh.html#description",
     "href": "herbaria/pvnh.html#description",
     "title": "Vanuatu National Herbarium",
     "section": "Description",
-    "text": "Description\nTo be written: full name, host institution, collections, curator, contact…\n← All herbaria · Network map"
+    "text": "Description\nThe Vanuatu National Herbarium (PVNH) originated in the 1970s and is managed by the Department of Forestry. It holds about 20,000 specimens, mostly from Vanuatu, with some from Fiji. The herbarium moved into new facilities in 2014, but the building was affected by the December 2024 earthquake and now needs to be extended.\nThe specimens are databased but not yet digitised. A first checklist of the vascular flora of Vanuatu, listing 1,631 species, was published in 2022 (Plunkett et al. 2022)."
+  },
+  {
+    "objectID": "herbaria/pvnh.html#herbarium-team",
+    "href": "herbaria/pvnh.html#herbarium-team",
+    "title": "Vanuatu National Herbarium",
+    "section": "Herbarium team",
+    "text": "Herbarium team\nPresley Dovo and James Ure."
+  },
+  {
+    "objectID": "herbaria/pvnh.html#reference",
+    "href": "herbaria/pvnh.html#reference",
+    "title": "Vanuatu National Herbarium",
+    "section": "Reference",
+    "text": "Reference\nPlunkett GM, Ranker TA, Sam C and Balick MJ (2022) Towards a checklist of the vascular flora of Vanuatu. Candollea 77: 105–118. https://doi.org/10.15553/c2022v771a8\n← All herbaria · Network map"
   },
   {
     "objectID": "herbaria/suva.html",
