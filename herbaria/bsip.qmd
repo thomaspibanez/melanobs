@@ -18,6 +18,6 @@ Databasing still needs to be improved, and the specimens have not yet been digit
 
 ## Herbarium team
 
-Three permanent staff members.
+Myknee Sirikolo and three permanent staff members.
 
 [← All herbaria](../herbaria.qmd) · [Network map](../index.qmd)

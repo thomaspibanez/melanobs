@@ -18,6 +18,6 @@ All specimens are databased, digitised at high resolution and [available online]
 
 ## Herbarium team
 
-Nathan Eltabet, Jacqueline Fambart-Tinel and Emmanuelle Vanhalle.
+David Bruy, Nathan Eltabet, Jacqueline Fambart-Tinel and Emmanuelle Vanhalle.
 
 [← All herbaria](../herbaria.qmd) · [Network map](../index.qmd)
