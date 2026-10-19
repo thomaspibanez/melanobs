@@ -61,7 +61,7 @@ A team from UMR AMAP in New Caledonia, together with Solomon Islands National Un
 
 ### New permanent plot at Blue River, New Caledonia
 
-A team from UMR AMAP in New Caledonia set up the first 1-ha MELANOBS permanent forest plot in New Caledonia, at Blue River, in the Blue River Provincial Park on the island of Grande Terre. See the [Blue River plot page](plots/blue-river.qmd).
+A team from UMR AMAP in New Caledonia set up the first 1-ha MELANOBS permanent forest plot in New Caledonia in the Blue River Provincial Park, on the island of Grande Terre. See the [Blue River Provincial Park plot page](plots/blue-river.qmd).
 :::
 :::
 
