@@ -17,3 +17,7 @@ Thomas is a vegetation ecologist whose main interest is to understand how tree c
 ## Local principal investigators
 
 Each permanent plot is led by a local principal investigator, who is the best contact for questions about the plot or the network in their country. Their contact details will be listed here soon.
+
+## Herbarium curators
+
+The curators of the [herbaria](herbaria.qmd) of the region are the best contacts for questions about the collections and specimens. Their contact details will be listed here soon.

@@ -19,3 +19,7 @@ MELANOBS est coordonné par **[Thomas Ibanez](https://scholar.google.com/citatio
 ## Responsables locaux
 
 Chaque parcelle permanente est pilotée par un responsable local, qui est le meilleur contact pour toute question sur la parcelle ou sur le réseau dans son pays. Leurs coordonnées seront bientôt indiquées ici.
+
+## Conservateurs des herbiers
+
+Les conservateurs des [herbiers](herbiers.qmd) de la région sont les meilleurs contacts pour toute question sur les collections et les spécimens. Leurs coordonnées seront bientôt indiquées ici.
