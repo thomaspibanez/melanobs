@@ -95,7 +95,7 @@
     "href": "fr/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Actualités | Données | Publications | Contact | English\n[Liste des publications du réseau, par année.]"
+    "text": "Accueil | À propos | Parcelles permanentes | Herbiers | Actualités | Données | Publications | Contact | English\nLes publications de MELANOBS seront listées ici au fur et à mesure de leur parution. D’ici là, suivez les activités du réseau sur la page Actualités (en anglais)."
   },
   {
     "objectID": "fr/apropos.html",
@@ -326,7 +326,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "[List of network publications, by year.]"
+    "text": "MELANOBS publications will be listed here as they appear. In the meantime, follow the network’s activities on the News page."
   },
   {
     "objectID": "index.html",
@@ -424,6 +424,6 @@
     "href": "plots/great-ferns.html#field-team",
     "title": "Great Ferns Provincial Park",
     "section": "Field team",
-    "text": "Field team\nDavid Bruy, Celine Chambret, Julie Dibon, Nathan Eltabet, Alex Greene, Patrick Heuret, Thomas Ibanez, Chrystelle Nigote and Ghislain Vieilledent.\n← All permanent plots · Network map"
+    "text": "Field team\nDavid Bruy, Céline Chambrey, Julie Dibon, Nathan Eltabet, Alex Greene, Patrick Heuret, Thomas Ibanez, Chrystelle Nigote and Ghislain Vieilledent.\n← All permanent plots · Network map"
   }
 ]
