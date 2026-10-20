@@ -28,7 +28,7 @@ website:
         href: data.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Contact"
+      - text: "Contacts"
         href: contact.qmd
     right:
       - text: "Français"

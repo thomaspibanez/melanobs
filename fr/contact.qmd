@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contacts"
 ---
 
 {{< include _nav.qmd >}}
@@ -15,3 +15,7 @@ MELANOBS est coordonné par **[Thomas Ibanez](https://scholar.google.com/citatio
 Écologue de la végétation, Thomas cherche principalement à comprendre comment se structurent les communautés d'arbres des forêts tropicales insulaires et comment elles répondent aux changements globaux. Il travaille surtout en Nouvelle-Calédonie et en Mélanésie. Au sein de MELANOBS, il coordonne le réseau régional de partenaires et pilote les parcelles permanentes de Nouvelle-Calédonie.
 
 **Courriel :** [thomas.ibanez@ird.fr](mailto:thomas.ibanez@ird.fr)
+
+## Responsables locaux
+
+Chaque parcelle permanente est pilotée par un responsable local, qui est le meilleur contact pour toute question sur la parcelle ou sur le réseau dans son pays. Leurs coordonnées seront bientôt indiquées ici.
