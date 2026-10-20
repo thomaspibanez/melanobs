@@ -54,14 +54,14 @@ The MELANOBS team completed the first resurvey of the [Blue River Provincial Par
 :::
 
 ::: {.news-item}
-![](images/siloam-2025.jpg){fig-alt="Two people in the forest looking up at a tall tree trunk, one holding a clipboard."}
+![](images/siloam-resurvey-2025.jpg){fig-alt="Two people measuring the diameter of a tree trunk with a tape in the forest."}
 
 ::: {.news-text}
 [December 2025]{.news-date}
 
-### New permanent plot at Siloam, New Caledonia
+### First resurvey of the Siloam plot
 
-A team from UMR AMAP in New Caledonia, together with the Environment Department of the Loyalty Islands Province and with the great help of the local community, set up a new 1-ha permanent forest plot at Siloam, on the island of Lifou, New Caledonia. See the [Siloam plot page](plots/siloam.qmd).
+The MELANOBS team completed the first resurvey of the [Siloam plot](plots/siloam.qmd), one year after it was set up. Trees grew very slowly.
 :::
 :::
 
@@ -85,7 +85,19 @@ A team from UMR AMAP in New Caledonia, together with Solomon Islands National Un
 
 ### New permanent plot at Blue River, New Caledonia
 
-A team from UMR AMAP in New Caledonia set up the first 1-ha MELANOBS permanent forest plot in New Caledonia in the Blue River Provincial Park, on the island of Grande Terre. See the [Blue River Provincial Park plot page](plots/blue-river.qmd).
+A team from UMR AMAP in New Caledonia set up a new 1-ha permanent forest plot in the Blue River Provincial Park, on the island of Grande Terre, New Caledonia. See the [Blue River Provincial Park plot page](plots/blue-river.qmd).
+:::
+:::
+
+::: {.news-item}
+![](images/siloam-2025.jpg){fig-alt="Two people in the forest looking up at a tall tree trunk, one holding a clipboard."}
+
+::: {.news-text}
+[December 2024]{.news-date}
+
+### New permanent plot at Siloam, New Caledonia
+
+A team from UMR AMAP in New Caledonia, together with the Environment Department of the Loyalty Islands Province and with the great help of the local community, set up the first 1-ha MELANOBS permanent forest plot in New Caledonia at Siloam, on the island of Lifou. See the [Siloam plot page](plots/siloam.qmd).
 :::
 :::
 
