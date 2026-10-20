@@ -37,7 +37,7 @@ The team of the [Vanuatu National Herbarium](herbaria/pvnh.qmd) (PVNH) spent a w
 
 ### New permanent plot at Vago, Fiji
 
-The MELANOBS team, together with the Fiji Ministry of Forestry and the University of the South Pacific, set up a new 1-ha permanent forest plot at Vago, on the island of Viti Levu, Fiji. See the [Vago plot page](plots/vago.qmd).
+MELANOBS partners from the Fiji Ministry of Forestry, the University of the South Pacific and the AMAP lab set up a new 1-ha permanent forest plot at Vago, on the island of Viti Levu, Fiji. See the [Vago plot page](plots/vago.qmd).
 :::
 :::
 
@@ -85,7 +85,7 @@ The MELANOBS team set up a new 1-ha permanent forest plot in the Great Ferns Pro
 
 ### New permanent plot at Poitete, Solomon Islands
 
-The MELANOBS team, together with Solomon Islands National University and the Solomon Islands Ministry of Forestry and Research, set up a new 1-ha permanent forest plot at Poitete, on the island of Kolombangara, Solomon Islands. See the [Poitete plot page](plots/poitete.qmd).
+MELANOBS partners from Solomon Islands National University, the Solomon Islands Ministry of Forestry and Research and the AMAP lab set up a new 1-ha permanent forest plot at Poitete, on the island of Kolombangara, Solomon Islands. See the [Poitete plot page](plots/poitete.qmd).
 :::
 :::
 
@@ -109,7 +109,7 @@ The MELANOBS team set up a new 1-ha permanent forest plot in the Blue River Prov
 
 ### New permanent plot at Siloam, New Caledonia
 
-The MELANOBS team, together with the Environment Department of the Loyalty Islands Province and with the help of locals, set up the first 1-ha MELANOBS permanent forest plot in New Caledonia at Siloam, on the island of Lifou. See the [Siloam plot page](plots/siloam.qmd).
+MELANOBS partners from the Environment Department of the Loyalty Islands Province and the AMAP lab, with the help of locals, set up the first 1-ha MELANOBS permanent forest plot in New Caledonia at Siloam, on the island of Lifou. See the [Siloam plot page](plots/siloam.qmd).
 :::
 :::
 
@@ -121,7 +121,7 @@ The MELANOBS team, together with the Environment Department of the Loyalty Islan
 
 ### First permanent plot at Nusumetu, Vanuatu
 
-The MELANOBS team, together with the Vanuatu Department of Forestry and with the great help of the Nusumetu community, set up the project's first 1-ha permanent forest plot at Nusumetu, on the island of Tanna, Vanuatu. See the [Nusumetu plot page](plots/nusumetu.qmd).
+MELANOBS partners from the Vanuatu Department of Forestry and the AMAP lab, with the great help of the Nusumetu community, set up the project's first 1-ha permanent forest plot at Nusumetu, on the island of Tanna, Vanuatu. See the [Nusumetu plot page](plots/nusumetu.qmd).
 :::
 :::
 
