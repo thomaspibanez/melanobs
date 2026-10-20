@@ -66,6 +66,18 @@ The MELANOBS team completed the first resurvey of the [Siloam plot](plots/siloam
 :::
 
 ::: {.news-item}
+![](images/great-ferns-2025.jpg){fig-alt="A grey kagu bird standing on the forest floor among leaf litter."}
+
+::: {.news-text}
+[September 2025]{.news-date}
+
+### New permanent plot at Great Ferns, New Caledonia
+
+A team from UMR AMAP in New Caledonia set up a new 1-ha permanent forest plot in the Great Ferns Provincial Park, on the island of Grande Terre, New Caledonia. Kagus (*Rhynochetos jubatus*) joined the party! See the [Great Ferns Provincial Park plot page](plots/great-ferns.qmd).
+:::
+:::
+
+::: {.news-item}
 ![](images/poitete-2025.jpg){fig-alt="Team members at the base of a large buttressed tree, one on a ladder measuring the trunk."}
 
 ::: {.news-text}
