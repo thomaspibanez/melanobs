@@ -1,5 +1,6 @@
 ---
 title: "Permanent plots"
+lightbox: true
 ---
 
 ::: {.side-photo}
@@ -17,6 +18,8 @@ Additional measurements are made in and around the plots, including tree height 
 The plots are resurveyed every year where possible, and at least every five years, to measure tree growth, mortality and recruitment rates, as well as changes in species composition. In addition, some trees are fitted with manual band dendrometers (EMS DB20) to measure their growth more accurately.
 
 The protocol follows the international standards of the [ForestPlots.net](https://forestplots.net) network.
+
+![The [Blue River Provincial Park](plots/blue-river.qmd) permanent plot. Left: canopy view showing the border of the plot and its 10 m × 10 m subplots. Right: mapped trees, with point size proportional to DBH and colour showing secondary growth rate between 2025 and 2026.](images/blue-river-figure.jpg){.wide-figure fig-alt="Left, a drone view of the forest canopy with the plot grid drawn on it; right, a map of the plot's trees as circles coloured by growth rate."}
 
 ```{r}
 #| echo: false

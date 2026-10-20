@@ -68,3 +68,5 @@ main .cell { clear: both; }
 .contact-photo figure, .contact-photo figure p { margin: 0; }
 .contact-photo img { width: 140px; height: 140px; border-radius: 50%; object-fit: cover; }
 @media (max-width: 575px) { .contact-photo { float: none; margin: 0 0 1rem; } }
+.quarto-figure:has(.wide-figure) { clear: both; margin-top: 1.5rem; }
+.quarto-figure:has(.wide-figure) figcaption { font-size: 0.85rem; line-height: 1.45; }

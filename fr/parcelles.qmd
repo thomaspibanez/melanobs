@@ -1,5 +1,6 @@
 ---
 title: "Parcelles permanentes"
+lightbox: true
 ---
 
 {{< include _nav.qmd >}}
@@ -19,6 +20,8 @@ Des mesures complémentaires sont réalisées dans et autour des parcelles, nota
 Les parcelles sont réinventoriées chaque année lorsque c'est possible, et au moins tous les cinq ans, afin de mesurer les taux de croissance, de mortalité et de recrutement des arbres, ainsi que l'évolution de la composition floristique. Par ailleurs, certains arbres sont équipés de dendromètres à ruban manuels (EMS DB20) afin de mesurer leur croissance plus précisément.
 
 Le protocole suit les standards internationaux du réseau [ForestPlots.net](https://forestplots.net).
+
+![La parcelle permanente du [parc provincial de la Rivière Bleue](../plots/blue-river.qmd). À gauche : vue de la canopée montrant les limites de la parcelle et de ses sous-parcelles de 10 m × 10 m. À droite : arbres cartographiés, la taille des points étant proportionnelle au DHP et leur couleur indiquant la croissance secondaire entre 2025 et 2026.](../images/blue-river-figure.jpg){.wide-figure fig-alt="À gauche, vue de la canopée par drone avec la grille de la parcelle ; à droite, carte des arbres de la parcelle colorés selon leur croissance."}
 
 Les fiches détaillées des parcelles sont pour l'instant en anglais.
 
