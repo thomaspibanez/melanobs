@@ -4,3 +4,7 @@ _freeze/
 .Rhistory
 
 /.quarto/
+
+# Local build leftovers and editor settings
+*_files/
+.claude/

@@ -1,5 +1,6 @@
 ---
 title: "À propos"
+lightbox: true
 ---
 
 {{< include _nav.qmd >}}
@@ -35,20 +36,20 @@ MELANOBS réunit des partenaires aux profils variés : des organismes de recherc
 ![Les partenaires de MELANOBS lors de l'atelier de lancement du projet en Nouvelle-Calédonie (avril 2024). De gauche à droite : Presley Dovo (département des Forêts, Vanuatu), Mereia Tabua (NatureFiji-MareqetiViti, Fidji), Marika Tuiwawa (Université du Pacifique Sud, Fidji), Ghislain Vieilledent (CIRAD, UMR AMAP, Nouvelle-Calédonie), David Bruy (IRD, UMR AMAP, Nouvelle-Calédonie), Alivereti Naikatini (ministère des Forêts, Fidji), Gunnar Keppel (Adelaide University, Australie), Willie Lore (département des Forêts, Vanuatu), Patrick Nimiago (PNG Forest Research Institute, Papouasie-Nouvelle-Guinée), Thomas Ibanez (IRD, UMR AMAP, Nouvelle-Calédonie), Eric Katovai (Université nationale des Îles Salomon), Pagi Toko (Binatang Research Center, Papouasie-Nouvelle-Guinée), Myknee Sirikolo (ministère des Forêts et de la Recherche, Îles Salomon). Crédit photo : Gregory Plunkett](../images/partners-workshop-2024.jpg){.partners-photo fig-alt="Photo de groupe de treize partenaires de MELANOBS debout sur une terrasse en bois devant un bâtiment de parc forestier."}
 
 ::: {.partner-logos}
-[![AMAP lab](../images/amap.png)](https://amaplab.fr)
-[![IRD](../images/ird.png)](https://en.ird.fr)
-[![Solomon Islands National University](../images/partners/sinu.jpg){.logo-medium}](https://www.sinu.edu.sb)
-[![The University of the South Pacific](../images/partners/usp.png)](https://www.usp.ac.fj)
-[![Adelaide University](../images/partners/adelaide.svg){.logo-wide}](https://adelaide.edu.au)
-[![New York Botanical Garden](../images/partners/nybg.svg){.logo-wide}](https://www.nybg.org)
-[![Endemia](../images/partners/endemia.png){.logo-xwide}](https://endemia.nc)
-[![NatureFiji-MareqetiViti](../images/partners/naturefiji.jpg)](https://www.naturefiji.org)
-![Solomon Islands Ministry of Forestry and Research](../images/partners/solomon-islands.png)
-[![Vanuatu Department of Forestry](../images/partners/vanuatu-forests.png)](https://malffb.gov.vu)
-![Government of Vanuatu](../images/partners/vanuatu.jpg)
-![Fiji Ministry of Fisheries and Forestry](../images/partners/fiji.png)
-[![Loyalty Islands Province](../images/partners/province-iles.png)](https://www.province-iles.nc)
-[![South Province](../images/partners/province-sud.svg)](https://www.province-sud.nc)
+[![AMAP lab](../images/amap.png){.no-lightbox}](https://amaplab.fr)
+[![IRD](../images/ird.png){.no-lightbox}](https://en.ird.fr)
+[![Solomon Islands National University](../images/partners/sinu.jpg){.logo-medium .no-lightbox}](https://www.sinu.edu.sb)
+[![The University of the South Pacific](../images/partners/usp.png){.no-lightbox}](https://www.usp.ac.fj)
+[![Adelaide University](../images/partners/adelaide.svg){.logo-wide .no-lightbox}](https://adelaide.edu.au)
+[![New York Botanical Garden](../images/partners/nybg.svg){.logo-wide .no-lightbox}](https://www.nybg.org)
+[![Endemia](../images/partners/endemia.png){.logo-xwide .no-lightbox}](https://endemia.nc)
+[![NatureFiji-MareqetiViti](../images/partners/naturefiji.jpg){.no-lightbox}](https://www.naturefiji.org)
+![Solomon Islands Ministry of Forestry and Research](../images/partners/solomon-islands.png){.no-lightbox}
+[![Vanuatu Department of Forestry](../images/partners/vanuatu-forests.png){.no-lightbox}](https://malffb.gov.vu)
+![Government of Vanuatu](../images/partners/vanuatu.jpg){.no-lightbox}
+![Fiji Ministry of Fisheries and Forestry](../images/partners/fiji.png){.no-lightbox}
+[![Loyalty Islands Province](../images/partners/province-iles.png){.no-lightbox}](https://www.province-iles.nc)
+[![South Province](../images/partners/province-sud.svg){.no-lightbox}](https://www.province-sud.nc)
 :::
 
 ## Financeurs
@@ -58,8 +59,8 @@ La première phase de MELANOBS a été financée par l'Institut de recherche pou
 L'installation et le réinventaire des parcelles en Nouvelle-Calédonie ont également été soutenus par l'Agence nationale de la recherche ([ANR](https://anr.fr)) dans le cadre du PEPR FORESTT (projet MONITOR).
 
 ::: {.funder-logos}
-[![IRD](../images/ird.png)](https://www.ird.fr)
-![Fonds Pacifique](../images/fonds-pacifique.png)
-[![ANR](../images/anr.jpg){.logo-wide}](https://anr.fr)
-![PEPR FORESTT](../images/pepr-forestt.jpg)
+[![IRD](../images/ird.png){.no-lightbox}](https://www.ird.fr)
+![Fonds Pacifique](../images/fonds-pacifique.png){.no-lightbox}
+[![ANR](../images/anr.jpg){.logo-wide .no-lightbox}](https://anr.fr)
+![PEPR FORESTT](../images/pepr-forestt.jpg){.no-lightbox}
 :::

@@ -18,6 +18,6 @@ The most abundant tree species are *Xylopia vieillardii* (Annonaceae), *Diospyro
 
 ## Field team
 
-David Bruy, Celine Chambret, Julie Dibon, Nathan Eltabet, Alex Greene, Patrick Heuret, Thomas Ibanez, Chrystelle Nigote and Ghislain Vieilledent.
+David Bruy, Céline Chambrey, Julie Dibon, Nathan Eltabet, Alex Greene, Patrick Heuret, Thomas Ibanez, Chrystelle Nigote and Ghislain Vieilledent.
 
 [← All permanent plots](../plots.qmd) · [Network map](../index.qmd)

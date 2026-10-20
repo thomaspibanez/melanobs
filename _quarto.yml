@@ -8,6 +8,11 @@ lang: en
 website:
   title: "MELANOBS"
   site-url: https://melanobs.net
+  favicon: images/favicon.png
+  description: "MELANOBS, the Melanesian Observatory of forest responses to global change: a regional network of permanent forest plots and herbaria in Melanesia."
+  image: images/home-banner.jpg
+  open-graph: true
+  twitter-card: true
   navbar:
     background: primary
     left:

@@ -2,4 +2,4 @@
 title: "Publications"
 ---
 
-[List of network publications, by year.]
+MELANOBS publications will be listed here as they appear. In the meantime, follow the network's activities on the [News](news.qmd) page.

@@ -4,4 +4,4 @@ title: "Publications"
 
 {{< include _nav.qmd >}}
 
-[Liste des publications du réseau, par année.]
+Les publications de MELANOBS seront listées ici au fur et à mesure de leur parution. D'ici là, suivez les activités du réseau sur la page [Actualités](../news.qmd) (en anglais).
