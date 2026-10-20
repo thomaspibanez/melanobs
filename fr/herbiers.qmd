@@ -4,6 +4,12 @@ title: "Herbiers"
 
 {{< include _nav.qmd >}}
 
+Les herbiers sont des collections de spécimens de plantes conservés, d'une grande valeur scientifique, patrimoniale et pédagogique. Depuis des siècles, ils fondent notre connaissance des plantes, et ils ont démontré à maintes reprises leur importance pour les sociétés humaines.
+
+Les spécimens d'herbier indiquent quelles espèces sont présentes, où et quand. Ils sont à la base des listes d'espèces, des cartes de distribution et des évaluations du risque d'extinction (par exemple pour la Liste rouge de l'UICN), outils essentiels pour la planification de la conservation de la biodiversité.
+
+Les herbiers de la région entretiennent généralement des liens étroits avec de grands herbiers internationaux, comme ceux de New York, Paris, Kew ou du Queensland, mais moins entre eux. MELANOBS vise à renforcer la collaboration entre les herbiers de la région, afin de les aider à jouer pleinement leur rôle dans la documentation de la biodiversité et dans la mise à disposition d'outils pour sa gestion.
+
 Les fiches détaillées sont pour l'instant en anglais.
 
 ```{r}

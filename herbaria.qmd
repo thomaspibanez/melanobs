@@ -2,6 +2,12 @@
 title: "Herbaria"
 ---
 
+Herbaria are collections of preserved plant specimens of great scientific, heritage and educational value. For centuries, they have underpinned our understanding of plants, and they have repeatedly proved their importance for people and societies.
+
+Herbarium specimens record which species occur where, and when. They are the basis for species checklists, distribution maps and extinction risk assessments (for example for the IUCN Red List), which are essential tools for biodiversity conservation planning.
+
+The herbaria of the region typically have strong links with large international herbaria, such as those of New York, Paris, Kew or Queensland, but fewer links with each other. MELANOBS aims to strengthen collaboration between the herbaria of the region, to help them fully play their role in documenting biodiversity and in providing tools for its management.
+
 ```{r}
 #| echo: false
 source("R/map.R")
