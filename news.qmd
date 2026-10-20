@@ -109,7 +109,7 @@ A team from UMR AMAP in New Caledonia set up a new 1-ha permanent forest plot in
 
 ### New permanent plot at Siloam, New Caledonia
 
-A team from UMR AMAP in New Caledonia, together with the Environment Department of the Loyalty Islands Province and with the great help of the local community, set up the first 1-ha MELANOBS permanent forest plot in New Caledonia at Siloam, on the island of Lifou. See the [Siloam plot page](plots/siloam.qmd).
+A team from UMR AMAP in New Caledonia, together with the Environment Department of the Loyalty Islands Province and with the help of locals, set up the first 1-ha MELANOBS permanent forest plot in New Caledonia at Siloam, on the island of Lifou. See the [Siloam plot page](plots/siloam.qmd).
 :::
 :::
 
