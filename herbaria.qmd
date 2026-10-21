@@ -1,6 +1,11 @@
 ---
 title: "Herbaria"
+lightbox: true
 ---
+
+::: {.side-photo}
+![Isotype specimen of *Geissois belema* (Cunoniaceae) held at the [Herbarium of New Caledonia](herbaria/nou.qmd) (NOU). This species, endemic to Art Island in the Belep Islands, New Caledonia, is assessed as Critically Endangered (CR).](images/geissois-belema-nou.jpg){fig-alt="Herbarium sheet with a dried branch, leaves and a red flower spike, a colour chart and the NOU label."}
+:::
 
 Herbaria are collections of preserved plant specimens of great scientific, heritage and educational value. For centuries, they have underpinned our understanding of plants, and they have repeatedly proved their importance for people and societies.
 

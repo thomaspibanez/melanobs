@@ -1,8 +1,13 @@
 ---
 title: "Herbiers"
+lightbox: true
 ---
 
 {{< include _nav.qmd >}}
+
+::: {.side-photo}
+![Isotype de *Geissois belema* (Cunoniaceae) conservé à l'[Herbier de Nouvelle-Calédonie](../herbaria/nou.qmd) (NOU). Cette espèce, endémique de l'île Art aux îles Belep (Nouvelle-Calédonie), est évaluée « en danger critique » (CR).](../images/geissois-belema-nou.jpg){fig-alt="Planche d'herbier avec un rameau sec, des feuilles et un épi de fleurs rouges, une charte de couleurs et l'étiquette NOU."}
+:::
 
 Les herbiers sont des collections de spécimens de plantes conservés, d'une grande valeur scientifique, patrimoniale et pédagogique. Depuis des siècles, ils fondent notre connaissance des plantes, et ils ont démontré à maintes reprises leur importance pour les sociétés humaines.
 
