@@ -11,7 +11,7 @@ Permanent forest plots are a fundamental tool for monitoring how forests functio
 
 The MELANOBS network is made up of permanent plots of 1 ha (100 m × 100 m). In each plot, every stem with a diameter at breast height (DBH, measured 1.3 m above the ground) of at least 10 cm is identified botanically, measured and mapped. This includes trees as well as palms, tree ferns, pandanus and other growth forms. Each individual carries a tag with a unique number, and the point of measurement is marked with paint so that every census measures the stem at exactly the same height.
 
-The network focuses on lowland tropical wet forest. Plot locations are chosen together with local partners, preferably in protected and accessible areas.
+The network focuses on lowland tropical wet forest. Plot locations are chosen together with local partners, preferably in protected and accessible areas. We are grateful to the customary landowners, local communities and protected-area managers who allow the plots to be established and monitored on their land.
 
 A voucher specimen of each species recorded in the plots has been collected and deposited in the [herbaria](herbaria.qmd) of the region. For each species, both the scientific name and the local vernacular names are recorded, so that the data also document local knowledge of the flora.
 
