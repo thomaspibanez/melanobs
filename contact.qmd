@@ -8,7 +8,7 @@ title: "Contacts"
 ![](images/thomas-ibanez.webp){fig-alt="Portrait of Thomas Ibanez in the forest."}
 :::
 
-MELANOBS is coordinated by **[Thomas Ibanez](https://scholar.google.com/citations?user=zlWMNqUAAAAJ)**, a research fellow at the [French National Research Institute for Sustainable Development](https://en.ird.fr) (IRD) and a member of the [AMAP lab](https://amaplab.fr). He is based in Nouméa, New Caledonia.
+MELANOBS is coordinated by **[Thomas Ibanez](https://scholar.google.com/citations?user=zlWMNqUAAAAJ)**, a research fellow at the [French National Research Institute for Sustainable Development](https://en.ird.fr) (IRD) and a member of the [AMAP lab](https://amaplab.fr). He is based in Nouméa, New Caledonia. The AMAP lab (botAny and Modeling of Plant Architecture and vegetation) is a joint research unit of CIRAD (French Agricultural Research Centre for International Development), CNRS (French National Centre for Scientific Research), INRAE (French National Research Institute for Agriculture, Food and Environment), IRD and the University of Montpellier.
 
 Thomas is a vegetation ecologist whose main interest is to understand how tree communities are shaped in tropical island forests and how they respond to global change. He works mostly in New Caledonia and across Melanesia. Within MELANOBS, he coordinates the regional network of partners and leads the permanent plots in New Caledonia.
 
