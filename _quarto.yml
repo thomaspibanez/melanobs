@@ -46,6 +46,10 @@ format:
   html:
     theme: [default, styles.scss]
     toc: false
+    # Private visit statistics (GoatCounter: no cookies, no personal data)
+    include-after-body:
+      text: |
+        <script data-goatcounter="https://melanobs.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
 execute:
   freeze: auto
