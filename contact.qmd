@@ -31,5 +31,6 @@ The curators of the [herbaria](herbaria.qmd) of the region are the best contacts
 ::: {.curator-table}
 | Country | Herbarium | Curator | Email |
 |---|---|---|---|
+| New Caledonia | [Herbarium of New Caledonia](herbaria/nou.qmd) (NOU), UMR AMAP, IRD | David Bruy | [david.bruy@ird.fr](mailto:david.bruy@ird.fr) |
 | Vanuatu | [Vanuatu National Herbarium](herbaria/pvnh.qmd) (PVNH), Department of Forestry | Thomas Doro | [tmdoro@vanuatu.gov.vu](mailto:tmdoro@vanuatu.gov.vu) |
 :::

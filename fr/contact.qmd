@@ -33,5 +33,6 @@ Les conservateurs des [herbiers](herbiers.qmd) de la région sont les meilleurs 
 ::: {.curator-table}
 | Pays | Herbier | Conservateur | Courriel |
 |---|---|---|---|
+| Nouvelle-Calédonie | [Herbier de Nouvelle-Calédonie](../herbaria/nou.qmd) (NOU), UMR AMAP, IRD | David Bruy | [david.bruy@ird.fr](mailto:david.bruy@ird.fr) |
 | Vanuatu | [Herbier national du Vanuatu](../herbaria/pvnh.qmd) (PVNH), département des Forêts | Thomas Doro | [tmdoro@vanuatu.gov.vu](mailto:tmdoro@vanuatu.gov.vu) |
 :::
