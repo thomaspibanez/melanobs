@@ -70,3 +70,6 @@ main .cell { clear: both; }
 @media (max-width: 575px) { .contact-photo { float: none; margin: 0 0 1rem; } }
 .quarto-figure:has(.wide-figure) { clear: both; margin-top: 1.5rem; }
 .quarto-figure:has(.wide-figure) figcaption { font-size: 0.85rem; line-height: 1.45; }
+.pi-table td, .curator-table td { white-space: nowrap; }
+.pi-table td:nth-child(3), .curator-table td:nth-child(2) { white-space: normal; }
+@media (max-width: 767px) { .pi-table td, .curator-table td { white-space: normal; overflow-wrap: anywhere; } }
