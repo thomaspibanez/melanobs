@@ -1,0 +1,17 @@
+---
+title: "Papua New Guinea National Herbarium"
+subtitle: "LAE · Lae, Papua New Guinea"
+---
+
+```{r}
+#| echo: false
+source("../R/map.R")
+melanobs_map("..", height = 380, focus = "lae", zoom = 12, show = "herbaria")
+herbarium_facts("lae")
+```
+
+## Description
+
+The Papua New Guinea National Herbarium (LAE) is located in Lae, Papua New Guinea. A full description of the herbarium and its collections will be added soon.
+
+[← All herbaria](../herbaria.qmd) · [Network map](../index.qmd)

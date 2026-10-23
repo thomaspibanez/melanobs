@@ -40,7 +40,13 @@ melanobs_map <- function(dir = ".", height = 520,
                      options = layersControlOptions(collapsed = FALSE)) |>
     addLegend("bottomleft", colors = c("#C98A1B", "#0E6B6F")[shown],
               labels = labels[shown], opacity = 1)
-  if (is.null(focus)) return(setView(m, lng = 168, lat = -15, zoom = 4))
+  if (is.null(focus)) {
+    # Zoom to fit all shown sites, whatever the screen size
+    pts <- rbind(if ("plots" %in% show) plots[, c("lon", "lat")],
+                 if ("herbaria" %in% show) herb[, c("lon", "lat")])
+    return(fitBounds(m, min(pts$lon), min(pts$lat), max(pts$lon), max(pts$lat),
+                     options = list(padding = c(30, 30))))
+  }
   item <- rbind(plots[plots$slug == focus, c("lon", "lat")],
                 herb[herb$slug == focus, c("lon", "lat")])
   if (nrow(item) != 1) stop("Unknown plot or herbarium: ", focus)
