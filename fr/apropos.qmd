@@ -45,6 +45,7 @@ MELANOBS réunit des partenaires aux profils variés : des organismes de recherc
 [![Endemia](../images/partners/endemia.png){.logo-xwide .no-lightbox}](https://endemia.nc)
 [![NatureFiji-MareqetiViti](../images/partners/naturefiji.jpg){.no-lightbox}](https://www.naturefiji.org)
 [![New Guinea Binatang Research Center](../images/partners/binatang.png){.logo-wide .no-lightbox}](https://www.ngbinatang.com)
+![PNG Forest Research Institute](../images/partners/png-fri.png){.logo-tall .no-lightbox}
 ![Solomon Islands Ministry of Forestry and Research](../images/partners/solomon-islands.png){.no-lightbox}
 [![Vanuatu Department of Forestry](../images/partners/vanuatu-forests.png){.no-lightbox}](https://malffb.gov.vu)
 ![Government of Vanuatu](../images/partners/vanuatu.jpg){.no-lightbox}

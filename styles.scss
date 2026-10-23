@@ -73,3 +73,4 @@ main .cell { clear: both; }
 .pi-table td, .curator-table td { white-space: nowrap; }
 .pi-table td:nth-child(3), .curator-table td:nth-child(2) { white-space: normal; }
 @media (max-width: 767px) { .pi-table td, .curator-table td { white-space: normal; overflow-wrap: anywhere; } }
+.partner-logos img.logo-tall { height: 90px; }
