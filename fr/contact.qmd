@@ -23,6 +23,7 @@ Chaque parcelle permanente est pilotée par un responsable local, qui est le mei
 ::: {.pi-table}
 | Pays | Nom | Fonction | Parcelle | Courriel |
 |---|---|---|---|---|
+| Îles Salomon | Eric Katovai | Professeur associé et vice-recteur aux affaires académiques, Université nationale des Îles Salomon | [Poitete](../plots/poitete.qmd) | [Eric.Katovai@sinu.edu.sb](mailto:Eric.Katovai@sinu.edu.sb) |
 | Vanuatu | Presley Dovo | Chargé de botanique et de conservation, département des Forêts | [Nusumetu](../plots/nusumetu.qmd) | [dovopres@gmail.com](mailto:dovopres@gmail.com) |
 :::
 

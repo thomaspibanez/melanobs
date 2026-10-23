@@ -21,6 +21,7 @@ Each permanent plot is led by a local principal investigator, who is the best co
 ::: {.pi-table}
 | Country | Name | Position | Plot | Email |
 |---|---|---|---|---|
+| Solomon Islands | Eric Katovai | Associate Professor & Pro Vice-Chancellor (Academic), Solomon Islands National University | [Poitete](plots/poitete.qmd) | [Eric.Katovai@sinu.edu.sb](mailto:Eric.Katovai@sinu.edu.sb) |
 | Vanuatu | Presley Dovo | Senior Officer for Botany & Conservation, Department of Forestry | [Nusumetu](plots/nusumetu.qmd) | [dovopres@gmail.com](mailto:dovopres@gmail.com) |
 :::
 
