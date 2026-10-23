@@ -12,6 +12,12 @@ herbarium_facts("lae")
 
 ## Description
 
-The Papua New Guinea National Herbarium (LAE) is located in Lae, Papua New Guinea. A full description of the herbarium and its collections will be added soon.
+The Papua New Guinea National Herbarium (LAE) was created in the late 1940s and is managed by the PNG Forest Research Institute in Lae. It holds about 200,000 specimens, mostly from Papua New Guinea.
+
+Digitisation of the specimens is not completed. Many new specimens are arriving from the ongoing national forest inventory, but the herbarium does not have enough staff to process them all.
+
+## Herbarium team
+
+Kipiro Damas and four permanent staff members.
 
 [← All herbaria](../herbaria.qmd) · [Network map](../index.qmd)
