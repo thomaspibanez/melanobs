@@ -18,7 +18,7 @@
     "href": "contact.html#local-principal-investigators",
     "title": "Contacts",
     "section": "Local principal investigators",
-    "text": "Local principal investigators\nEach permanent plot is led by a local principal investigator, who is the best contact for questions about the plot or the network in their country. Other contacts will be added as partners confirm.\n\n\n\n\nCountry\nName\nPosition\nPlot\nEmail\n\n\n\n\nVanuatu\nPresley Dovo\nSenior Officer for Botany & Conservation, Department of Forestry\nNusumetu\ndovopres@gmail.com"
+    "text": "Local principal investigators\nEach permanent plot is led by a local principal investigator, who is the best contact for questions about the plot or the network in their country. Other contacts will be added as partners confirm.\n\n\n\n\nCountry\nName\nPosition\nPlot\nEmail\n\n\n\n\nSolomon Islands\nEric Katovai\nAssociate Professor & Pro Vice-Chancellor (Academic), Solomon Islands National University\nPoitete\nEric.Katovai@sinu.edu.sb\n\n\nVanuatu\nPresley Dovo\nSenior Officer for Botany & Conservation, Department of Forestry\nNusumetu\ndovopres@gmail.com"
   },
   {
     "objectID": "contact.html#herbarium-curators",
@@ -60,7 +60,7 @@
     "href": "fr/contact.html#responsables-locaux",
     "title": "Contacts",
     "section": "Responsables locaux",
-    "text": "Responsables locaux\nChaque parcelle permanente est pilotée par un responsable local, qui est le meilleur contact pour toute question sur la parcelle ou sur le réseau dans son pays. Les autres contacts seront ajoutés au fur et à mesure des confirmations.\n\n\n\n\nPays\nNom\nFonction\nParcelle\nCourriel\n\n\n\n\nVanuatu\nPresley Dovo\nChargé de botanique et de conservation, département des Forêts\nNusumetu\ndovopres@gmail.com"
+    "text": "Responsables locaux\nChaque parcelle permanente est pilotée par un responsable local, qui est le meilleur contact pour toute question sur la parcelle ou sur le réseau dans son pays. Les autres contacts seront ajoutés au fur et à mesure des confirmations.\n\n\n\n\nPays\nNom\nFonction\nParcelle\nCourriel\n\n\n\n\nÎles Salomon\nEric Katovai\nProfesseur associé et vice-recteur aux affaires académiques, Université nationale des Îles Salomon\nPoitete\nEric.Katovai@sinu.edu.sb\n\n\nVanuatu\nPresley Dovo\nChargé de botanique et de conservation, département des Forêts\nNusumetu\ndovopres@gmail.com"
   },
   {
     "objectID": "fr/contact.html#conservateurs-des-herbiers",
@@ -235,14 +235,21 @@
     "href": "herbaria/lae.html",
     "title": "Papua New Guinea National Herbarium",
     "section": "",
-    "text": "Code\nLAE\n\n\nCity\nLae\n\n\nCountry\nPapua New Guinea\n\n\nLatitude\n-6.7199\n\n\nLongitude\n146.9995\n\n\nCurator\nKipiro Damas"
+    "text": "Code\nLAE\n\n\nCity\nLae\n\n\nCountry\nPapua New Guinea\n\n\nLatitude\n-6.7199\n\n\nLongitude\n146.9995\n\n\nCurator\nKipiro Damas (PNG Forest Research Institute)"
   },
   {
     "objectID": "herbaria/lae.html#description",
     "href": "herbaria/lae.html#description",
     "title": "Papua New Guinea National Herbarium",
     "section": "Description",
-    "text": "Description\nThe Papua New Guinea National Herbarium (LAE) is located in Lae, Papua New Guinea. A full description of the herbarium and its collections will be added soon.\n← All herbaria · Network map"
+    "text": "Description\nThe Papua New Guinea National Herbarium (LAE) was created in the late 1940s and is managed by the PNG Forest Research Institute in Lae. It holds about 200,000 specimens, mostly from Papua New Guinea.\nDigitisation of the specimens is not completed. Many new specimens are arriving from the ongoing national forest inventory, but the herbarium does not have enough staff to process them all."
+  },
+  {
+    "objectID": "herbaria/lae.html#herbarium-team",
+    "href": "herbaria/lae.html#herbarium-team",
+    "title": "Papua New Guinea National Herbarium",
+    "section": "Herbarium team",
+    "text": "Herbarium team\nKipiro Damas and four permanent staff members.\n← All herbaria · Network map"
   },
   {
     "objectID": "herbaria/nou.html",
@@ -277,7 +284,7 @@
     "href": "plots/poitete.html",
     "title": "Poitete",
     "section": "",
-    "text": "Country\nSolomon Islands\n\n\nIsland\nKolombangara\n\n\nLatitude\n-7.8849\n\n\nLongitude\n157.1271\n\n\nElevation (approx.)\n110 m\n\n\nSubstrate\nVolcanic\n\n\nEstablished\nMay 2025\n\n\nLocal principal investigator\nEric Katovai (Associate Professor & Pro Vice-Chancellor, Solomon Islands National University, Solomon Islands)"
+    "text": "Country\nSolomon Islands\n\n\nIsland\nKolombangara\n\n\nLatitude\n-7.8849\n\n\nLongitude\n157.1271\n\n\nElevation (approx.)\n110 m\n\n\nSubstrate\nVolcanic\n\n\nEstablished\nMay 2025\n\n\nLocal principal investigator\nEric Katovai (Associate Professor & Pro Vice-Chancellor (Academic), Solomon Islands National University, Solomon Islands)"
   },
   {
     "objectID": "plots/poitete.html#description",
