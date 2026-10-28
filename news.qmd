@@ -59,9 +59,9 @@ The MELANOBS team completed the first resurvey of the [Blue River Provincial Par
 ::: {.news-text}
 [December 2025]{.news-date}
 
-### First resurvey of the Siloam plot
+### First resurvey of the Cëzy plot
 
-The MELANOBS team completed the first resurvey of the [Siloam plot](plots/siloam.qmd), one year after it was set up. Trees grew very slowly.
+The MELANOBS team completed the first resurvey of the [Cëzy plot](plots/cezy.qmd), one year after it was set up. Trees grew very slowly.
 :::
 :::
 
@@ -107,9 +107,9 @@ The MELANOBS team set up a new 1-ha permanent forest plot in the Blue River Prov
 ::: {.news-text}
 [December 2024]{.news-date}
 
-### New permanent plot at Siloam, New Caledonia
+### New permanent plot at Cëzy, New Caledonia
 
-MELANOBS partners from the Environment Department of the Loyalty Islands Province and the AMAP lab, with the help of locals, set up the first 1-ha MELANOBS permanent forest plot in New Caledonia at Siloam, on the island of Lifou. See the [Siloam plot page](plots/siloam.qmd).
+MELANOBS partners from the Environment Department of the Loyalty Islands Province and the AMAP lab, with the help of locals, set up the first 1-ha MELANOBS permanent forest plot in New Caledonia at Cëzy, near the Siloam *tribu*, on the island of Lifou. See the [Cëzy plot page](plots/cezy.qmd).
 :::
 :::
 

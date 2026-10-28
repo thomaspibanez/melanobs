@@ -1,23 +1,23 @@
 ---
-title: "Siloam"
+title: "Cëzy"
 subtitle: "Permanent plot · Lifou, New Caledonia"
 ---
 
 ```{r}
 #| echo: false
 source("../R/map.R")
-melanobs_map("..", height = 380, focus = "siloam", show = "plots")
-plot_facts("siloam")
+melanobs_map("..", height = 380, focus = "cezy", show = "plots")
+plot_facts("cezy")
 ```
 
 ## Description
 
-The Siloam permanent plot lies on the land of the Siloam *tribu*, on uplifted coral limestone in the north of the island of Lifou. The plot was set up in December 2024 at about 60 m elevation and resurveyed in December 2025. The forest shows no obvious signs of recent disturbance.
+The Cëzy permanent plot is located a few kilometres north of the Siloam *tribu*, on uplifted coral limestone in the north of the island of Lifou. The plot was set up in December 2024 at about 60 m elevation and resurveyed in December 2025. The forest shows no obvious signs of recent disturbance.
 
 The most abundant tree species are *Aglaia elaeagnoidea* (Meliaceae), *Diospyros calciphila* (Ebenaceae) and *Alectryon carinatum* (Sapindaceae), locally known as *sö*, *xetr* and *cangen*, respectively. The largest tree is an *Elaeodendron curtipendulum* (Celastraceae), locally known as *thidraxep*, and the tallest is an *Aglaia elaeagnoidea*, reaching only about 20 m.
 
 ## Field team
 
-David Bruy, Julie Dibon, Nathan Eltabet, Patrick Heuret, Thomas Ibanez, Jean-Marie Ita, Ghislain Vieilledent, Eric and Alyster.
+David Bruy, Julie Dibon, Nathan Eltabet, Patrick Heuret, Thomas Ibanez, Jean-Marie Ita, Alyster Iwane, Ghislain Vieilledent and Héribert Walewene.
 
 [← All permanent plots](../plots.qmd) · [Network map](../index.qmd)
