@@ -12,7 +12,7 @@ herbarium_facts("nou")
 
 ## Description
 
-The [Herbarium of New Caledonia](http://publish.plantnet-project.org/project/nou) (NOU) is located at the French National Research Institute for Sustainable Development (IRD) centre in Nouméa and is managed by the AMAP lab. It was refurbished in 2024, almost doubling its floor area. It holds about 100,000 specimens representing about 7,000 species. Most specimens come from New Caledonia, but the collection also includes many specimens from Vanuatu and Wallis and Futuna, as well as some from Fiji and the Solomon Islands.
+The [Herbarium of New Caledonia](http://publish.plantnet-project.org/project/nou) (NOU) is located at the French National Research Institute for Sustainable Development (IRD) centre in Nouméa and is managed by the AMAP lab (Bruy 2023). It was refurbished in 2024, almost doubling its floor area. It holds more than 100,000 specimens representing about 7,000 species. Most specimens come from New Caledonia, but the collection also includes many specimens from Vanuatu and Wallis and Futuna, as well as some from Fiji and the Solomon Islands.
 
 All specimens are databased, digitised at high resolution and [available online](http://publish.plantnet-project.org/project/nou). The checklist of New Caledonian plant species is regularly updated through [Florical](http://publish.plantnet-project.org/project/florical_fr) (Morat et al. 2012).
 
@@ -20,7 +20,9 @@ All specimens are databased, digitised at high resolution and [available online]
 
 David Bruy, Nathan Eltabet, Jacqueline Fambart-Tinel and Emmanuelle Vanhalle.
 
-## Reference
+## References
+
+Bruy D (2023) The Herbarium of New Caledonia (NOU): 60 years at the service of science for development. *Botany Letters* 170: 468–478. [https://doi.org/10.1080/23818107.2022.2123855](https://doi.org/10.1080/23818107.2022.2123855)
 
 Morat P, Jaffré T, Tronchet F, Munzinger J, Pillon Y, Veillon J-M, Chalopin M, et al. (2012) Le référentiel taxonomique Florical et les caractéristiques de la flore vasculaire indigène de la Nouvelle-Calédonie. *Adansonia* 34: 179–221. [https://doi.org/10.5252/a2012n2a1](https://doi.org/10.5252/a2012n2a1)
 
