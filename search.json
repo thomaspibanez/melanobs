@@ -18,7 +18,7 @@
     "href": "herbaria/nou.html#description",
     "title": "Herbarium of New Caledonia",
     "section": "Description",
-    "text": "Description\nThe Herbarium of New Caledonia (NOU) is located at the French National Research Institute for Sustainable Development (IRD) centre in Nouméa and is managed by the AMAP lab. It was refurbished in 2024, almost doubling its floor area. It holds about 100,000 specimens representing about 7,000 species. Most specimens come from New Caledonia, but the collection also includes many specimens from Vanuatu and Wallis and Futuna, as well as some from Fiji and the Solomon Islands.\nAll specimens are databased, digitised at high resolution and available online. The checklist of New Caledonian plant species is regularly updated through Florical (Morat et al. 2012)."
+    "text": "Description\nThe Herbarium of New Caledonia (NOU) is located at the French National Research Institute for Sustainable Development (IRD) centre in Nouméa and is managed by the AMAP lab (Bruy 2023). It was refurbished in 2024, almost doubling its floor area. It holds more than 100,000 specimens representing about 7,000 species. Most specimens come from New Caledonia, but the collection also includes many specimens from Vanuatu and Wallis and Futuna, as well as some from Fiji and the Solomon Islands.\nAll specimens are databased, digitised at high resolution and available online. The checklist of New Caledonian plant species is regularly updated through Florical (Morat et al. 2012)."
   },
   {
     "objectID": "herbaria/nou.html#herbarium-team",
@@ -28,11 +28,11 @@
     "text": "Herbarium team\nDavid Bruy, Nathan Eltabet, Jacqueline Fambart-Tinel and Emmanuelle Vanhalle."
   },
   {
-    "objectID": "herbaria/nou.html#reference",
-    "href": "herbaria/nou.html#reference",
+    "objectID": "herbaria/nou.html#references",
+    "href": "herbaria/nou.html#references",
     "title": "Herbarium of New Caledonia",
-    "section": "Reference",
-    "text": "Reference\nMorat P, Jaffré T, Tronchet F, Munzinger J, Pillon Y, Veillon J-M, Chalopin M, et al. (2012) Le référentiel taxonomique Florical et les caractéristiques de la flore vasculaire indigène de la Nouvelle-Calédonie. Adansonia 34: 179–221. https://doi.org/10.5252/a2012n2a1\n← All herbaria · Network map"
+    "section": "References",
+    "text": "References\nBruy D (2023) The Herbarium of New Caledonia (NOU): 60 years at the service of science for development. Botany Letters 170: 468–478. https://doi.org/10.1080/23818107.2022.2123855\nMorat P, Jaffré T, Tronchet F, Munzinger J, Pillon Y, Veillon J-M, Chalopin M, et al. (2012) Le référentiel taxonomique Florical et les caractéristiques de la flore vasculaire indigène de la Nouvelle-Calédonie. Adansonia 34: 179–221. https://doi.org/10.5252/a2012n2a1\n← All herbaria · Network map"
   },
   {
     "objectID": "herbaria/lae.html",
