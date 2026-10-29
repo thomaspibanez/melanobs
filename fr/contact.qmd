@@ -34,6 +34,7 @@ Les conservateurs des [herbiers](herbiers.qmd) de la région sont les meilleurs 
 ::: {.curator-table}
 | Pays | Herbier | Conservateur | Courriel |
 |---|---|---|---|
+| Fidji | [Herbier régional du Pacifique Sud](../herbaria/suva.qmd) (SUVA), Centre for Sustainable Futures, université du Pacifique Sud | Marika Tuiwawa | [marika.tuiwawa@usp.ac.fj](mailto:marika.tuiwawa@usp.ac.fj)<br>[marikatuiwawa2@gmail.com](mailto:marikatuiwawa2@gmail.com) |
 | Nouvelle-Calédonie | [Herbier de Nouvelle-Calédonie](../herbaria/nou.qmd) (NOU), UMR AMAP, IRD | David Bruy | [david.bruy@ird.fr](mailto:david.bruy@ird.fr) |
 | Vanuatu | [Herbier national du Vanuatu](../herbaria/pvnh.qmd) (PVNH), département des Forêts | Thomas Doro | [tmdoro@vanuatu.gov.vu](mailto:tmdoro@vanuatu.gov.vu) |
 :::

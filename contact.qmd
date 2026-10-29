@@ -32,6 +32,7 @@ The curators of the [herbaria](herbaria.qmd) of the region are the best contacts
 ::: {.curator-table}
 | Country | Herbarium | Curator | Email |
 |---|---|---|---|
+| Fiji | [South Pacific Regional Herbarium](herbaria/suva.qmd) (SUVA), Centre for Sustainable Futures, University of the South Pacific | Marika Tuiwawa | [marika.tuiwawa@usp.ac.fj](mailto:marika.tuiwawa@usp.ac.fj)<br>[marikatuiwawa2@gmail.com](mailto:marikatuiwawa2@gmail.com) |
 | New Caledonia | [Herbarium of New Caledonia](herbaria/nou.qmd) (NOU), AMAP lab, IRD | David Bruy | [david.bruy@ird.fr](mailto:david.bruy@ird.fr) |
 | Vanuatu | [Vanuatu National Herbarium](herbaria/pvnh.qmd) (PVNH), Department of Forestry | Thomas Doro | [tmdoro@vanuatu.gov.vu](mailto:tmdoro@vanuatu.gov.vu) |
 :::
