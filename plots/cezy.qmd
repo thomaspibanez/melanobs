@@ -18,6 +18,6 @@ The most abundant tree species are *Aglaia elaeagnoidea* (Meliaceae), *Diospyros
 
 ## Field team
 
-David Bruy, Julie Dibon, Nathan Eltabet, Patrick Heuret, Thomas Ibanez, Jean-Marie Ita, Alyster Iwane, Ghislain Vieilledent and Héribert Walewene.
+David Bruy, Julie Dibon, Nathan Eltabet, Patrick Heuret, Thomas Ibanez, Jean-Marie Ita, Alyster Iwane, Ghislain Vieilledent and Eribert Walewene.
 
 [← All permanent plots](../plots.qmd) · [Network map](../index.qmd)
