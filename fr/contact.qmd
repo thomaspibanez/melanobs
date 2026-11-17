@@ -24,6 +24,7 @@ Chaque parcelle permanente est pilotée par un responsable local, qui est le mei
 | Pays | Nom | Fonction | Parcelle | Courriel |
 |---|---|---|---|---|
 | Îles Salomon | Eric Katovai | Professeur associé et vice-recteur aux affaires académiques, Université nationale des Îles Salomon | [Poitete](../plots/poitete.qmd) | [Eric.Katovai@sinu.edu.sb](mailto:Eric.Katovai@sinu.edu.sb) |
+| Papouasie-Nouvelle-Guinée | Pagi Toko | [New Guinea Binatang Research Center](https://www.ngbinatang.com) | Pas encore de parcelle | [pagi.sione@gmail.com](mailto:pagi.sione@gmail.com) |
 | Vanuatu | Presley Dovo | Chargé de botanique et de conservation, département des Forêts | [Nusumetu](../plots/nusumetu.qmd) | [dovopres@gmail.com](mailto:dovopres@gmail.com) |
 :::
 
